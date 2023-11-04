@@ -89,7 +89,7 @@ document.getElementById("screen8").style.display = "none"
 
 e.music = {};
 e.music.shuffleEnabled = false;
-e.music.Volume=0.5;
+e.music.Volume = 0.5;
 e.music.loopEnabled = false;
 
 quotes = [`“To choose Norm Coleman over Walter Mondale is like going to a great steakhouse and ordering a tuna sandwich.” — Garrison Keillor`, `“Walter Mondale once said God has no place in American politics and it turned out that God felt the same way about Walter Mondale.” — Argus Hamilton`, `“It is easy to criticize, particularly in a political season. But to lead is something altogether different.” — Norm Coleman`, `“It is intellectually dishonest to look backwards with all the facts and judge the decisions that were made with almost none of the facts.” — Norm Coleman`, `“Let us never forget that terrorism at its heart, at its evil heart, is a psychological war. It endeavors to break the spirit and the resolve of those it attacks.” — Norm Coleman`, `“I represent the Democratic wing of the Democratic Party.” — Paul Wellstone`, `“Politics is not about power. Politics is not about money. Politics is not about predictions. Politics is not about observations.” — Paul Wellstone`, `“Politics is what we do. Politics is what we create, by what we work for, by what we hope for, and by what we dare to imagine.” — Paul Wellstone`, `“Modern politics today requires a mastery of television. I've never really warmed up to television and, in fairness to television, it's never warmed up to me.” — Walter Mondale`, `“It’s time to stand up for decency and fairness and compassion and caring.” — Walter Mondale`, ]
@@ -145,7 +145,7 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
             timeSlider.id = "time-slider";
             var pausePlay = document.createElement("button");
             pausePlay.id = "position-display";
-            pausePlay.innerHTML = "<b>Pause</b>"
+            pausePlay.innerHTML = "<b>Play/Pause</b>"
             pausePlay.style.width = "100%";
             pausePlay.style.margin = "2px";
             pausePlay.addEventListener("click", event => {
@@ -154,11 +154,11 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
                 let audio = document.getElementById("campaigntrailmusic");
                 if (audio.paused) {
                     audio.play();
-                    event.target.innerHTML = "<b>Pause</b>";
+                    event.target.innerHTML = "<b>Play/Pause</b>";
                     return;
                 }
                 audio.pause();
-                event.target.innerHTML = "<b>Play</b>";
+                event.target.innerHTML = "<b>Play/Pause</b>";
                 return;
             })
             var shuffleButton = document.createElement("button");
@@ -224,7 +224,7 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
             volumeSlider.type = "range";
             volumeSlider.min = 0;
             volumeSlider.max = 1;
-            volumeSlider.step = 0.1;
+            volumeSlider.step = 0.0625;
             volumeSlider.value = 0;
             volumeSlider.style.width = "200px";
             volumeSlider.id = "volume-slider";
@@ -233,7 +233,7 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
             timeTracker.appendChild(pausePlay);
             if (audio.volume === 0) {
                 audio.pause();
-                pausePlay.innerHTML = "<b>Play</b>";  // Update the pause button text to "Play"
+                pausePlay.innerHTML = "<b>Play/Pause</b>";
             }
             timeTracker.appendChild(shuffleButton);
             var buttonContainer = document.createElement("div");
@@ -404,10 +404,38 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
             1: {
               name: "Orthodoxy",
               tracklist: [
-                 {
-                  "name": "WIP",
-                  "url": ""
-                 }
+                {
+                    "name": "Don't Stop — Fleetwood Mac",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0NTNf/x2mate.com%20-%20Fleetwood%20Mac%20-%20Don%27t%20Stop%20%28Official%20Music%20Video%29%20%5B4K%20Remaster%5D%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "You Ain't Seen Nothing Yet — Bachmann-Turner Overdrive",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0NzVf/x2mate.com%20-%20Bachman%20Turner%20Overdrive%20-%20You%20Ain%27t%20Seen%20Nothing%20Yet%201974%20Video%20Sound%20HQ%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "Disco Inferno — The Trammps",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0OTNf/x2mate.com%20-%20The%20Trammps%20-%20Disco%20Inferno%20%281976%29%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "I'm Still Standing — Elton John",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0NzNf/x2mate.com%20-%20Elton%20John%20-%20I%27m%20Still%20Standing%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "I Want It That Way — Backstreet Boys",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0OTJf/x2mate.com%20-%20Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way%20%28Official%20HD%20Video%29%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "The Power of Love — Huey Lewis and the News",
+                    "url": "https://od.lk/d/NDlfMzI4MjY1MDVf/x2mate.com%20-%20Huey%20Lewis%20%26%20The%20News%20-%20The%20Power%20Of%20Love%20%28Official%20Video%29%2C%20Full%20HD%20Digitally%20Remastered%20%26%20Upscaled%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "Closing Time — Semisonic",
+                    "url": "https://od.lk/d/NDlfMzI4MjY1MDRf/x2mate.com%20-%20Semisonic%20-%20Closing%20Time%20%28Official%20Music%20Video%29%20%28320%20kbps%29.mp3"
+                },
+                {
+                    "name": "American Pie — Don McLean",
+                    "url": "https://od.lk/d/NDlfMzI4MjY0NTRf/x2mate.com%20-%20Don%20McLean%20-%20American%20Pie%20%28Lyric%20Video%29%20%28320%20kbps%29.mp3"
+                }
             ]
                 },
         }
