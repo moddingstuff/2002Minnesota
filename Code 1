@@ -154,11 +154,11 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
                 let audio = document.getElementById("campaigntrailmusic");
                 if (audio.paused) {
                     audio.play();
-                    event.target.innerHTML = "<b>Play</b>";
+                    event.target.innerHTML = "<b>Pause</b>";
                     return;
                 }
                 audio.pause();
-                event.target.innerHTML = "<b>Pause</b>";
+                event.target.innerHTML = "<b>Play</b>";
                 return;
             })
             var shuffleButton = document.createElement("button");
@@ -455,3 +455,4 @@ corrr="\n<h2>The Minnesota Trail</h2><font id='wittyquote' size='4' color='white
 
         return array;
     }
+    
