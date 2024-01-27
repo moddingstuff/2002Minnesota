@@ -1787,7 +1787,7 @@ campaignTrail_temp.states_json = [
             "name": "Douglas",
             "abbr": "Douglas",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 15367,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1801,7 +1801,7 @@ campaignTrail_temp.states_json = [
             "name": "Fillmore",
             "abbr": "Fillmore",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 9394,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1815,7 +1815,7 @@ campaignTrail_temp.states_json = [
             "name": "Goodhue",
             "abbr": "Goodhue",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 20719,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1829,7 +1829,7 @@ campaignTrail_temp.states_json = [
             "name": "Freeborn",
             "abbr": "Freeborn",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 15806,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1843,7 +1843,7 @@ campaignTrail_temp.states_json = [
             "name": "Dodge",
             "abbr": "Dodge",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 8025,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1857,7 +1857,7 @@ campaignTrail_temp.states_json = [
             "name": "Jackson",
             "abbr": "Jackson",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 5097,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1871,7 +1871,7 @@ campaignTrail_temp.states_json = [
             "name": "Pine",
             "abbr": "Pine",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 11381,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1885,7 +1885,7 @@ campaignTrail_temp.states_json = [
             "name": "Sibley",
             "abbr": "Sibley",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 7084,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1899,7 +1899,7 @@ campaignTrail_temp.states_json = [
             "name": "Benton",
             "abbr": "Benton",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 13579,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1913,7 +1913,7 @@ campaignTrail_temp.states_json = [
             "name": "Hubbard",
             "abbr": "Hubbard",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 9086,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1927,7 +1927,7 @@ campaignTrail_temp.states_json = [
             "name": "Nobles",
             "abbr": "Nobles",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 8483,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1941,7 +1941,7 @@ campaignTrail_temp.states_json = [
             "name": "Stevens",
             "abbr": "Stevens",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 5362,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1955,7 +1955,7 @@ campaignTrail_temp.states_json = [
             "name": "Chisago",
             "abbr": "Chisago",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 21915,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1969,7 +1969,7 @@ campaignTrail_temp.states_json = [
             "name": "Le Sueur",
             "abbr": "LS",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 11943,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1983,7 +1983,7 @@ campaignTrail_temp.states_json = [
             "name": "Otter Tail",
             "abbr": "OT",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 26361,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -1997,7 +1997,7 @@ campaignTrail_temp.states_json = [
             "name": "Watonwan",
             "abbr": "Watonwan",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 4991,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2011,7 +2011,7 @@ campaignTrail_temp.states_json = [
             "name": "Dakota",
             "abbr": "Dakota",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 168798,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2025,7 +2025,7 @@ campaignTrail_temp.states_json = [
             "name": "Anoka",
             "abbr": "Anoka",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 139574,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2039,7 +2039,7 @@ campaignTrail_temp.states_json = [
             "name": "Itasca",
             "abbr": "Itasca",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 19715,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2053,7 +2053,7 @@ campaignTrail_temp.states_json = [
             "name": "Waseca",
             "abbr": "Waseca",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 8542,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2067,7 +2067,7 @@ campaignTrail_temp.states_json = [
             "name": "Nicollet",
             "abbr": "Nicollet",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 14321,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2081,7 +2081,7 @@ campaignTrail_temp.states_json = [
             "name": "Yellow Medicine",
             "abbr": "YM",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 4857,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2095,7 +2095,7 @@ campaignTrail_temp.states_json = [
             "name": "Kandiyohi",
             "abbr": "Kandiyohi",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 18150,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
@@ -2109,7 +2109,7 @@ campaignTrail_temp.states_json = [
             "name": "Stearns",
             "abbr": "Stearns",
             "electoral_votes": 1,
-            "popular_votes": 10,
+            "popular_votes": 57643,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 20
