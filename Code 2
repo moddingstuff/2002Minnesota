@@ -218,15 +218,6 @@ campaignTrail_temp.questions_json = [
             "description": "Trade has become a major issue in recent years. A core accomplishment of the Clinton presidency was the North American Free Trade Agreement, which created a trilateral trade bloc between the United States, Canada, and Mexico. You’ve expressed staunch opposition to this trade agreement, as well as a variety of others. Care to clarify your stance?",
             "likelihood": 1
         }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000413,
-        "fields": {
-            "priority": 0,
-            "description": "You have been invited to the funeral of Martin Rukavina, the father of DFL State Representative Tom Rukavina. The event is being held in Eveleth, Minnesota. On the other hand, Walter Mondale and Ted Kennedy are holding a fundraiser in Minneapolis on the same day in support of your campaign, and expect you to be there. Which event will you go to?",
-            "likelihood": 1
-        }
     }
 ]
 
@@ -885,22 +876,6 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 10000392,
             "description": "We need to keep the focus on Coleman. Run attack ads, especially in the Iron Range, about his support for schemes like NAFTA, which enrich multinational corporations by shipping jobs overseas. His policies will benefit the privileged few while selling working families down the river."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 10000414,
-        "fields": {
-            "question": 10000413,
-            "description": "The funeral. It is the right thing to do, for a friend of mine."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 10000415,
-        "fields": {
-            "question": 10000413,
-            "description": "The fundraiser. This election is too close for comfort. \n"
         }
     }
 ]
@@ -10399,17 +10374,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000192,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.01
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 10000199,
-        "fields": {
-            "answer": 10000193,
-            "candidate": 200,
-            "affected_candidate": 200,
-            "global_multiplier": 0.01
+            "global_multiplier": -0.03
         }
     },
     {
@@ -10419,7 +10384,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000194,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": 0.01
+            "global_multiplier": -0.01
         }
     },
     {
@@ -10479,7 +10444,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000238,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.01
+            "global_multiplier": -0.035
         }
     },
     {
@@ -10489,7 +10454,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000239,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.01
+            "global_multiplier": -0.04
         }
     },
     {
@@ -10499,7 +10464,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000240,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.01
+            "global_multiplier": -0.045
         }
     },
     {
@@ -10509,7 +10474,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000241,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.02
+            "global_multiplier": -0.05
         }
     },
     {
@@ -10619,7 +10584,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000321,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.03
+            "global_multiplier": -0.04
         }
     },
     {
@@ -10629,7 +10594,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000322,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.06
+            "global_multiplier": -0.08
         }
     },
     {
@@ -10639,7 +10604,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000323,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.09
+            "global_multiplier": -0.12
         }
     },
     {
@@ -10649,7 +10614,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000333,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.09
+            "global_multiplier": -0.12
         }
     },
     {
@@ -10659,7 +10624,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000334,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.06
+            "global_multiplier": -0.08
         }
     },
     {
@@ -10669,7 +10634,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000335,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.03
+            "global_multiplier": -0.04
         }
     },
     {
@@ -10810,26 +10775,6 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 200,
             "affected_candidate": 201,
             "global_multiplier": -0.005
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 10000418,
-        "fields": {
-            "answer": 10000414,
-            "candidate": 200,
-            "affected_candidate": 200,
-            "global_multiplier": 0.1
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 10000419,
-        "fields": {
-            "answer": 10000414,
-            "candidate": 200,
-            "affected_candidate": 201,
-            "global_multiplier": -0.1
         }
     }
 ]
@@ -12084,17 +12029,6 @@ campaignTrail_temp.answer_score_state_json = [
             "affected_candidate": 200,
             "state_multiplier": 0.1
         }
-    },
-    {
-        "model": "campaign_trail.answer_score_state",
-        "pk": 10000420,
-        "fields": {
-            "answer": 10000415,
-            "state": 20674,
-            "candidate": 200,
-            "affected_candidate": 200,
-            "state_multiplier": 0.01
-        }
     }
 ]
 
@@ -12402,7 +12336,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000193,
             "candidate": 200,
-            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if some are skeptical of standardized testing. Your promise to fight for federal funding for Minnesota’s schools also helps you stay in the good graces of Education Minnesota."
+            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if any criticism of No Child Left Behind will raise eyebrows with swing voters. Nonetheless, your promise to fight for federal funding for Minnesota’s schools also helps you stay in the good graces of Education Minnesota.\n"
         }
     },
     {
@@ -12690,7 +12624,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000333,
             "candidate": 200,
-            "answer_feedback": "Look, off the record, I agree with you, but you can’t go around saying this shit outright — especially not in this environment."
+            "answer_feedback": "You have just confirmed every Republican attack on you on this issue to be completely accurate — and you will have to bear the stark political consequence. Speaking of which, have you gotten your concession speech ready yet? You’ll probably need it.\n"
         }
     },
     {
@@ -12835,24 +12769,6 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 10000396,
             "candidate": 200,
             "answer_feedback": "This is a biting attack in industrial, working-class areas, which gets tons of airtime thanks to the low cost of paid media there — just make sure not to overdo it in more urbanized, middle-class media markets.\n"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 10000416,
-        "fields": {
-            "answer": 10000415,
-            "candidate": 200,
-            "answer_feedback": "Tom Rukavina is disappointed, but he understands — you’re caught in a tough race here. After the fundraiser, you hop on a flight to Duluth…"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 10000417,
-        "fields": {
-            "answer": 10000414,
-            "candidate": 200,
-            "answer_feedback": "Mondale and Kennedy understand. You know this was the morally right thing to do, but as you board that plane routed to Eveleth, you get a feeling in your gut that something is <i>not</i> right…\n"
         }
     }
 ]
