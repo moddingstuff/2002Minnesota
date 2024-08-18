@@ -973,7 +973,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000323,
         "fields": {
             "question": 10000282,
-            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we’ve already done that in Vietnam, Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law and human rights at every turn."
+            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we’ve already done that in Vietnam, in Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law and human rights at every turn."
         }
     },
     {
@@ -11384,7 +11384,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000321,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.06
+            "global_multiplier": -0.04
         }
     },
     {
@@ -11394,7 +11394,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000322,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.09
+            "global_multiplier": -0.08
         }
     },
     {
@@ -11424,7 +11424,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000334,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.09
+            "global_multiplier": -0.08
         }
     },
     {
@@ -11434,7 +11434,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10000335,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": -0.06
+            "global_multiplier": -0.04
         }
     },
     {
@@ -12104,7 +12104,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 10001146,
             "candidate": 200,
             "affected_candidate": 200,
-            "global_multiplier": 0
+            "global_multiplier": -0.03
         }
     },
     {
@@ -13255,7 +13255,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 10001160,
         "fields": {
             "answer": 10001155,
-            "issue": "100",
+            "issue": 100,
             "issue_score": 0.8,
             "issue_importance": 0.5
         }
@@ -16845,7 +16845,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000240,
             "candidate": 200,
-            "answer_feedback": "Highlighting bipartisanship — and occasions where Bush has praised your contributions — will dampen criticism from the Right, though the troops are disappointed by your triangulation.\n"
+            "answer_feedback": "Highlighting bipartisanship—and occasions where Bush has praised your contributions—will dampen criticism from the Right, though the troops are disappointed by your triangulation.\n"
         }
     },
     {
@@ -16872,7 +16872,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000256,
             "candidate": 200,
-            "answer_feedback": "If there’s one thing everyone hates, it’s tax breaks for the rich. A new ad hammers on Coleman’s proposed giveaways to large corporations—and Norm seems to dodge the question when he’s asked about it at a debate, ranting about your hypocrisy on ‘sham third-party ads’ instead."
+            "answer_feedback": "If there’s one thing everyone hates, it’s tax breaks for the rich. A new ad hammers on Coleman’s proposed giveaways to large corporations—and Norm seems to dodge the question when he’s asked about it at a debate, ranting about your so-called hypocrisy on ‘sham third-party ads’ instead."
         }
     },
     {
@@ -16917,7 +16917,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000270,
             "candidate": 200,
-            "answer_feedback": "This could deflate Twin Cities liberals — who killed Perpich in 1990 — but keeps the Iron Range in line. Striking a delicate balance is difficult, but if you manage to unite the DFL coalition, your election is assured."
+            "answer_feedback": "This could deflate Twin Cities liberals—who killed Perpich in 1990—but keeps the Iron Range in line. Striking a delicate balance is difficult, but if you manage to unite the DFL coalition, your election is assured."
         }
     },
     {
@@ -17858,3 +17858,4 @@ campaignTrail_temp.jet_data = [{
     "cyoa_data": {}
 }
 ]
+
