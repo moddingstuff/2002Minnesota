@@ -17868,3 +17868,18 @@ campaignTrail_temp.jet_data = [{
 }
 ]
 
+e = campaignTrail_temp;
+campaignTrail_temp.cyoa = true
+
+cyoAdventure = function (a) {
+  ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
+
+if(ans == 10000587){
+    campaignTrail_temp.global_parameter_json[0].fields["question_count"] = 40
+    campaignTrail_temp.candidate_json[1]["fields"].first_name = "Walter";
+    campaignTrail_temp.candidate_json[1]["fields"].last_name = "Mondale";
+    campaignTrail_temp.candidate_image_url = "https://i.imgur.com/H3mfTRy.png";
+    campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/AwKSgqc.jpeg";
+    campaignTrail_temp.candidate_last_name = "Mondale";
+}
+}
