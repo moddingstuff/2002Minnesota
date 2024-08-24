@@ -1,11 +1,7 @@
             nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#1a8352";
 
             nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#2e9766";
-
-            document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
-
-            $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
-
+            
             $(".container")[0].style.backgroundColor = "#42ab7a";
             
 // Generated mapping code
@@ -11921,8 +11917,8 @@ campaignTrail_temp.answer_score_global_json = [
         "pk": 10000958,
         "fields": {
             "answer": 10000954,
-            "candidate": 201,
-            "affected_candidate": 200,
+            "candidate": 200,
+            "affected_candidate": 201,
             "global_multiplier": 0.04
         }
     },
@@ -11991,8 +11987,8 @@ campaignTrail_temp.answer_score_global_json = [
         "pk": 10000999,
         "fields": {
             "answer": 10000991,
-            "candidate": 201,
-            "affected_candidate": 200,
+            "candidate": 200,
+            "affected_candidate": 201,
             "global_multiplier": 0.02
         }
     },
@@ -12274,7 +12270,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 10000142,
         "fields": {
             "answer": 10000130,
-            "issue": 100,
+            "issue": 103,
             "issue_score": 0.2,
             "issue_importance": 3
         }
@@ -16665,7 +16661,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000153,
             "candidate": 200,
-            "answer_feedback": "Targeting the Republicans on the ANWR is an excellent strategy, given how unpopular their plan is —even if Coleman is quick to declare that he is opposed to it."
+            "answer_feedback": "Targeting the Republicans on the ANWR is an excellent strategy, given how unpopular their plan is—even if Coleman is quick to declare that he is opposed to it."
         }
     },
     {
@@ -16728,7 +16724,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000179,
             "candidate": 200,
-            "answer_feedback": "Even though your efforts to control prescription drug prices have, for now, ended in abject failure, these ideas have broad bipartisan support. "
+            "answer_feedback": "Even though your efforts to control prescription drug prices have hitherto ended in abject failure, these ideas have broad bipartisan support. "
         }
     },
     {
@@ -17142,7 +17138,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000381,
             "candidate": 200,
-            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don’t like “corporate farming interests”, at least rhetorically. On the other hand, this will push said corporate farming interests to fund Coleman.\n"
+            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don’t like “corporate farming interests”, at least rhetorically. On the other hand, this will push said corporate farming interests to fund Coleman."
         }
     },
     {
@@ -17214,7 +17210,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000764,
             "candidate": 200,
-            "answer_feedback": "With your refusal to actively provoke clashes and throw barbs at your opponent, Coleman’s able to gain the upper hand by emphasizing your Iraq vote as a matter of “poor judgment”, while dodging questions on more unfavorable issues like Social Security.\n"
+            "answer_feedback": "With your refusal to actively provoke clashes and throw barbs at your opponent, Coleman’s able to gain the upper hand by emphasizing your Iraq vote as a matter of “poor judgment”, while dodging questions on more unfavorable issues like Social Security."
         }
     },
     {
@@ -17448,7 +17444,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000900,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>To thousands of cheering DFLers, you condemn Coleman, the GOP, and the vested interests on the Hill. The rally attracts substantial press coverage, once again diverting public attention towards the Bin Laden ad—which can only be good for you. The lies that have been spread about your record—one of the many things that can grind your gears—have reminded you, once again, why your work is so important. Why this race is so important. </div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>To thousands of cheering DFLers, you condemn Coleman, the GOP, and the vested interests on the Hill. The rally attracts substantial press coverage, once again diverting public attention towards the Bin Laden ad—which can only be good for you. The lies that have been spread about your record—one of the many things that can grind your gears—have reminded you, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17799,7 +17795,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000916,
             "candidate": 200,
-            "answer_feedback": "We... we have no words."
+            "answer_feedback": "We... we have no words. He was a great man, Fritz."
         }
     },
     {
@@ -17876,13 +17872,15 @@ cyoAdventure = function (a) {
 
 if(ans == 10000587){
     campaignTrail_temp.global_parameter_json[0].fields["question_count"] = 40
-    campaignTrail_temp.candidate_json[1]["fields"].first_name = "Walter";
-    campaignTrail_temp.candidate_json[1]["fields"].last_name = "Mondale";
+    campaignTrail_temp.candidate_json[0]["fields"].first_name = "Walter";
+    campaignTrail_temp.candidate_json[0]["fields"].last_name = "Mondale";
     campaignTrail_temp.candidate_image_url = "https://i.imgur.com/H3mfTRy.png";
     campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/AwKSgqc.jpeg";
     campaignTrail_temp.candidate_last_name = "Mondale";
-    campaignTrail_temp.cyoa = true;
-    campaignTrail_temp.questions_json[26] = {
+    nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#6e95c5";
+    nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#ffffff";
+    $(".container")[0].style.backgroundColor = "#ff7da6";
+    campaignTrail_temp.questions_json[25] = {
         "model": "campaign_trail.question",
         "pk": 10000915,
         "fields": {
@@ -17891,7 +17889,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[27] = {
+    campaignTrail_temp.questions_json[26] = {
         "model": "campaign_trail.question",
         "pk": 10000917,
         "fields": {
@@ -17900,7 +17898,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[28] = {
+    campaignTrail_temp.questions_json[27] = {
         "model": "campaign_trail.question",
         "pk": 10000926,
         "fields": {
@@ -17909,7 +17907,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[29] = {
+    campaignTrail_temp.questions_json[28] = {
         "model": "campaign_trail.question",
         "pk": 10000928,
         "fields": {
@@ -17918,7 +17916,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[30] = {
+    campaignTrail_temp.questions_json[29] = {
         "model": "campaign_trail.question",
         "pk": 10000939,
         "fields": {
@@ -17927,7 +17925,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[31] = {
+    campaignTrail_temp.questions_json[30] = {
         "model": "campaign_trail.question",
         "pk": 10000949,
         "fields": {
@@ -17936,7 +17934,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[32] = {
+    campaignTrail_temp.questions_json[31] = {
         "model": "campaign_trail.question",
         "pk": 10000963,
         "fields": {
@@ -17945,7 +17943,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[33] = {
+    campaignTrail_temp.questions_json[32] = {
         "model": "campaign_trail.question",
         "pk": 10000975,
         "fields": {
@@ -17954,7 +17952,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[34] = {
+    campaignTrail_temp.questions_json[33] = {
         "model": "campaign_trail.question",
         "pk": 10000987,
         "fields": {
@@ -17963,7 +17961,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[35] = {
+    campaignTrail_temp.questions_json[34] = {
         "model": "campaign_trail.question",
         "pk": 10001000,
         "fields": {
@@ -17972,7 +17970,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[36] = {
+    campaignTrail_temp.questions_json[35] = {
         "model": "campaign_trail.question",
         "pk": 10001081,
         "fields": {
@@ -17981,7 +17979,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[37] = {
+    campaignTrail_temp.questions_json[36] = {
         "model": "campaign_trail.question",
         "pk": 10001117,
         "fields": {
@@ -17990,7 +17988,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[38] = {
+    campaignTrail_temp.questions_json[37] = {
         "model": "campaign_trail.question",
         "pk": 10001126,
         "fields": {
@@ -17999,7 +17997,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[39] = {
+    campaignTrail_temp.questions_json[38] = {
         "model": "campaign_trail.question",
         "pk": 10001139,
         "fields": {
@@ -18008,7 +18006,7 @@ if(ans == 10000587){
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[40] = {
+    campaignTrail_temp.questions_json[39] = {
         "model": "campaign_trail.question",
         "pk": 10001154,
         "fields": {
