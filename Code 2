@@ -806,7 +806,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000238,
         "fields": {
             "question": 10000236,
-            "description": "The prospect that this race will turn into a referendum on Bush is not a good one for our campaign. We will avoid any mention of him, and campaign more-or-less as if he does not exist.\n"
+            "description": "The prospect that this race will turn into a referendum on Bush is not a good one for our campaign. We will avoid any mention of him, and campaign more-or-less as if he does not exist."
         }
     },
     {
@@ -1014,7 +1014,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000346,
         "fields": {
             "question": 10000316,
-            "description": "I really want a good showing for our campaign at this year’s State Fair in Falcon Heights. We’ll set up a great booth, release “Behind The Bus”, the comprehensive Wellstone CD, and I’ll personally shake hands with and hear out the concerns of as many voters as possible. "
+            "description": "I really want a good showing for our campaign at this year’s State Fair in Falcon Heights. We’ll set up a great booth, release “Behind The Bus”, the comprehensive Wellstone CD, and I’ll personally shake hands with and hear out the concerns of as many voters as possible."
         }
     },
     {
@@ -1022,7 +1022,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000347,
         "fields": {
             "question": 10000316,
-            "description": "I understand my vote for the Defense of Marriage Act has been incredibly disappointing to my friends in the GLBT community, and I want to win back their trust. I will ride along with the Human Rights Campaign in the Pride Parade in Minneapolis. It’s time for us to move forward.\n"
+            "description": "I understand my vote for the Defense of Marriage Act has been incredibly disappointing to my friends in the GLBT community, and I want to win back their trust. I will ride along with the Human Rights Campaign in the Pride Parade in Minneapolis. It’s time for us to move forward."
         }
     },
     {
@@ -1062,7 +1062,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000369,
         "fields": {
             "question": 10000332,
-            "description": "If a baseball player were to lean over and hand the umpire a wad of bills before he calls the pitch, we’d call it a bribe. But when a real estate developer buys his way into the White House and gets a favorable government ruling that wouldn’t be available to the rest of us, or when the tobacco industry stuffs $13 million in the pockets of Hastert, Lott, and their band of merry looters, what do we call that? A “campaign contribution.”\n"
+            "description": "If a baseball player were to lean over and hand the umpire a wad of bills before he calls the pitch, we’d call it a bribe. But when a real estate developer buys his way into the White House and gets a favorable government ruling that wouldn’t be available to the rest of us, or when the tobacco industry stuffs $13 million in the pockets of Hastert, Lott, and their band of merry looters, what do we call that? A “campaign contribution.”"
         }
     },
     {
@@ -17881,5 +17881,141 @@ if(ans == 10000587){
     campaignTrail_temp.candidate_image_url = "https://i.imgur.com/H3mfTRy.png";
     campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/AwKSgqc.jpeg";
     campaignTrail_temp.candidate_last_name = "Mondale";
-}
+    campaignTrail_temp.cyoa = true;
+    campaignTrail_temp.questions_json[26] = {
+        "model": "campaign_trail.question",
+        "pk": 10000915,
+        "fields": {
+            "priority": 0,
+            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something’s happened,” he says. “We’ve been told that Paul’s plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at Tuskegee University. A few hours later, surrounded by dozens of volunteers, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[27] = {
+        "model": "campaign_trail.question",
+        "pk": 10000917,
+        "fields": {
+            "priority": 0,
+            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich and Dick Morris go on national television to bash you, as you've allowed the DFL to leak to the press that you are \"highly likely\" to run to succeed Wellstone. How will you react to this?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[28] = {
+        "model": "campaign_trail.question",
+        "pk": 10000926,
+        "fields": {
+            "priority": 0,
+            "description": "Paul’s children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. They have no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Are you going to bite the bullet?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[29] = {
+        "model": "campaign_trail.question",
+        "pk": 10000928,
+        "fields": {
+            "priority": 0,
+            "description": "Now that you’re confirmed as the DFL candidate, you have some time during the moratorium to get ready for the campaign ahead of you. Not much time, though—MNGOP chair Ron Eibensteiner says Republicans will formally resume their campaigns with “full vigor” come Wednesday. In the meantime, what will you do to prepare?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[30] = {
+        "model": "campaign_trail.question",
+        "pk": 10000939,
+        "fields": {
+            "priority": 0,
+            "description": "Paul’s two surviving children have hurriedly planned a memorial service for their father in Williams Arena, which you, of course, attend. This service, however, was dotted with political advocacy from start to finish. Many cheered for the arrival of President Clinton, and jeered for the arrival of Majority Leader Lott. A giant beach ball was tossed around the stadium. Rick Kahn, a longtime friend of Wellstone’s and treasurer of some of his campaigns, goes as far as to challenge the Republican Senators in the room to back you, and exclaims repeatedly “We are going to win this election for Paul Wellstone!” Governor Jesse Ventura, at that point, walks out, disgusted.",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[31] = {
+        "model": "campaign_trail.question",
+        "pk": 10000949,
+        "fields": {
+            "priority": 0,
+            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates fanning the flames. How will you respond to this outrage?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[32] = {
+        "model": "campaign_trail.question",
+        "pk": 10000963,
+        "fields": {
+            "priority": 0,
+            "description": "Despite your response, it seems this race is closer than anyone else thought it would’ve been—your lead has all but evaporated overnight. You can’t take this for granted anymore. As campaigning restarts, what core message will you present to the voters in the final days of the campaign? ",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[33] = {
+        "model": "campaign_trail.question",
+        "pk": 10000975,
+        "fields": {
+            "priority": 0,
+            "description": "On the other side of the aisle, Coleman has decided to make this campaign all about “the future” and is opting to avoid negative rhetoric. Meanwhile, Republican surrogates continue to bash the DFL on the memorial service, with Vin Weber calling it a “sham” and a GOP up-and-comer named Kellyanne Conway claiming the crowd was “told when to cheer and when to jeer.” They have also pushed a misleading claim that you chaired a commission that called for Social Security privatization. How will you react to this?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[34] = {
+        "model": "campaign_trail.question",
+        "pk": 10000987,
+        "fields": {
+            "priority": 0,
+            "description": "Even with just a few days left in the election, every vote counts, and you’re gonna fight for every single one. As over two million dollars in funding flow in from Democratic donors across all fifty states shocked by Wellstone’s passing and outraged at Republicans’ response to the memorial service, what will you spend your massive surplus of campaign funding on?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[35] = {
+        "model": "campaign_trail.question",
+        "pk": 10001000,
+        "fields": {
+            "priority": 0,
+            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this, running an ad expressing sorrow for Wellstone’s death. What will your marketing campaign focus on?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[36] = {
+        "model": "campaign_trail.question",
+        "pk": 10001081,
+        "fields": {
+            "priority": 0,
+            "description": "As the campaign restarts, your campaign has planned a stumping tour of Minnesota, to meet with as many voters as possible before Election Day. You don’t have much time, and Minnesota’s a big state, so you’ve got to be selective with where you visit. Where will you next stop?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[37] = {
+        "model": "campaign_trail.question",
+        "pk": 10001117,
+        "fields": {
+            "priority": 0,
+            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[38] = {
+        "model": "campaign_trail.question",
+        "pk": 10001126,
+        "fields": {
+            "priority": 0,
+            "description": "It’s the day before the election. Minnesota Public Radio and KARE have organized a final one-on-one debate between you and Coleman in Minneapolis, to ensure that voters have at least something to take away from this bewildering and dramatic race…",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[39] = {
+        "model": "campaign_trail.question",
+        "pk": 10001139,
+        "fields": {
+            "priority": 0,
+            "description": "…but it seems that Governor Ventura’s surprise press conference has dominated the news cycle instead. During this appearance, Ventura announced that he would be nominating MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone’s passing. He claimed he changed his mind from leaving the seat empty out of disgust from Wellstone’s “politicized” memorial service. The event was filled with the usual barbs towards the two-party system that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual.",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[40] = {
+        "model": "campaign_trail.question",
+        "pk": 10001154,
+        "fields": {
+            "priority": 0,
+            "description": "Following the debate and that rather unusual press conference, you are getting right back on The Campaign Trail. Coleman has already embarked upon an 18-hour bus tour. Where will you visit in the crucial final hours of this race?",
+            "likelihood": 1
+        }
+    }
+    }
 }
