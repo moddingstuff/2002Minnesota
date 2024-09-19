@@ -1,3 +1,5 @@
+e = campaignTrail_temp;
+
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#1a8352";
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#2e9766";
 document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
@@ -103,7 +105,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000204,
         "fields": {
             "priority": 0,
-            "description": "Your strength as a legislator comes not from sway with your colleagues, but from your skill on the bully pulpit. You’ve managed to bring issues to the forefront through your oratory—which would you like to offer a platform this year?\n",
+            "description": "Your strength as a legislator comes not from sway with your colleagues, but from your skill on the bully pulpit. You’ve managed to bring issues to the forefront through your oratory—which would you like to offer a platform this year?",
             "likelihood": 1
         }
     },
@@ -121,7 +123,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000236,
         "fields": {
             "priority": 0,
-            "description": "There is a specter haunting this year’s midterms—the specter of President Bush. His popularity may be the one thing keeping the incumbent Republicans afloat this midterm year. Your opponent’s case seems to be largely built upon the idea that a Senator Coleman will have a smoother relationship with the White House and hence will get more done. How will you address the incumbent President this campaign?",
+            "description": "A specter is haunting this year’s midterms—the specter of President Bush. His personal popularity may be the one thing keeping the incumbent Republicans afloat this midterm year. Your opponent’s case seems to be largely built upon the conception that a Senator Coleman will have a smoother relationship with the White House and consequently will be a more effective advocate for preferential policies and federal appropriations for Minnesotan industries. How will you address the incumbent President this campaign?",
             "likelihood": 1
         }
     },
@@ -130,7 +132,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000237,
         "fields": {
             "priority": 0,
-            "description": "Republican television ads are growing increasingly negative. One of them hit you on for voting to “devastate our military”, more hit you for your vote against the Bush tax cuts, and one even shows the Chinese Communist flag over your forehead. How will you counter Coleman’s smears this fall?\n",
+            "description": "Republican television ads are growing increasingly negative. One of them hit you on for voting to “devastate our military”, more hit you for your vote against the Bush tax cuts, and one even shows the Chinese Communist flag over your forehead. How will you counter Coleman’s smears this fall?",
             "likelihood": 1
         }
     },
@@ -139,7 +141,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000267,
         "fields": {
             "priority": 0,
-            "description": "The DFL coalition, which has won the party many statewide elections, consists on one end of socially liberal urban voters in Minneapolis and Saint Paul, and on the other economically populist blue-collar workers in the Arrowhead Region—especially the Iron Range. What angle will you take in appealing to the latter faction?\n",
+            "description": "The DFL coalition, which has won the party many statewide elections, consists on one end of socially liberal urban voters in Minneapolis and Saint Paul, and on the other economically populist blue-collar workers in the Arrowhead Region—especially the Iron Range. What angle will you take in appealing to the latter faction?",
             "likelihood": 1
         }
     },
@@ -148,7 +150,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000279,
         "fields": {
             "priority": 0,
-            "description": "Amidst a series of mass shootings, the Assault Weapons Ban was introduced under President Clinton. The ban is controversial, but is unlikely to be renewed under the Bush administration. Most urban liberals are in support of gun control, but the rural DFL base in the Northeast is more skeptical. What position will you stake out on this?",
+            "description": "Amidst a series of mass shootings, the Assault Weapons Ban was introduced under President Clinton. The ban is deeply controversial and lended substantial impetus to the 1994 Republican wipeout. It is unlikely to be renewed in 2004 due to the filibuster and the hostile White House. Most urban liberals are in support of gun control, but the rural DFL base in the Northeast is more skeptical. What position will you stake out on this?",
             "likelihood": 1
         }
     },
@@ -166,7 +168,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000281,
         "fields": {
             "priority": 0,
-            "description": "In his State of the Union address earlier this year, President Bush declared Iraq a terrorist state in possession of weapons of mass destruction. Last month during an address to the U.N., he made his case to the international community for a potential invasion of Iraq. Nine days ago, the Iraq Resolution, which would authorize the President to use “any means necessary” in Iraq, was introduced. The resolution passed the House yesterday and is now awaiting approval from the Senate. How will you vote?",
+            "description": "Since 9/11, neoconservative think tanks and administration officials have been braying for blood—and Afghanistan was only ever going to satisfy them for so long. The likes of Rumsfeld, Wolfowitz, and Perle have been lobbying for action against Saddam Hussein's regime in Iraq for months now. This was always going to happen.<br>In his State of the Union address earlier this year and in a face-heel turn from his prior foreign policy focus—the creation of a missile defense system—President Bush declared Iraq a terrorist state in possession of weapons of mass destruction. Last month during an address to the U.N., he made his case to the international community for a potential invasion of Iraq. Nine days ago, the Iraq Resolution, which would authorize the President to use “any means necessary” in Iraq, was introduced. The resolution passed the House yesterday and is now awaiting approval from the Senate. How will you vote?",
             "likelihood": 1
         }
     },
@@ -184,7 +186,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000283,
         "fields": {
             "priority": 0,
-            "description": "…especially castigating your votes to cut military spending, which have gained newfound prominence. How will you respond to these attacks?",
+            "description": "…especially castigating your votes to cut military spending, which have gained newfound prominence. This is not a new attack to you—after all, it was the exact same one Boschwitz tried to use to take back his old seat, to no avail. Nonethless, in an environment where the White House position, you feel, is accepted uncritically by the media, the Hill, and the electorate, such wedge issues may severely dent your support with hawkish but otherwise amenable moderates. How will you respond to these attacks?",
             "likelihood": 1
         }
     },
@@ -202,7 +204,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000332,
         "fields": {
             "priority": 0,
-            "description": "One of the things you’ve been quite vocal about in the Senate is the need for campaign finance reform. How will you address your record on this issue?\n",
+            "description": "One of the things you’ve been quite vocal about in the Senate is the need for campaign finance reform. The McCain-Feingold effort, which aimed to limit the roles of soft money and third-party “issue advocacy” ads, resulted in the passage of the BCRA earlier this year. How will you address your record on this issue?",
             "likelihood": 1
         }
     },
@@ -578,7 +580,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000076,
         "fields": {
             "question": 10000072,
-            "description": "I hate polling. It is like having a weekly spine check to see what we stand for. It is insulting—one of the most abhorrent legacies of the Clinton administration, I think, but in such a close race, we need it. Focus on issue polling to refine our campaign message.\n"
+            "description": "I hate polling. It is like having a weekly spine check to see what we stand for. It is insulting—one of the most abhorrent legacies of the Clinton administration, I think, but in such a close race, we need it. Focus on issue polling to refine our campaign message."
         }
     },
     {
@@ -626,7 +628,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000130,
         "fields": {
             "question": 10000127,
-            "description": "The Al Gore plan registered as very popular in opinion polling — almost sixty percent of Minnesotans supported it. I’d like to throw my full support behind a Social Security lockbox, where we would put the revenue from payroll taxes into a separate account."
+            "description": "The Al Gore plan registered as very popular in opinion polling—almost sixty percent of Minnesotans supported it. I’d like to throw my full support behind a Social Security lockbox, where we would put the revenue from payroll taxes into a separate account."
         }
     },
     {
@@ -882,7 +884,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000270,
         "fields": {
             "question": 10000267,
-            "description": "We can pivot a tad on social issues to keep the Iron Range in our column. I fully support the Second Amendment and the rights of hunters to own and use firearms, and have stopped Trent Lott from shortening the Minnesotan duck-hunting season. We will also avoid discussion of wedge issues like abortion, land-use, stem cell research, and GLBT rights, which have the potential to split the DFL coalition in this area.\n"
+            "description": "We can pivot a tad on social issues to keep the Iron Range in our column. I fully support the Second Amendment and the rights of hunters to own and use firearms, and have stopped Trent Lott from shortening the Minnesotan duck-hunting season. We will also avoid discussion of wedge issues like abortion, land-use, stem cell research, and GLBT rights, which have the potential to split the DFL coalition in this area."
         }
     },
     {
@@ -938,7 +940,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000303,
         "fields": {
             "question": 10000280,
-            "description": "I’m not going to let Coleman off the hook for saying different things in different places. When he was addressing Minnesota Citizens Concerned for Life, he said he supported \"the complete and immediate\" reversal of <i>Roe vs. Wade</i>."
+            "description": "I’m not going to let Coleman off the hook for saying different things in different places. When he was addressing Minnesota Citizens Concerned for Life, he said he supported “the complete and immediate” reversal of <i>Roe vs. Wade</i>."
         }
     },
     {
@@ -970,7 +972,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000322,
         "fields": {
             "question": 10000282,
-            "description": "I will not mention my vote, or the War on Terror, on The Campaign Trail. This is going to drag my campaign down no matter how I address it."
+            "description": "During the 2000 presidential race, now-President Bush openly disavowed the conception of “nation-building” and Dr. Rice argued that Clinton had undercut our troops' ability to defend our own country by intervening in Kosovo. These claims could just as easily have been levied against the Republicans then. I have been a consistent supporter of multilateral foreign interventions to defend human rights abroad, but I cannot in good conscience support a unilateral and preemptive intervention against Saddam Hussein's government in Iraq."
         }
     },
     {
@@ -978,7 +980,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000323,
         "fields": {
             "question": 10000282,
-            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we’ve already done that in Vietnam, in Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law and human rights at every turn."
+            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we’ve already done that in Vietnam, in Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law, human rights, and the basic tenets of American foreign policy at every turn."
         }
     },
     {
@@ -1650,7 +1652,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001141,
         "fields": {
             "question": 10001139,
-            "description": "Whatever.\n"
+            "description": "Whatever makes him happy."
         }
     },
     {
@@ -12737,6 +12739,16 @@ campaignTrail_temp.answer_score_issue_json = [
     },
     {
         "model": "campaign_trail.answer_score_issue",
+        "pk": 10000326,
+        "fields": {
+            "answer": 10000322,
+            "issue": 102,
+            "issue_score": 0.2,
+            "issue_importance": 5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
         "pk": 10000331,
         "fields": {
             "answer": 10000323,
@@ -16761,7 +16773,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000193,
             "candidate": 200,
-            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if any criticism of No Child Left Behind will raise eyebrows with swing voters. Nonetheless, your promise to fight for federal funding for Minnesota’s schools helps you stay in the good graces of Education Minnesota.\n"
+            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if any criticism of No Child Left Behind will raise eyebrows with swing voters. Nonetheless, your promise to fight for federal funding for Minnesota’s schools helps you stay in the good graces of Education Minnesota."
         }
     },
     {
@@ -16986,7 +16998,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000302,
             "candidate": 200,
-            "answer_feedback": "Interesting move to triangulate on this issue, but Twin Cities liberals aren’t going to let this slide — Tina Smith, for one, is certainly not happy with you. This also flies in the face of your record, by the way."
+            "answer_feedback": "Interesting move to triangulate on this issue, but Twin Cities liberals aren’t going to let this slide—Tina Smith, for one, is certainly not happy with you. This also flies in the face of your record, by the way."
         }
     },
     {
@@ -17031,7 +17043,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000322,
             "candidate": 200,
-            "answer_feedback": "Almost everyone finds it troubling that their Senator apparently has nothing to say about Iraq. The Star Tribune runs with “Wellstone silent on Iraq vote” the next day. Meanwhile, Norm Coleman goes out to bat emphasizing his position, scoring a week of positive press, as Republican affiliates have a field day with attack ads…\n"
+            "answer_feedback": "A surprisingly hawkish answer coming from you, but the average voter sees this as you supporting regime change on the condition that a Democrat is in the White House. To the extent that Clinton can be considered a Democrat, anyways. Meanwhile, Republican affiliates have a field day with attack ads…"
         }
     },
     {
@@ -17085,7 +17097,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000347,
             "candidate": 200,
-            "answer_feedback": "As you drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you’re in politics, after all—to give the downtrodden a voice in Washington.\n"
+            "answer_feedback": "As you drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you’re in politics, after all—to give the downtrodden a voice in Washington."
         }
     },
     {
@@ -17454,7 +17466,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000900,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>To thousands of cheering DFLers, you condemn Coleman, the GOP, and the vested interests on the Hill. The rally attracts substantial press coverage, once again diverting public attention towards the Bin Laden ad—which can only be good for you. The lies that have been spread about your record—one of the many things that can grind your gears—have reminded you, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>To thousands of cheering DFLers, you condemn Coleman, the GOP, and the vested interests on the Hill. The rally attracts substantial press coverage, once again diverting public attention towards the Bin Laden ad—which can only be good for you. The lies that have been spread about your record—one of the many things that can grind your gears—have reminded you, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17463,7 +17475,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000905,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17472,7 +17484,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000906,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17796,7 +17808,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001147,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:200px;'>You have taken the bait. A shitstorm erupts on the right, precipitating a national commotion the effects of which will reverberate to races nationwide. CNN pundit Tucker Carlson accuses you of “killing Wellstone again” and MNGOP chair Ron Eibensteiner declares that the DFL has “demonstrated that they are simply unable to mourn the death of a public figure civilly.” Do they never realize the words leaving their mouths? And what they mean? Do they never realize the irony? Or is it just routine to them?</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>You have taken the bait.<br>A shitstorm erupts on the right, precipitating a national commotion the effects of which will reverberate to races nationwide. CNN pundit Tucker Carlson accuses you of “killing Wellstone again” and MNGOP chair Ron Eibensteiner declares that the DFL has “demonstrated that they are simply unable to mourn the death of a public figure civilly.” Do they never realize the words leaving their mouths? And what they mean? Do they never realize the irony? Or is it just routine to them?</div>"
         }
     },
     {
@@ -17874,9 +17886,7 @@ campaignTrail_temp.jet_data = [{
 }
 ]
 
-e = campaignTrail_temp;
 var minnesotanice = 0
-var mondalecorrection = 0
 campaignTrail_temp.cyoa = true
 function changeGlobalEffect(affectedCandidate, answer, changeAmount) {
     let found = false;
@@ -17916,14 +17926,11 @@ if (ans == 10000587) {
     campaignTrail_temp.global_parameter_json[0].fields["question_count"] = 40
     campaignTrail_temp.candidate_json[0]["fields"].first_name = "Walter";
     campaignTrail_temp.candidate_json[0]["fields"].last_name = "Mondale";
+    campaignTrail_temp.candidate_json[3]["fields"].first_name = "Paul Wellstone /";
     campaignTrail_temp.candidate_image_url = "https://i.imgur.com/H3mfTRy.png";
     campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/AwKSgqc.jpeg";
     campaignTrail_temp.candidate_last_name = "Mondale";
-    nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#6e95c5";
-    document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
-    $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
-    nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#ffffff";
-    $(".container")[0].style.backgroundColor = "#ff7da6";
+    customquote = <i>Wellstone!</i>
     campaignTrail_temp.questions_json[25] = {
         "model": "campaign_trail.question",
         "pk": 10000915,
@@ -17938,7 +17945,7 @@ if (ans == 10000587) {
         "pk": 10000917,
         "fields": {
             "priority": 0,
-            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich and Dick Morris go on national television to bash you, as you've allowed the DFL to leak to the press that you are \"highly likely\" to run to succeed Wellstone. How will you react to this?",
+            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich and Dick Morris go on national television to bash you, as you've allowed the DFL to leak to the press that you are “highly likely” to run to succeed Wellstone. How will you react to this?",
             "likelihood": 1
         }
     },
@@ -17947,7 +17954,7 @@ if (ans == 10000587) {
         "pk": 10000926,
         "fields": {
             "priority": 0,
-            "description": "Paul’s children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. They have no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Are you going to bite the bullet?",
+            "description": "Paul’s children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. The party has no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Are you going to bite the bullet?",
             "likelihood": 1
         }
     },
@@ -17974,7 +17981,7 @@ if (ans == 10000587) {
         "pk": 10000949,
         "fields": {
             "priority": 0,
-            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates fanning the flames. How will you respond to this outrage?",
+            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates and conservative media, eager for content to animate the base, keenly fanning the flames. How will you respond to this outrage?",
             "likelihood": 1
         }
     },
@@ -18010,7 +18017,7 @@ if (ans == 10000587) {
         "pk": 10001000,
         "fields": {
             "priority": 0,
-            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this, running an ad expressing sorrow for Wellstone’s death. What will your marketing campaign focus on?",
+            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this opening, running an ad expressing sorrow for Wellstone’s death. What will your marketing campaign focus on?",
             "likelihood": 1
         }
     },
@@ -18046,7 +18053,7 @@ if (ans == 10000587) {
         "pk": 10001139,
         "fields": {
             "priority": 0,
-            "description": "…but it seems that Governor Ventura’s surprise press conference has dominated the news cycle instead. During this appearance, Ventura announced that he would be nominating MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone’s passing. He claimed he changed his mind from leaving the seat empty out of disgust from Wellstone’s “politicized” memorial service. The event was filled with the usual barbs towards the two-party system that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual.",
+            "description": "…but it appears that Governor Ventura’s surprise press conference has dominated the news cycle instead.<br>During this appearance, Ventura announced that he would nominate MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone’s passing. Previous statements indicated that he would leave the seat empty; he claimed he changed his mind out of disgust from Wellstone’s “politicized” memorial service. The event was filled with the usual barbs towards the two-party system and the media that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual—possibly indicating that he personally wants to see Coleman beat you.",
             "likelihood": 1
         }
     },
@@ -18060,4 +18067,165 @@ if (ans == 10000587) {
         }
     }
 }
+}
+function getTooltips(str) {
+    let matches = [];
+
+    tooltipList.forEach((tooltip, index) => {
+        // Adjust the regex to match searchString potentially surrounded by “ and followed by optional punctuation
+       let regex = new RegExp(`(?<=\\b|\\s|^|“)${tooltip.searchString}(?=[.,;!?]?\\b|\\s|”|$)`, 'g');
+
+
+        let match;
+        while ((match = regex.exec(str)) !== null) {
+            matches.push({
+                start: match.index + (match[0].startsWith('“') ? 1 : 0), // Adjust for potential starting “
+                end: match.index + match[0].length - (match[0].endsWith('”') ? 1 : 0) - (match[2] ? 1 : 0), 
+                tooltipIndex: index
+            });
+        }
+    });
+
+    // Sort by starting position; if two start at the same position, longer match comes first
+    matches.sort((a, b) => a.start - b.start || b.end - b.start - (a.end - a.start));
+
+    // Filter out overlaps
+    for (let i = 0; i < matches.length - 1; ) {
+        if (matches[i + 1].start < matches[i].end) {
+            matches.splice(i + 1, 1); // Remove the next match since it overlaps
+        } else {
+            i++; // Move to next match
+        }
+    }
+
+    return matches;
+}
+function applyTooltips(str) {
+    const matches = getTooltips(str);
+    let result = '';
+    let lastIndex = 0;
+
+    matches.forEach(match => {
+        const tooltip = tooltipList[match.tooltipIndex];
+        result += str.slice(lastIndex, match.start);
+        result += `<span class='mytooltip'>${tooltip.searchString}<span class='mytooltiptext'>${tooltip.explanationText}</span></span>`;
+        lastIndex = match.end;
+    });
+
+    result += str.slice(lastIndex); // Add the remainder of the original string
+    return result;
+}
+
+function applyTooltipsToObject(obj) {
+    for (let key in obj) {
+        if (typeof obj[key] === 'string') {
+            obj[key] = applyTooltips(obj[key]);
+        } else if (typeof obj[key] === 'object') {
+            applyTooltipsToObject(obj[key]); // Recursive call
+        }
+    }
+}
+
+applyTooltipsToObject(campaignTrail_temp.questions_json);
+applyTooltipsToObject(campaignTrail_temp.answers_json);
+applyTooltipsToObject(campaignTrail_temp.answer_feedback_json);
+
+// constructs endings based on header and pages
+construct = (a = 1) => {
+      
+    e.page = e.page + a < e.pages.length ? e.page + a : 0
+    let html = e.header;
+    html += e.pages[e.page] + "<br>";
+    if (e.page > 0) {
+    
+    html += `<button onclick='endingConstructor(a = -1)'>Back</button>`
+    }
+    if (e.page < e.pages.length - 1) {
+    
+    html += `<button onclick='endingConstructor(a = 1)'>Next</button>`
+    }
+    
+    for (i in e.executable) {
+    if (e.executable[i][0] == e.page) {
+        e.executable[i][1]();
+      
+    }
+    }
+    
+    if (e.image == true)
+    setTimeout(()=>{
+      candImg = $(".person_image")[0]
+      if (candImg) {
+        candImg.remove()
+      console.log("TRYING");
+        $("#final_results_description")[0].style = `
+          text-align:left;
+          width: 72%;
+        height:71%;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        overflow: auto;
+        `
+       console.log("RESULTS UPDATED");
+      }
+    }, 10)
+    else if (e.image)
+    setTimeout(()=>{
+      candImg = $(".person_image")[0];
+      if (candImg) {
+        candImg.src = e.image;
+      console.log("TRYING");
+        $("#final_results_description")[0].style = `
+          text-align:left;
+          width: 72%;
+        height:71%;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        overflow: auto;
+        `
+       console.log("RESULTS UPDATED");
+      }		
+    }, 10)
+    
+    return html;
+    }
+    
+    endingConstructor = (a = 1) => {
+    $("#final_results_description")[0].innerHTML = construct(a);
+    }
+    
+    // ENDINGS -- this is slightly more reliable than the ending code method
+    
+    e.multiple_endings = true;
+    
+    e.header = "<h1>error</h1>";
+    e.pages = ["<p>This is an error handler</p>"];
+    e.page = 0;
+    
+    endingPicker = (out, totv, aa, quickstats) => {
+    //out = "win", "loss", or "tie" for your candidate
+    //totv = total votes in entire election
+    //aa = all final overall results data
+    //quickstat = relevant data on candidate performance (format: your candidate's electoral vote count, your candidate's popular vote share, your candidate's raw vote total)
+    
+    /*
+    e.header = "<h2></h2>"
+    e.pages = ["<p></p>",
+            "<p></p>"]
+    */
+    
+    e.pages = []
+    e.header = "";
+    e.executable = []
+    
+    // Endings from the base mod
+    
+    if (quickstats[1] >= 55 && ans == 10000587) { // Ending 1 - Mondale wins with over 55%
+    e.pages = ["<FONT COLOR=“000000”><h3>Ending 1 - A New Day</h3><p><em>January 20th, 1997</em><br>After the inaguration ceremony, Harris Wofford reached the Oval Office. He's been here before - negotiating with President Bush, meeting with him after being elected. But never... like this. He was basically alone - his running mate, his advisors, his family, were all in other parts of this big and powerful building. Besides the Secret Service looking around, Harris was by himself. Sometimes it's good to be alone - the campaign to achieve this office was a lot. He lost his wife during the primaries, had many restless nights, all while the stakes were higher than ever before. Wofford decided then to sit down at the desk - the Resolute Desk. They moved it back for him.<br>As Harris sits down, he thinks for a moment. It's Martin Luther King Day. Huh. Then, he noticed a piece of paper right in front of him. Upon opening it, he began to read -<br><br><i>Dear Harris,<br>By the time you read this, you will be our President. Eight years ago, I too stepped into that ofice with the same feeling of wonder and awe that you must be feeling now.<br>Of course, the conditions we took office under will be different. You will be under a lot of scrutiny, some of which won't be fair. I can't always offer advice, but don't let pundits or critics discourage you from doing the right thing.<br>I am counting on you to succeed. America is counting on you. We are rooting for you, and we know you will succeed<br>Good luck -<br>George</i><br><br>Harris thinks for a moment, puts the letter away, and begins buzzing staff in to begin the work of the President of the United States.</FONT></p>", "<FONT COLOR=“000000”><h3>Ending 1 - PRESIDENT WOFFORD vs FAMILY GUY (and the other animated comedies) Chapter IV</h3><p>In the early '90s, we saw President George Bush go toe to toe with the Simspons. He even made an enemy out of Bart. Many thought this type of pretty politics on behalf of the President of the United States was purely related to Bush as a moralistic personality - it turns out that these politicians are just sensitive.<br>After that particularly embarrassing incident, I never really thought that we could see something to that degree again. There wouldn't be a show with as much cultural influence as The Simpsons, and there wouldn't be a leader as soft as Bush. I was wrong. I remember February 14th, 2002, more vividly than any celebrity death, terrorist attack, birthday, or otherwise, not because of some major tragedy but because that was the day President Harris Wofford lashed out at Family Guy. Before I say anything else, let me just set the stage for you here.<br><br>Family Guy was going strong in 2001/2002/2003 - some people call it the golden era of the show - I think that right now we're doing pretty well, but it's a difference of opinion. We were nearly at Simpsons level, Stewie wasn't Bart, but everyone loved him. And Peter - a lovable, relatable American dad. And of course, Brian, who I had made sure was a strong Wofford supporter.<br>We were a satire. We cracked jokes at the expense of the President many times - and of course, at the Republicans as well. But some people didn't seem to like it. I remember Senator Strom Thurmond supposedly gave a jumbled rant about a joke we had made in 2000, although that was a rumor.  We wouldn't expect President Wofford to be Thurmond-sensitive though. So, here's the joke;<br><br>Brian: ''This is just like the time I caught Harris Wofford in a porta potty.''<br>(Then of course we went to a cutaway of Brian standing in front of a portapotty.)<br>Brian: 'President Wofford, the Soviets just shot down the UN resolution condemning Iraqi aggression against Israel!'<br>(And then this really deep voice speaks)<br>''He's busy.''<br>(And then of course Wofford speaks.)<br>Kinda Gay Wofford Voice: ''Yeah, I'm busy!''<br>--<br>I mean it was a gay joke, we made a lot of those! I wasn't expecting him to rant about us in a press conference!<br> - <i>Seth MacFarlane</i></FONT></p>"];
+    e.executable.push([0, (() => {e.image = e.image = 'https://itsastronomical.com/assets/1996_EOH/endings/ovaloffice.png'})])
+    e.executable.push([1, (() => {e.image = e.image = 'https://itsastronomical.com/assets/1996_EOH/endings/familyguy.png'})])
+    
+    }
 }
