@@ -186,7 +186,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000283,
         "fields": {
             "priority": 0,
-            "description": "…especially castigating your votes to cut military spending, which have gained newfound prominence. This is not a new attack to you—after all, it was the exact same one Boschwitz tried to use to take back his old seat, to no avail. Nonethless, in an environment where the White House position, you feel, is accepted uncritically by the media, the Hill, and the electorate, such wedge issues may severely dent your support with hawkish but otherwise amenable moderates. How will you respond to these attacks?",
+            "description": "…especially castigating your votes to cut military spending, which have gained newfound prominence considering the present national situation. This is not a new attack to you—after all, it was the exact same one Boschwitz tried to use to take back his old seat, to no avail. Nonethless, in an environment where the White House position, you feel, is accepted uncritically by the media, the Hill, and the electorate, such wedge issues may severely dent your support with hawkish but otherwise amenable moderates. How will you respond to these attacks?",
             "likelihood": 1
         }
     },
@@ -258,7 +258,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000786,
         "fields": {
             "priority": 0,
-            "description": "Considering the fact that this is the most high-stakes race—and the closest one—on the ballot in November, many DFL heavyweights have generously offered to hold events with you. Who do you plan to campaign with in the final days?\n",
+            "description": "Considering the fact that this is the most high-stakes race—and the closest one—on the ballot in November, many DFL heavyweights have generously offered to hold events with you. Who do you plan to campaign with in the final days?",
             "likelihood": 1
         }
     },
@@ -303,7 +303,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000884,
         "fields": {
             "priority": 0,
-            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
+            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail,the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built”, as he calls it. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
             "likelihood": 1
         }
     },
@@ -322,141 +322,6 @@ campaignTrail_temp.questions_json = [
         "fields": {
             "priority": 0,
             "description": "Amidst the chaotic final days of the campaign, dominated by the media hubbub around the Bin Laden ad, you set off for your final string of visits in the Green Bus—while Coleman embarks on an 18-hour marathon bus tour of his own. Where will you visit in the crucial final hours of this race?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000915,
-        "fields": {
-            "priority": 0,
-            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something’s happened,” he says. “We’ve been told that Paul’s plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at Tuskegee University. A few hours later, surrounded by dozens of volunteers, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000917,
-        "fields": {
-            "priority": 0,
-            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich and Dick Morris go on national television to bash you, as you've allowed the DFL to leak to the press that you are \"highly likely\" to run to succeed Wellstone. How will you react to this?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000926,
-        "fields": {
-            "priority": 0,
-            "description": "Paul’s children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. They have no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Are you going to bite the bullet?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000928,
-        "fields": {
-            "priority": 0,
-            "description": "Now that you’re confirmed as the DFL candidate, you have some time during the moratorium to get ready for the campaign ahead of you. Not much time, though—MNGOP chair Ron Eibensteiner says Republicans will formally resume their campaigns with “full vigor” come Wednesday. In the meantime, what will you do to prepare?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000939,
-        "fields": {
-            "priority": 0,
-            "description": "Paul’s two surviving children have hurriedly planned a memorial service for their father in Williams Arena, which you, of course, attend. This service, however, was dotted with political advocacy from start to finish. Many cheered for the arrival of President Clinton, and jeered for the arrival of Majority Leader Lott. A giant beach ball was tossed around the stadium. Rick Kahn, a longtime friend of Wellstone’s and treasurer of some of his campaigns, goes as far as to challenge the Republican Senators in the room to back you, and exclaims repeatedly “We are going to win this election for Paul Wellstone!” Governor Jesse Ventura, at that point, walks out, disgusted.",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000949,
-        "fields": {
-            "priority": 0,
-            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates fanning the flames. How will you respond to this outrage?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000963,
-        "fields": {
-            "priority": 0,
-            "description": "Despite your response, it seems this race is closer than anyone else thought it would’ve been—your lead has all but evaporated overnight. You can’t take this for granted anymore. As campaigning restarts, what core message will you present to the voters in the final days of the campaign? ",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000975,
-        "fields": {
-            "priority": 0,
-            "description": "On the other side of the aisle, Coleman has decided to make this campaign all about “the future” and is opting to avoid negative rhetoric. Meanwhile, Republican surrogates continue to bash the DFL on the memorial service, with Vin Weber calling it a “sham” and a GOP up-and-comer named Kellyanne Conway claiming the crowd was “told when to cheer and when to jeer.” They have also pushed a misleading claim that you chaired a commission that called for Social Security privatization. How will you react to this?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000987,
-        "fields": {
-            "priority": 0,
-            "description": "Even with just a few days left in the election, every vote counts, and you’re gonna fight for every single one. As over two million dollars in funding flow in from Democratic donors across all fifty states shocked by Wellstone’s passing and outraged at Republicans’ response to the memorial service, what will you spend your massive surplus of campaign funding on?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001000,
-        "fields": {
-            "priority": 0,
-            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this, running an ad expressing sorrow for Wellstone’s death. What will your marketing campaign focus on?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001081,
-        "fields": {
-            "priority": 0,
-            "description": "As the campaign restarts, your campaign has planned a stumping tour of Minnesota, to meet with as many voters as possible before Election Day. You don’t have much time, and Minnesota’s a big state, so you’ve got to be selective with where you visit. Where will you next stop?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001117,
-        "fields": {
-            "priority": 0,
-            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001126,
-        "fields": {
-            "priority": 0,
-            "description": "It’s the day before the election. Minnesota Public Radio and KARE have organized a final one-on-one debate between you and Coleman in Minneapolis, to ensure that voters have at least something to take away from this bewildering and dramatic race…",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001139,
-        "fields": {
-            "priority": 0,
-            "description": "…but it seems that Governor Ventura’s surprise press conference has dominated the news cycle instead. During this appearance, Ventura announced that he would be nominating MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone’s passing. He claimed he changed his mind from leaving the seat empty out of disgust from Wellstone’s “politicized” memorial service. The event was filled with the usual barbs towards the two-party system that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual.",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10001154,
-        "fields": {
-            "priority": 0,
-            "description": "Following the debate and that rather unusual press conference, you are getting right back on The Campaign Trail. Coleman has already embarked upon an 18-hour bus tour. Where will you visit in the crucial final hours of this race?",
             "likelihood": 1
         }
     }
@@ -16899,7 +16764,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000256,
             "candidate": 200,
-            "answer_feedback": "If there’s one thing everyone hates, it’s tax breaks for the rich. A new ad hammers on Coleman’s proposed giveaways to large corporations—and Norm seems to dodge the question when he’s asked about it at a debate, ranting about your supposed hypocrisy on ‘sham third-party ads’ instead."
+            "answer_feedback": "If there’s one thing everyone hates, it’s tax breaks for the rich.<br>A new ad hammers on Coleman’s proposed tax giveaways to large corporations—and Norm seems to dodge the question when he’s asked about it at a debate, ranting about your supposed hypocrisy on ‘sham third-party ads’ instead."
         }
     },
     {
@@ -17034,7 +16899,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000321,
             "candidate": 200,
-            "answer_feedback": "Your multilateral approach appeals to the anti-war base, but fails to even register with moderates. Meanwhile, Norm Coleman goes out to bat emphasizing his position, scoring a week of positive press, as Republican affiliates have a field day with attack ads…"
+            "answer_feedback": "Your multilateral approach hardly registers with moderates. Your staff arranges campaign events with Joe Lieberman, hoping it'll get the point across. Meanwhile, Norm Coleman goes out to bat emphasizing his position, scoring a week of positive press, as Republican affiliates have a field day with attack ads…"
         }
     },
     {
@@ -17061,7 +16926,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000333,
             "candidate": 200,
-            "answer_feedback": "You have just confirmed every Republican attack on you on this issue to be completely accurate—and you will have to bear the stark political consequence. Speaking of which, have you gotten your concession speech ready yet? You’ll probably need it.\n"
+            "answer_feedback": "You have just confirmed every Republican attack on you on this issue to be completely accurate—and you will have to bear the stark political consequence. Speaking of which, have you gotten your concession speech ready yet? You’ll probably need it."
         }
     },
     {
@@ -17079,7 +16944,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000335,
             "candidate": 200,
-            "answer_feedback": "This defense might not be entirely grounded in truth, as you have actually repeatedly voted to cut defense spending, but at least makes your record on defense more palatable to moderates.\n"
+            "answer_feedback": "This defense might not be entirely grounded in truth, as you have actually repeatedly voted to cut defense spending, but at least makes your record on defense more palatable to moderates."
         }
     },
     {
@@ -17088,7 +16953,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000346,
             "candidate": 200,
-            "answer_feedback": "You shake hands with thousands of people at the well-attended State Fair, and your DVD is received well—though many also notice a plane flying over the fairgrounds tugging a banner that reads “Wellstone—Stop Taxing The Dead”."
+            "answer_feedback": "You shake hands with thousands of people at the well-attended State Fair, and your DVD is received well—though many also notice a plane flying over the fairgrounds tugging a banner that reads “Wellstone—Stop Taxing The Dead.”"
         }
     },
     {
@@ -17097,7 +16962,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000347,
             "candidate": 200,
-            "answer_feedback": "As you drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you’re in politics, after all—to give the downtrodden a voice in Washington."
+            "answer_feedback": "As you drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you’re in politics, after all—to give the unrepresented a voice in Washington."
         }
     },
     {
@@ -17106,7 +16971,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000348,
             "candidate": 200,
-            "answer_feedback": "As you move up the Mississippi River, you meet voters of all walks of life, from the well-off to the less-well-off. Despite its Republican lean, you’re well received in the Southeast, and your image with Ventura voters improves noticeably.\n"
+            "answer_feedback": "As you move up the Mississippi River, you meet voters of all walks of life, from the well-off to the less-well-off. Despite its Republican lean, you’re well received in the Southeast, and your image with Ventura voters improves noticeably."
         }
     },
     {
@@ -17115,7 +16980,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000349,
             "candidate": 200,
-            "answer_feedback": "You’re welcome at the reservation, and your tour makes good press—along with your work for Native American communities, which solidifies your reputation as someone who doesn’t just work for moneyed special interests. It’s why you’re in politics, after all—to give the downtrodden a voice in Washington.\n"
+            "answer_feedback": "You’re welcome at the reservation, and your tour makes good press—along with your work for Native American communities, which solidifies your reputation as someone who doesn’t just work for moneyed special interests. It’s why you’re in politics, after all—to give the downtrodden a voice in Washington."
         }
     },
     {
@@ -17124,7 +16989,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000367,
             "candidate": 200,
-            "answer_feedback": "All this is very unlikely to actually pass, given that Congress has a vested interest in resisting reform measures, but most voters strongly support your plan.\n"
+            "answer_feedback": "All this is very unlikely to actually pass, given that Congress has a vested interest in resisting reform measures, but most voters strongly support your proposals."
         }
     },
     {
@@ -17142,7 +17007,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000369,
             "candidate": 200,
-            "answer_feedback": "Taking the attack to the Republicans for taking lavish sums from special interests is a strategy you know quite well from your previous runs, and it’s great red meat for your base."
+            "answer_feedback": "This is a message you've preached for quite a while, and it’s great red meat for your base."
         }
     },
     {
@@ -17160,7 +17025,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000381,
             "candidate": 200,
-            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don’t like “corporate farming interests”, at least rhetorically. On the other hand, this will push said corporate farming interests to fund Coleman."
+            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don’t like “corporate farming interests”, at least rhetorically. On the other hand, this will push said interests to fund Coleman."
         }
     },
     {
@@ -17205,7 +17070,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000396,
             "candidate": 200,
-            "answer_feedback": "This is a biting attack in industrial, working-class areas, which gets plenty of airtime thanks to the low cost of paid media there—just make sure not to overdo it in more urbanized, middle-class media markets.\n"
+            "answer_feedback": "This is a biting attack in industrial, working-class areas, which gets plenty of airtime thanks to the low cost of paid media there—just make sure not to overdo it in more urbanized, middle-class media markets."
         }
     },
     {
@@ -17241,7 +17106,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000767,
             "candidate": 200,
-            "answer_feedback": "Coleman accuses you of “partisan mudslinging”. Overall, though, you’re effectively able to keep him playing defense by inundating him with attacks on taxes, Social Security, and abortion. "
+            "answer_feedback": "Coleman accuses you of “partisan mudslinging”. Overall, though, you’re effectively able to keep him playing defense by inundating him with attacks on taxes, Social Security, and abortion."
         }
     },
     {
@@ -17295,7 +17160,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000791,
             "candidate": 200,
-            "answer_feedback": "Mondale’s appearances galvanize the ancestral DFL base. The press covers Fritz’s surprisingly energetic and impassioned role in the campaign with gusto, lending you substantial credibility amongst good-government moderates.\n"
+            "answer_feedback": "Mondale’s appearances galvanize the ancestral DFL base. The press covers Fritz’s surprisingly energetic and impassioned role in the campaign with gusto, lending you substantial credibility amongst good-government moderates."
         }
     },
     {
@@ -17313,7 +17178,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000796,
             "candidate": 200,
-            "answer_feedback": "The Blue Dog Representative is hesitant to support a liberal like you, but his district is safe enough to offer some breathing room. After all, it was your coattails that narrowly got him elected twelve years ago in the first place. Expect a boost in Greater Minnesota.\n"
+            "answer_feedback": "The Blue Dog Representative is hesitant to support a liberal like you, but his district is safe enough to offer some breathing room. After all, it was your coattails that narrowly got him elected twelve years ago in the first place. Expect a boost in Greater Minnesota."
         }
     },
     {
@@ -17358,7 +17223,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000852,
             "candidate": 200,
-            "answer_feedback": "For the many people who are demanding that more lakes be opened to motorboats, it’s not an invented issue."
+            "answer_feedback": "For the many people who are actually demanding that more lakes be opened to motorboats—some of whom may actually have voted for you before—it’s not an invented issue."
         }
     },
     {
@@ -17448,7 +17313,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000893,
             "candidate": 200,
-            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after your press conference, denunciations from the press, and statements from veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 ‘Jewish Letter’?"
+            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after your press conference, denunciations from the press, and statements from veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter”?"
         }
     },
     {
@@ -17457,7 +17322,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000896,
             "candidate": 200,
-            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after denunciations from the press and veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 ‘Jewish Letter’?"
+            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after denunciations from the press and veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter”?"
         }
     },
     {
@@ -17475,7 +17340,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000905,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mom who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17484,7 +17349,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000906,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mother who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mom who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17493,7 +17358,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000918,
             "candidate": 200,
-            "answer_feedback": "The MNGOP hits right back. Both parties’ partisans accuse each other of going against the spirit of the deal. You know Paul wouldn’t want to be used as a political football—but he wouldn't want to see a Republican sit on his old seat in the Senate either."
+            "answer_feedback": "The MNGOP hits right back. Both parties’ partisans accuse each other of going against the spirit of the deal. You know Paul wouldn’t want to be used as a political football—but he wouldn't want to see a Republican occupy his old seat in the Senate either."
         }
     },
     {
@@ -17529,7 +17394,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000931,
             "candidate": 200,
-            "answer_feedback": "Wellstone polling guru Diane Feldman has you more than ten points above Coleman, and has your personal favorability above sixty percent—assuming nothing unexpected happens, you’ll be able to easily cruise to victory. "
+            "answer_feedback": "Wellstone polling guru Diane Feldman has you more than ten points above Coleman, and has your personal favorability above sixty percent—assuming nothing unexpected happens, you’ll be able to easily cruise to victory."
         }
     },
     {
@@ -17583,7 +17448,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000955,
             "candidate": 200,
-            "answer_feedback": "This is a much more strongly-worded statement than some would have wanted—Rick Kahn publicly denounces it as \"self-defeating\"—but it helps clear the air a bit. Not enough to stop the sheer momentum Coleman is gaining, however…"
+            "answer_feedback": "This is a much more strongly-worded statement than some would have wanted—Rick Kahn publicly denounces it as “self-defeating”—but it helps clear the air a bit. Not enough to stop the sheer momentum Coleman is gaining, however…"
         }
     },
     {
@@ -17610,7 +17475,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000970,
             "candidate": 200,
-            "answer_feedback": "The Coleman campaign is thrown off balance by your aggressive tone, but in the aftermath of last week’s events these will likely excite the Republican base more than our own.\n"
+            "answer_feedback": "The Coleman campaign is thrown off balance by your aggressive tone, but in the aftermath of last week’s events these attacks will likely excite the Republican base more than our own."
         }
     },
     {
@@ -17935,7 +17800,7 @@ if (ans == 10000587) {
         "pk": 10000915,
         "fields": {
             "priority": 0,
-            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something’s happened,” he says. “We’ve been told that Paul’s plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at Tuskegee University. A few hours later, surrounded by dozens of volunteers, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
+            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something’s happened,” he says. “We’ve been told that Paul’s plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at University Avenue. A few hours later, surrounded by dozens of volunteers and joined by gubernatorial nominee Roger Moe and DFL eminence Warren Spannaus, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
             "likelihood": 1
         }
     },
@@ -17944,7 +17809,7 @@ if (ans == 10000587) {
         "pk": 10000917,
         "fields": {
             "priority": 0,
-            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich and Dick Morris go on national television to bash you, as you've allowed the DFL to leak to the press that you are “highly likely” to run to succeed Wellstone. How will you react to this?",
+            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich goes on <i>Meet The Press</i> to bash you, as you've allowed the DFL to leak to the press that you are “highly likely” to run to succeed Wellstone. How will you react to this?",
             "likelihood": 1
         }
     },
@@ -18034,7 +17899,7 @@ if (ans == 10000587) {
         "pk": 10001117,
         "fields": {
             "priority": 0,
-            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
+            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail,the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built”, as he calls it. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
             "likelihood": 1
         }
     },
