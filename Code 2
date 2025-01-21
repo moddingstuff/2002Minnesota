@@ -15,7 +15,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000026,
         "fields": {
             "priority": 0,
-            "description": "Despite your prior promise to only serve two terms, you’ve seen throughout your tenure in the Senate that there is still a long and bruising fight ahead if America is to finally achieve economic and social justice. You’ve decided to run for re-election. What will the overall theme of your campaign be this fall?",
+            "description": "Despite your prior promise to only serve two terms, you've seen throughout your tenure in the Senate that there is still a long and bruising fight ahead if America is to finally achieve economic and social justice. You've decided to run for re-election. What will the overall theme of your campaign be this fall?",
             "likelihood": 1
         }
     },
@@ -24,7 +24,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000042,
         "fields": {
             "priority": 0,
-            "description": "To initiate your re-election campaign, you’re holding a kick-off tour in the trademark Green Bus, stumping and meeting voters across the state. Your first event will feature your official announcement: where’ll it be?",
+            "description": "To initiate your re-election campaign, you're holding a kick-off tour in the trademark Green Bus, stumping and meeting voters across the state. Your first event will feature your official announcement: where'll it be?",
             "likelihood": 1
         }
     },
@@ -39,19 +39,10 @@ campaignTrail_temp.questions_json = [
     },
     {
         "model": "campaign_trail.question",
-        "pk": 10000072,
-        "fields": {
-            "priority": 0,
-            "description": "Polling displays a narrow race, though you do seem to have a small lead right now. This is a good reason for many donors on both sides of the aisle to contribute, making this one of the most well-funded races in Minnesota’s history. Where will you focus your large surplus of campaign funds on?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
         "pk": 10000115,
         "fields": {
             "priority": 0,
-            "description": "Coleman is mostly spending his funding on positive advertising, but Republican interest groups certainly aren’t pulling their punches. In television ads, radio spots, and leaflets, these groups are attacking your vote against repealing the estate tax, as part of the Bush tax cut package. Why did you vote against this?",
+            "description": "Coleman is mostly spending his funding on positive advertising, but Republican interest groups certainly aren't pulling their punches. In television ads, radio spots, and leaflets, these groups are attacking your vote against repealing the estate tax, as part of the Bush tax cut package. Why did you vote against this?",
             "likelihood": 1
         }
     },
@@ -60,7 +51,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000127,
         "fields": {
             "priority": 0,
-            "description": "One of the key issues in this year’s elections is Social Security. During his 2000 campaign, President George W. Bush called for the partial privatization of Social Security, arguing that the program was facing insolvency. In his controversial plan, which Coleman has seemingly backed, people would be able to invest a portion of their payroll taxes into the stock market. How will you navigate this contentious issue?",
+            "description": "One of the key issues in this year's elections is Social Security. During his 2000 campaign, President George W. Bush called for the partial privatization of the program—heretofore a third rail in American politics—arguing that it was facing insolvency. In his controversial plan, which Coleman has seemingly backed, people would be able to invest a portion of their payroll taxes into the stock market. How will you navigate this contentious issue?",
             "likelihood": 1
         }
     },
@@ -69,7 +60,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000143,
         "fields": {
             "priority": 0,
-            "description": "Another one of the most pertinent issues would be energy security and the environment. President Bush recently restarted the push to allow drilling at the Arctic National Wildlife Refuge, which the Senate voted down earlier this year. On the other hand, Ralph Nader’s 2000 presidential campaign has brought environmental issues into the forefront. How will you address this?",
+            "description": "Another one of the most pertinent issues would be energy security and the environment. President Bush recently restarted the push to allow drilling at the Arctic National Wildlife Refuge, which the Senate voted down earlier this year. On the other hand, Ralph Nader's 2000 presidential campaign has brought environmental issues into the forefront. How will you address this?",
             "likelihood": 1
         }
     },
@@ -87,7 +78,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000176,
         "fields": {
             "priority": 0,
-            "description": "An issue you’ve always been particularly passionate about is healthcare reform—you were one of the loudest proponents of the “Medicare-for-All” single-payer proposal in the early 90s, which died before it even reached the floor. It’s 2002 now, with discussion shifting towards prescription drugs—how will you deal with the healthcare issue?",
+            "description": "An issue you've always been particularly passionate about is healthcare reform—you were one of the loudest proponents of the “Medicare-for-All” single-payer proposal in the early 90s, which died before it even reached the floor. It's 2002 now, with discussion shifting towards prescription drugs—how will you deal with the healthcare issue?",
             "likelihood": 1
         }
     },
@@ -96,7 +87,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000191,
         "fields": {
             "priority": 0,
-            "description": "You’ve made education one of your key issues in this campaign. President Bush worked with Ted Kennedy to pass the No Child Left Behind Act in January, which emphasized the importance of standardized testing, setting high standards, and enforcing accountability. You’ve sent mixed signals regarding your stance here—how will you define yourself?",
+            "description": "You've made education one of your key issues in this campaign. President Bush worked with Ted Kennedy to pass the No Child Left Behind Act in January, which emphasized the importance of standardized testing, setting high standards, and enforcing accountability. You've sent mixed signals regarding your stance here—how will you define yourself?",
             "likelihood": 1
         }
     },
@@ -105,16 +96,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000204,
         "fields": {
             "priority": 0,
-            "description": "Your strength as a legislator comes not from sway with your colleagues, but from your skill on the bully pulpit. You’ve managed to bring issues to the forefront through your oratory—which would you like to offer a platform this year?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000223,
-        "fields": {
-            "priority": 0,
-            "description": "In your past two Senate races, one of the core reasons you pulled through, despite overwhelmingly unfavorable circumstances, was your strong effort in the ground game—specifically, how strong your grassroots support was, and how you channeled that into turnout. How will you use your volunteer campaign to deliver another victory?",
+            "description": "Your strength as a legislator comes not from sway with your colleagues, but from your skill on the bully pulpit. You've managed to bring issues to the forefront through your oratory—which would you like to offer a platform this year?",
             "likelihood": 1
         }
     },
@@ -123,7 +105,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000236,
         "fields": {
             "priority": 0,
-            "description": "A specter is haunting this year’s midterms—the specter of President Bush. His personal popularity may be the one thing keeping the incumbent Republicans afloat this midterm year. Your opponent’s case seems to be largely built upon the conception that a Senator Coleman will have a smoother relationship with the White House and consequently will be a more effective advocate for preferential policies and federal appropriations for Minnesotan industries. How will you address the incumbent President this campaign?",
+            "description": "A specter is haunting this year's midterms—the specter of President Bush. His personal popularity may be the one thing keeping the incumbent Republicans afloat this midterm year. Your opponent's case seems to be largely built upon the conception that a Senator Coleman will have a smoother relationship with the White House and consequently will be a more effective advocate for preferential policies and federal appropriations for Minnesotan industries. How will you address the incumbent President this campaign?",
             "likelihood": 1
         }
     },
@@ -132,16 +114,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000237,
         "fields": {
             "priority": 0,
-            "description": "Republican television ads are growing increasingly negative. One of them hit you on for voting to “devastate our military”, more hit you for your vote against the Bush tax cuts, and one even shows the Chinese Communist flag over your forehead. How will you counter Coleman’s smears this fall?",
-            "likelihood": 1
-        }
-    },
-    {
-        "model": "campaign_trail.question",
-        "pk": 10000267,
-        "fields": {
-            "priority": 0,
-            "description": "The DFL coalition, which has won the party many statewide elections, consists on one end of socially liberal urban voters in Minneapolis and Saint Paul, and on the other economically populist blue-collar workers in the Arrowhead Region—especially the Iron Range. What angle will you take in appealing to the latter faction?",
+            "description": "Republican television ads are growing increasingly negative. One of them hit you on for voting to “devastate our military”, more hit you for your vote against the Bush tax cuts, and one even shows the Chinese Communist flag over your forehead. How will you counter Coleman's smears this fall?",
             "likelihood": 1
         }
     },
@@ -159,7 +132,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000280,
         "fields": {
             "priority": 0,
-            "description": "Ever since the landmark <i>Roe vs. Wade</i> ruling in 1973, abortion has been a hot-button issue for liberals and conservatives alike. Most people want the procedure to remain legal across all fifty states; however, the Religious Right has been protesting the ruling ever since. Public opinion is more divided on partial-birth abortion, taxpayer funding of the practice, and stem-cell research. How will you speak on the abortion issue this campaign?",
+            "description": "Ever since the landmark <i>Roe vs. Wade</i> ruling in 1973, abortion has been a hot-button issue for liberals and conservatives alike. Most people want the procedure to remain legal across all fifty states, however; the Religious Right has been protesting the ruling ever since. Public opinion is more divided on partial-birth abortion, taxpayer funding of the practice, and stem-cell research. How will you speak on the abortion issue this campaign?",
             "likelihood": 1
         }
     },
@@ -168,7 +141,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000281,
         "fields": {
             "priority": 0,
-            "description": "Since 9/11, neoconservative think tanks and administration officials have been braying for blood—and Afghanistan was only ever going to satisfy them for so long. The likes of Rumsfeld, Wolfowitz, and Perle have been lobbying for action against Saddam Hussein's regime in Iraq for months now. This was always going to happen.<br>In his State of the Union address earlier this year and in a face-heel turn from his prior foreign policy focus—the creation of a missile defense system—President Bush declared Iraq a terrorist state in possession of weapons of mass destruction. Last month during an address to the U.N., he made his case to the international community for a potential invasion of Iraq. Nine days ago, the Iraq Resolution, which would authorize the President to use “any means necessary” in Iraq, was introduced. The resolution passed the House yesterday and is now awaiting approval from the Senate. How will you vote?",
+            "description": "In his State of the Union address earlier this year and in a face-heel turn from his prior foreign policy focus—the creation of a missile defense system—President Bush declared Iraq a terrorist state in possession of weapons of mass destruction. Last month during an address to the U.N., he made his case to the international community for a potential invasion of Iraq. Nine days ago, the Iraq Resolution, which would authorize the President to use “any means necessary” in Iraq, was introduced. The resolution passed the House yesterday and is now awaiting approval from the Senate. How will you vote?",
             "likelihood": 1
         }
     },
@@ -177,7 +150,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000282,
         "fields": {
             "priority": 0,
-            "description": "Your vote against the Iraq Resolution has attracted much ire, much like your stand against the Gulf War in 1991. As the nation’s mood shifts towards interventionism, your perceived dovish stance is growing out of touch, and Republican partisans don’t hesitate to go in all guns blazing. How will you defend your vote?",
+            "description": "Your vote against the Iraq Resolution has attracted much ire, much like your stand against the Gulf War in 1991. As the nation's mood shifts towards interventionism, your perceived dovish stance is growing out of touch, and Republican partisans don't hesitate to go in all guns blazing. How will you defend your vote?",
             "likelihood": 1
         }
     },
@@ -195,7 +168,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000316,
         "fields": {
             "priority": 0,
-            "description": "As your campaign recovers from the initial fallout of the Iraq vote, you’re touring the state in the Green Bus, speaking and listening to as many people as you can. Your presence on The Campaign Trail is well received, especially compared to Coleman, who seems to struggle to connect with voters. Where will you next stop?",
+            "description": "As your campaign recovers from the initial fallout of the Iraq vote, you're touring the state in the Green Bus, speaking and listening to as many people as you can. Your presence on The Campaign Trail is well received, especially compared to Coleman, who seems to struggle to connect with voters. Where will you next stop?",
             "likelihood": 1
         }
     },
@@ -204,7 +177,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000332,
         "fields": {
             "priority": 0,
-            "description": "One of the things you’ve been quite vocal about in the Senate is the need for campaign finance reform. The McCain-Feingold effort, which aimed to limit the roles of soft money and third-party “issue advocacy” ads, resulted in the passage of the BCRA earlier this year. How will you address your record on this issue?",
+            "description": "One of the things you've been quite vocal about in the Senate is the need for campaign finance reform. The McCain-Feingold effort, which aimed to limit the roles of soft money and third-party “issue advocacy” ads, resulted in the passage of the BCRA earlier this year. How will you address your record on this issue?",
             "likelihood": 1
         }
     },
@@ -213,7 +186,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000379,
         "fields": {
             "priority": 0,
-            "description": "Minnesota is, and has always been, an agricultural powerhouse—its farming industry generates tens of billions of dollars and supports hundreds of thousands of jobs. You’ve been very passionate in the Senate about the plight of family farmers and the expansion of agribusiness. How will you address farmers’ issues in this campaign?",
+            "description": "Minnesota is, and has always been, an agricultural powerhouse—its farming industry generates tens of billions of dollars and supports hundreds of thousands of jobs. You've been very passionate in the Senate about the plight of family farmers and the expansion of agribusiness. How will you address farmers' issues in this campaign?",
             "likelihood": 1
         }
     },
@@ -222,7 +195,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000392,
         "fields": {
             "priority": 0,
-            "description": "Trade has become a major issue in recent years. A core accomplishment of the Clinton presidency was the North American Free Trade Agreement, which created a trilateral trade bloc between the United States, Canada, and Mexico. You’ve expressed staunch opposition to this trade agreement, as well as a variety of others. Care to clarify your stance?",
+            "description": "Trade has become a major issue in recent years. A core accomplishment of the Clinton presidency was the North American Free Trade Agreement, which created a trilateral trade bloc between the United States, Canada, and Mexico. You've expressed staunch opposition to this trade agreement, as well as a variety of others. Care to clarify your stance?",
             "likelihood": 1
         }
     },
@@ -240,7 +213,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000763,
         "fields": {
             "priority": 0,
-            "description": "…arriving at the debate with Coleman in the evening. What’s your strategy?",
+            "description": "…arriving at the debate with Coleman in the evening. What's your strategy?",
             "likelihood": 1
         }
     },
@@ -249,7 +222,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000769,
         "fields": {
             "priority": 0,
-            "description": "What was once a campaign on the issues—though still one on which your persona left an indelible mark—is now one that features the less savory aspects of electioneering in spades. Republican admen will certainly ramp up attacks on national security, the Iraq vote, and various culture war issues in the concluding stretch. As you enter the final two weeks of this increasingly negative campaign, what’s your pitch to the voters?",
+            "description": "What was once a campaign on the issues—though still one upon which your persona left an indelible mark—is now one that features the less savory aspects of electioneering in spades. Republican admen will certainly ramp up attacks on national security, the Iraq vote, and various culture war issues in the concluding stretch. As you enter the final two weeks of this increasingly negative campaign, what's your pitch to the voters?",
             "likelihood": 1
         }
     },
@@ -267,7 +240,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000837,
         "fields": {
             "priority": 0,
-            "description": "In the final stretch, one final round of Republican attack ads are blaring on every TV screen in Minnesota. What they’re doing isn’t quite on the same level as what Boschwitz tried in 1996, but they’re still blasting you on national security, and (as always) are calling you “embarrassingly liberal”. How will you defend yourself?",
+            "description": "In the final stretch, one final round of Republican attack ads are blaring on every TV screen in Minnesota. What they're doing isn't quite on the same level as what Boschwitz tried in 1996, but they're still blasting you on national security, and (as always) are calling you “embarrassingly liberal.” How will you defend yourself?",
             "likelihood": 1
         }
     },
@@ -276,7 +249,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000848,
         "fields": {
             "priority": 0,
-            "description": "Continuing on the topic of Republican talking points, your “radical environmentalism” is one of the topics they’ve been dredging up, especially in the North—where paid media is dirt cheap. How will you address your opposition to allowing motorboats to pass through the Boundary Waters Canoe Area?",
+            "description": "Continuing on the topic of Republican talking points, your “radical environmentalism” is one of the topics they've been dredging up, especially in the North—where paid media is dirt cheap. How will you address your opposition to allowing motorboats to pass through the Boundary Waters Canoe Area?",
             "likelihood": 1
         }
     },
@@ -285,7 +258,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000858,
         "fields": {
             "priority": 0,
-            "description": "More G.O.P. attacks are flowing your way. This circuit is mostly focused on your vote against welfare reform in 1996, with Coleman’s surrogates and T.V. ads claiming you voted for letting welfare queens siphon taxpayer dollars. How will you justify your vote against this bill?",
+            "description": "More G.O.P. attacks are flowing your way. This circuit is mostly focused on your vote against welfare reform in 1996, with Coleman's surrogates and T.V. ads claiming you voted for letting welfare queens siphon taxpayer dollars. How will you justify your vote against this bill?",
             "likelihood": 1
         }
     },
@@ -294,7 +267,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000876,
         "fields": {
             "priority": 0,
-            "description": "It seems you just can’t catch a break—even more Republican ads have been focused on your two past arrests for civil disobedience—one for protesting the Vietnam War and the other more notable one for protesting bank foreclosures. These tie into their claims that you’re more of an “Abbie Hoffman-type character” than a liberal in the vein of Humphrey and Mondale. Do you intend to address this?",
+            "description": "It seems you just can't catch a break—even more Republican ads have been focused on your two past arrests for civil disobedience—one for protesting the Vietnam War and the other more notable one for protesting bank foreclosures. These tie into their claims that you're more of an “Abbie Hoffman-type character” than a liberal in the vein of Humphrey and Mondale. Do you intend to address this?",
             "likelihood": 1
         }
     },
@@ -303,7 +276,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000884,
         "fields": {
             "priority": 0,
-            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail,the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built”, as he calls it. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
+            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail, the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built,” as he calls it. It's not difficult to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
             "likelihood": 1
         }
     },
@@ -312,7 +285,7 @@ campaignTrail_temp.questions_json = [
         "pk": 10000892,
         "fields": {
             "priority": 0,
-            "description": "A bizarre story from the front today. The weekend before the election, Coleman’s affiliates have aired a so-called ‘issue’ ‘advocacy’ ad featuring footage of Osama bin Laden declaring a fatwa against the United States, followed by footage of you arguing against so-called “anti-terrorism” bills on the floor of the Senate. Meanwhile, a grim yet melodramatic narration attacks your votes against Bush’s national security measures. How will you address this strange development?",
+            "description": "A bizarre story from the front today. The weekend before the election, Coleman's affiliates have aired a so-called “issue” “advocacy” ad featuring footage of Osama bin Laden declaring a fatwa against the United States, followed by footage of you arguing against so-called “anti-terrorism” bills on the floor of the Senate. Meanwhile, a grim yet melodramatic narration attacks your votes against Bush's national security measures. How will you address this strange development?",
             "likelihood": 1
         }
     },
@@ -341,7 +314,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000028,
         "fields": {
             "question": 10000026,
-            "description": "The big insurance companies, pharmaceutical companies, and oil companies don't like me. But they already have great representation in Washington. It is the rest of the people who need it. I represent children, farmers, and working families, and I’m proud of it."
+            "description": "The big insurance companies, pharmaceutical companies, and oil companies don't like me. But they already have great representation in Washington. It is the rest of the people who need it. I represent children, farmers, and working families, and I'm proud of it."
         }
     },
     {
@@ -349,7 +322,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000029,
         "fields": {
             "question": 10000026,
-            "description": "I have never understood arguments for the need for politicians to “move to the center” to get elected. Most Americans will take “progressivism”, even if they won’t take the label. Liberals have been on the right side of every issue for seventy years, and that is my theory of victory."
+            "description": "I have never understood arguments for the need for politicians to “move to the center” to get elected. Most Americans will take “progressivism,” even if they won't take the label. Liberals have been on the right side of every issue for seventy years, and that is my theory of victory."
         }
     },
     {
@@ -357,7 +330,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000030,
         "fields": {
             "question": 10000026,
-            "description": "Politics isn’t about power—it’s about improving people’s lives. We fought special interests for campaign finance regulation. We fought to increase the minimum wage, and won. We fought to protect Medicare and Social Security. This campaign isn’t about me; it is about the people I represent."
+            "description": "Politics isn't about power—it's about improving people's lives. We fought special interests for campaign finance regulation. We fought to increase the minimum wage, and won. We fought to protect Medicare and Social Security. This campaign isn't about me; it is about the people I represent."
         }
     },
     {
@@ -365,7 +338,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000043,
         "fields": {
             "question": 10000042,
-            "description": "Eveleth. We will show the voters that we won’t leave any city, any municipality, any county, behind, no matter how small. I will visit Eveleth-Gilbert, the city’s only high school, and stress the importance of putting kids first and making Minnesota’s schools our number-one priority."
+            "description": "Eveleth. We will show the voters that we won't leave any city, any municipality, any county, behind, no matter how small. I will visit Eveleth-Gilbert, the city's only high school, and stress the importance of putting kids first and making Minnesota's schools our number-one priority."
         }
     },
     {
@@ -373,7 +346,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000044,
         "fields": {
             "question": 10000042,
-            "description": "St. Cloud. I will visit a Veterans of Foreign Wars Granite Post, where I will touch on the work I’ve done on the Senate Veterans’ Affairs Committee. I made five pledges for our veterans eight years ago, and I fulfilled every single one—Paul Wellstone is someone who gets results for Minnesotans.\n"
+            "description": "St. Cloud. I will visit a VFW Granite Post, where I will touch on the work I've done on the Senate Veterans' Affairs Committee. I made five pledges for our veterans eight years ago, and I have fulfilled every single one—Paul Wellstone is someone who gets results for Minnesotans."
         }
     },
     {
@@ -381,7 +354,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000045,
         "fields": {
             "question": 10000042,
-            "description": "Moorhead, right across the border from Fargo. In front of their Zephyr and Freedom wind turbines, I will hit on the importance of developing renewable energy sources, and how I’ve battled Big Oil and their goons on Capitol Hill. I’ll also talk about the new farm bill, and how I’ve contributed to it. "
+            "description": "Moorhead, right across the border from Fargo. In front of their Zephyr and Freedom wind turbines, I will hit on the importance of developing renewable energy sources, and how I've battled Big Oil and their goons on Capitol Hill. I'll also talk about the new farm bill, and how I've contributed to it. "
         }
     },
     {
@@ -389,7 +362,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000046,
         "fields": {
             "question": 10000042,
-            "description": "Northfield. I taught political science for twenty years at Carleton College, and I will emphasize in my speech there that our work is not finished. With everlasting faith and determination, I am proud to bear Minnesota’s banner in the Senate, and I will never give up."
+            "description": "Northfield. I taught political science for twenty years at Carleton College, and I will emphasize in my speech there that our work is not finished. With everlasting faith and determination, I am proud to bear Minnesota's banner in the Senate, and I will never give up."
         }
     },
     {
@@ -397,7 +370,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000061,
         "fields": {
             "question": 10000060,
-            "description": "Not only has Coleman changed his political affiliation, he’s also changed his positions on a wide variety of issues. I have always followed my conviction and have been one of the most ideologically consistent members of Congress. I have the integrity to lead, and he doesn’t."
+            "description": "Not only has Coleman changed his political affiliation, he's also changed his positions on a wide variety of issues. I have always followed my conviction and have been one of the most ideologically consistent members of Congress. I have the integrity to lead, and he doesn't."
         }
     },
     {
@@ -405,7 +378,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000064,
         "fields": {
             "question": 10000060,
-            "description": "Look at the facts. Norm Coleman wants to privatize Social Security and has said as much over the past few years. He wants to ship Minnesotan jobs overseas with unfair trade schemes and run Medicare and Medicaid into the ground. These aren’t Minnesota values."
+            "description": "Look at the facts. Norm Coleman wants to privatize Social Security and has said as much over the past few years. He wants to ship Minnesotan jobs overseas with unfair trade schemes and run Medicare and Medicaid into the ground. These aren't Minnesota values."
         }
     },
     {
@@ -421,7 +394,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000073,
         "fields": {
             "question": 10000072,
-            "description": "Pour them into television advertising, especially in major media markets like Minneapolis and Saint Paul. What happened to Rudy Perpich shows us that the DFL must strongly focus on winning Twin Cities liberals and moderates if we plan on winning a majority of the vote. "
+            "description": "Pour them into television advertising, especially in major media markets like Minneapolis and Saint Paul. What happened to Rudy Perpich shows us that the DFL must strongly focus on winning Twin Cities liberals and moderates if we plan on winning a majority of the vote."
         }
     },
     {
@@ -437,7 +410,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000075,
         "fields": {
             "question": 10000072,
-            "description": "I reject the money-and-ads formula that so many candidates have now turned to in desperation. Let Coleman have the airwaves—we will have the streets on our side, and we know that’s what counts. I want to invest our surplus funding into our volunteer campaign."
+            "description": "I reject the money-and-ads formula that so many candidates have now turned to in desperation. Let Coleman have the airwaves—we will have the streets on our side, and we know that's what counts. I want to invest our surplus funding into our volunteer campaign."
         }
     },
     {
@@ -453,7 +426,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000116,
         "fields": {
             "question": 10000115,
-            "description": "Less than two percent of estates are actually affected by the estate tax, so the “death tax” is explicitly for the ultra-rich. This really isn’t something that affects the average person at all, and I will attack this tax cut for overwhelmingly benefiting the wealthy."
+            "description": "Less than two percent of estates are actually affected by the estate tax, so the “death tax” is explicitly for the ultra-rich. This really isn't something that affects the average person at all, and I will attack this tax cut for overwhelmingly benefiting the wealthy."
         }
     },
     {
@@ -469,7 +442,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000118,
         "fields": {
             "question": 10000115,
-            "description": "This isn’t really an issue we can win with. Whatever we say, the Republican attack machine is simply going to keep spouting their lies about “death taxes” or whatnot, so it would probably be better to focus on issues where we have the upper hand."
+            "description": "This isn't really an issue we can win with. Whatever we say, the Republican attack machine is simply going to keep spouting their lies about “death taxes” or whatnot, so it would probably be better to focus on issues where we have the upper hand."
         }
     },
     {
@@ -477,7 +450,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000128,
         "fields": {
             "question": 10000127,
-            "description": "Social Security is in better financial shape today than it has been for most of the past six decades. Demagoging about its solvency is a right-wing scare tactic, plain and simple, and I will not hesitate to hold Coleman accountable for supporting Bush’s irresponsible and risky privatization plan—you don’t take the security out of Social Security. Minnesota's seniors should know about this."
+            "description": "Social Security is in better financial shape today than it has been for most of the past six decades. Demagoging about its solvency is a right-wing scare tactic, plain and simple, and I will not hesitate to hold Coleman accountable for supporting Bush's irresponsible and risky privatization plan—you don't take the security out of Social Security. Minnesota's seniors should know about this."
         }
     },
     {
@@ -485,7 +458,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000129,
         "fields": {
             "question": 10000127,
-            "description": "In the Senate, I voted fifteen times to protect Social Security, I voted five times for a Social Security lockbox, and I voted to pour 300 billion dollars per year into the program to maintain its solvency. Paul Wellstone’s position on this issue is clear."
+            "description": "In the Senate, I voted fifteen times to protect Social Security, I voted five times for a Social Security lockbox, and I voted to pour 300 billion dollars per year into the program to maintain its solvency. Paul Wellstone's position on this issue is clear."
         }
     },
     {
@@ -493,7 +466,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000130,
         "fields": {
             "question": 10000127,
-            "description": "The Al Gore plan registered as very popular in opinion polling—almost sixty percent of Minnesotans supported it. I’d like to throw my full support behind a Social Security lockbox, where we would put the revenue from payroll taxes into a separate account."
+            "description": "The Al Gore plan registered as very popular in opinion polling—almost sixty percent of Minnesotans supported it. I'd like to throw my full support behind a Social Security lockbox, where we would put the revenue from payroll taxes into a separate account."
         }
     },
     {
@@ -501,7 +474,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000144,
         "fields": {
             "question": 10000143,
-            "description": "We must take the initiative if we want to have an inhabitable planet for our children—this is as much a national security concern as the War on Terror. I unequivocally support a carbon price, an end to Big Oil subsidies, and expansive EPA regulations on coal, oil, and gas. "
+            "description": "We must take the initiative if we want to have an inhabitable planet for our children—this is as much a national security concern as the War on Terror. I unequivocally support a carbon price, an end to Big Oil subsidies, and expansive EPA regulations on coal, oil, and gas."
         }
     },
     {
@@ -517,7 +490,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000153,
         "fields": {
             "question": 10000143,
-            "description": "I stopped the Big Oil scheme to drill at the Arctic National Wildlife Refuge earlier this year, and I’m ready to filibuster it if they relitigate that mess <i>again</i>. The ANWR is one of the last remaining environmental treasures of the United States, and I will not allow Bush, Cheney, and Coleman to ruin it.\n"
+            "description": "I stopped the Big Oil scheme to drill at the Arctic National Wildlife Refuge earlier this year, and I'm ready to filibuster it if they relitigate that mess <i>again</i>. The ANWR is one of the last remaining environmental treasures of the United States, and I will not allow Bush, Cheney, and Coleman to ruin it."
         }
     },
     {
@@ -525,7 +498,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000156,
         "fields": {
             "question": 10000143,
-            "description": "I believe that the world needs to be united in reducing carbon emissions to halt global warming. That’s why I support ratifying the Kyoto Protocol, which would set binding targets for the U.S. and other developed nations. I cannot fathom why the Bush administration would oppose this."
+            "description": "I believe that the world needs to be united in reducing carbon emissions to halt global warming. That's why I support ratifying the Kyoto Protocol, which would set binding targets for the U.S. and other developed nations. I cannot fathom why the Bush administration would oppose this."
         }
     },
     {
@@ -533,7 +506,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000161,
         "fields": {
             "question": 10000160,
-            "description": "As much as he was an awful man, Atwater was right about how to win as a Democrat—to divide up the haves and have-nots, to reinvigorate the New Deal coalition, and to attack. I helped build Jesse Jackson’s Rainbow Coalition here in Minnesota—of hard-hats, the inner-city poor, racial minorities, family farmers, and liberal activists—and what we must do is show the state that it isn’t dead. Together, we can realize a political revolution."
+            "description": "As much as he was an awful man, Atwater was right about how to win as a Democrat—to divide up the haves and have-nots, to reinvigorate the New Deal coalition, and to attack. I helped build Jesse Jackson's Rainbow Coalition here in Minnesota—of hard-hats, the inner-city poor, racial minorities, family farmers, and liberal activists—and what we must do is show the state that it isn't dead. Together, we can realize a political revolution."
         }
     },
     {
@@ -541,7 +514,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000162,
         "fields": {
             "question": 10000160,
-            "description": "Our victory in 1990 has shown that as long as we don’t emphasize wedges like abortion or gay rights, people can, and will, get behind progressive politics. People want better wages, better schools, better healthcare, and better jobs, and that’s what we’ll talk about—key pocketbook issues, and how we will fight for working families. That’s how we win a majority of the vote—by talking sense to the people about the real issues."
+            "description": "Our victory in 1990 has shown that as long as we don't emphasize wedges like abortion or gay rights, people can, and will, get behind progressive politics. People want better wages, better schools, better healthcare, and better jobs, and that's what we’ll talk about—key pocketbook issues, and how we will fight for working families. That's how we win a majority of the vote—by talking sense to the people about the real issues."
         }
     },
     {
@@ -549,7 +522,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000163,
         "fields": {
             "question": 10000160,
-            "description": "We must appeal to the liberals of the party. A broad majority of Americans want legal abortion, racial justice, and greater civil rights protections, and by emphasizing these issues, we will reunite the Rainbow Coalition, and create the left’s answer to the Moral Majority."
+            "description": "We must appeal to the liberals of the party. A broad majority of Americans want legal abortion, racial justice, and greater civil rights protections, and by emphasizing these issues, we will reunite the Rainbow Coalition, and create the left's answer to the Moral Majority."
         }
     },
     {
@@ -557,7 +530,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000177,
         "fields": {
             "question": 10000176,
-            "description": "Look—we aren’t getting universal health insurance in any form under Bush, and the Republican attack machine will yap on and on about “government medicine” or “death panels” if I bring this back into the picture. Let sleeping dogs lie."
+            "description": "Look—we aren't getting universal health insurance in any form under Bush, and the Republican attack machine will yap on and on about “government medicine” or “death panels” if I bring this back into the picture. Let sleeping dogs lie."
         }
     },
     {
@@ -573,7 +546,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000179,
         "fields": {
             "question": 10000176,
-            "description": "When elderly people are cutting their pills in half because they can’t afford prescription drugs, you know that something is terribly wrong. I’ve worked to regulate drug prices and implement a Medicare drug entitlement program."
+            "description": "When elderly people are cutting their pills in half because they can't afford prescription drugs, you know that something is terribly wrong. I've worked to regulate drug prices and implement a Medicare drug entitlement program."
         }
     },
     {
@@ -589,7 +562,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000192,
         "fields": {
             "question": 10000191,
-            "description": "I will loudly oppose this initiative. Why do we impose our misplaced visions of standardized testing upon children as young as eight? Why are we holding our kids responsible for our failure to properly fund the education system? Standardized testing is not the right way to fix our education system—instead, we must finally properly fund it, and acknowledge that children will be “left behind” if we don’t."
+            "description": "I will loudly oppose this initiative. Why do we impose our misplaced visions of standardized testing upon children as young as eight? Why are we holding our kids responsible for our failure to properly fund the education system? Standardized testing is not the right way to fix our education system—instead, we must finally properly fund it, and acknowledge that children will be “left behind” if we don't."
         }
     },
     {
@@ -597,7 +570,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000193,
         "fields": {
             "question": 10000191,
-            "description": "These reforms are going in the right direction, but the bill did not provide adequate funding for their enactment. You just can't have the slogan, or the rhetoric, about leaving no child behind unless you are actually going to invest in them. One candidate in this race has a plan to pour $2 billion into Minnesota’s schools, and the other candidate has a plan to cut taxes for the 1%. The choice is clear."
+            "description": "These reforms are going in the right direction, but the bill did not provide adequate funding for their enactment. You just can't have the slogan, or the rhetoric, about leaving no child behind unless you are actually going to invest in them. One candidate in this race has a plan to pour $2 billion into Minnesota's schools, and the other candidate has a plan to cut taxes for the 1%. The choice is clear."
         }
     },
     {
@@ -613,7 +586,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000205,
         "fields": {
             "question": 10000204,
-            "description": "Every thirty-six seconds in America, a baby is born into poverty. Everything about one’s life depends on the first three years of development. We must finally adequately fund the vital WIC and Head Start programs to ensure adequate prenatal care and childcare for all."
+            "description": "Every thirty-six seconds in America, a baby is born into poverty. Everything about one's life depends on the first three years of development. We must finally adequately fund the vital WIC and Head Start programs to ensure adequate prenatal care and childcare for all."
         }
     },
     {
@@ -621,7 +594,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000206,
         "fields": {
             "question": 10000204,
-            "description": "Our focus should shift from tax breaks for the 1% and shrinking welfare rolls to ending the death trap of poverty in America. I want to make the minimum wage a living wage, properly enforce equal-pay laws, redouble our efforts to improve educational opportunities for the poor, and protect and expand the Earned Income Tax Credit. It’s time to put Main Street before Wall Street again."
+            "description": "Our focus should shift from tax breaks for the 1% and shrinking welfare rolls to ending the death trap of poverty in America. I want to make the minimum wage a living wage, properly enforce equal-pay laws, redouble our efforts to improve educational opportunities for the poor, and protect and expand the Earned Income Tax Credit. It's time to put Main Street before Wall Street again."
         }
     },
     {
@@ -637,7 +610,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000208,
         "fields": {
             "question": 10000204,
-            "description": "The way in which money has come to dominate politics is the foremost ethical issue of the politics of our time. It is systemic corruption, in which there is a huge imbalance of power between the vast majority of the people and those few who have the financial wherewithal to count more. This belies the need for campaign finance reform, which I have spent the last five years fighting for."
+            "description": "The way in which money has come to dominate politics is the foremost ethical issue of the politics of our time. It is systemic corruption, in which there is a huge imbalance of power between the vast majority of the people and those few who have the financial wherewithal to cut to the front of the line. This belies the need for campaign finance reform, which I have spent the last five years fighting for."
         }
     },
     {
@@ -645,7 +618,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000224,
         "fields": {
             "question": 10000223,
-            "description": "I’d like to specifically focus on keeping organized labor on board. The AFL-CIO has always been strong in Minnesota, and I will lean extensively into them to win blue-collar votes—along with strong rhetoric on the minimum wage, workers’ pensions, and the Right to Organize."
+            "description": "I'd like to specifically focus on keeping organized labor on board. The AFL-CIO has always been strong in Minnesota, and I will lean extensively into them to win blue-collar votes—along with strong rhetoric on the minimum wage, workers’ pensions, and the Right to Organize."
         }
     },
     {
@@ -653,7 +626,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000225,
         "fields": {
             "question": 10000223,
-            "description": "Disproportionate among the ranks of nonvoters are minorities, blue-collar, and low-income citizens. It is the Democrats’ natural constituency, if we are willing to speak to their concerns and include them. We need to target the marginalized extensively with our volunteer campaign."
+            "description": "Disproportionate among the ranks of nonvoters are minorities, blue-collar, and low-income citizens. It is the Democrats' natural constituency, if we are willing to speak to their concerns and include them. We need to target the marginalized extensively with our volunteer campaign."
         }
     },
     {
@@ -661,7 +634,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000226,
         "fields": {
             "question": 10000223,
-            "description": "As someone who’s faced immense discrimination just for being Jewish, I have walked the talk on civil rights since the seventies — and we will show the nation that, when united, a Rainbow Coalition can and will bring true change. We’ll focus on racial minorities."
+            "description": "As someone who's faced immense discrimination just for being Jewish, I have walked the talk on civil rights since the seventies — and we will show the nation that, when united, a Rainbow Coalition can and will bring true change. We’ll focus on racial minorities."
         }
     },
     {
@@ -685,7 +658,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000240,
         "fields": {
             "question": 10000236,
-            "description": "I’d actually like to highlight some policy areas where I’ve worked with the President, such as on the recent Farm Bill. I have worked across the aisle to support working people, and I’ll keep at it in my next six years.\n"
+            "description": "I'd actually like to highlight some policy areas where I've worked with the President, such as on the recent Farm Bill. I have worked across the aisle to support working people, and I'll keep at it in my next six years."
         }
     },
     {
@@ -701,7 +674,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000253,
         "fields": {
             "question": 10000237,
-            "description": "After months of attacks on the radio, Norm Coleman has taken his negative campaign to T.V., and with it, the downright nasty smears that seem to define our politics nowadays. The truth is, he’s far too afraid to tell you where he stands, and that’s why he’s resorting to attacks."
+            "description": "After months of attacks on the radio, Norm Coleman has taken his negative campaign to T.V., and with it, the downright nasty smears that seem to define our politics nowadays. The truth is, he's far too afraid to tell you where he stands, and that's why he's resorting to attacks."
         }
     },
     {
@@ -709,7 +682,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000256,
         "fields": {
             "question": 10000237,
-            "description": "I want our campaign to take the attack right back to him. Norm Coleman has supported a $25 billion tax giveway to Big Business, making it possible for large corporations to pay no taxes at all. He even supported a $250 million tax break for Enron—a former client of his lobbying firm!\n"
+            "description": "I want our campaign to take the attack right back to him. Norm Coleman has supported a $25 billion tax giveway to Big Business, making it possible for large corporations to pay no taxes at all. He even supported a $250 million tax break for Enron—a former client of his lobbying firm!"
         }
     },
     {
@@ -717,7 +690,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000257,
         "fields": {
             "question": 10000237,
-            "description": "I want our campaign to take the attack right back to him. We have him on tape endorsing me for re-election in 1996—let’s use that in an attack ad hammering him on his changing positions and party affiliations, which we can use to dispute his integrity."
+            "description": "I want our campaign to take the attack right back to him. We have him on tape endorsing me for re-election in 1996—let's use that in an attack ad hammering him on his changing positions and party affiliations, which we can use to dispute his integrity."
         }
     },
     {
@@ -725,7 +698,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000258,
         "fields": {
             "question": 10000237,
-            "description": "I want our campaign to take the attack right back to him. Norm Coleman wants to put hundreds of thousands of people in harm’s way by privatizing Social Security and running key programs into the ground—those aren’t Minnesotan values, and our state knows it.\n"
+            "description": "I want our campaign to take the attack right back to him. Norm Coleman wants to put hundreds of thousands of people in harm's way by privatizing Social Security and running key programs into the ground—those aren't Minnesotan values, and our state knows it."
         }
     },
     {
@@ -733,7 +706,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000268,
         "fields": {
             "question": 10000267,
-            "description": "Off the record, the Iron Range is only so influential because of its state legislators’ seniority. Their outsized political influence—and population—are on the decline. We’ll focus our resources on the Twin Cities and its suburbs instead."
+            "description": "Off the record, the Iron Range is only so influential because of its state legislators' seniority. Their outsized political influence—and population—are on the decline. We'll focus our resources on the Twin Cities and its suburbs instead."
         }
     },
     {
@@ -741,7 +714,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000269,
         "fields": {
             "question": 10000267,
-            "description": "I have known and cherished the support of the Iron Range for years, and I am not about to throw it away. We have increased the minimum wage despite the issue’s deplorable lack of public attention, we have fought against unfair trade pacts, we have pushed for a stronger Right to Organize, and we have worked to revitalize the steel industry. Re-elect me, and we will keep standing up for working families in the Iron Range in Washington."
+            "description": "I have known and cherished the support of the Iron Range for years, and I am not about to throw it away. We have increased the minimum wage despite the issue's deplorable lack of public attention, we have fought against unfair trade pacts, we have pushed for a stronger Right to Organize, and we have worked to revitalize the steel industry. Re-elect me, and we will keep standing up for working families in the Iron Range in Washington."
         }
     },
     {
@@ -765,7 +738,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000285,
         "fields": {
             "question": 10000279,
-            "description": "I support renewing the Assault Weapons Ban. I want to stress that this bill doesn’t hurt our constituents, that the right to bear arms is important, and that all sportspeople should have the right to hunt."
+            "description": "I support renewing the Assault Weapons Ban. I want to stress that this bill doesn't hurt our constituents, that the right to bear arms is important, and that all sportspeople should have the right to hunt."
         }
     },
     {
@@ -773,7 +746,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000286,
         "fields": {
             "question": 10000279,
-            "description": "I firmly support the right to bear arms, and I strongly oppose the Assault Weapons Ban. This prohibition is a real perversion of the Second Amendment and an albatross around our hunters’ necks, and if re-elected, I will work to repeal it."
+            "description": "I firmly support the right to bear arms, and I strongly oppose the Assault Weapons Ban. This ban is a real perversion of the Second Amendment and an albatross around our hunters' necks, and if re-elected, I will not vote to renew this monstrosity."
         }
     },
     {
@@ -781,7 +754,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000287,
         "fields": {
             "question": 10000279,
-            "description": "What’s worth focusing on here is how Coleman offers nothing but flip-flops and reversals on this topic. He says he wants to renew the ban now, but he said something completely different in a debate last month."
+            "description": "What's worth focusing on here is how Coleman offers nothing but flip-flops and reversals on this topic. He says he wants to renew the ban now, but he said something completely different in a debate last month."
         }
     },
     {
@@ -797,7 +770,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000302,
         "fields": {
             "question": 10000280,
-            "description": "I want abortion to remain legal across the United States, and I oppose overturning <i>Roe vs. Wade</i>. That being said, I believe that partial-birth abortion is a gruesome and inhumane procedure that should be illegalized—and I won’t talk about taxpayer funding of abortion and stem-cell research."
+            "description": "I want abortion to remain legal across the United States, and I oppose overturning <i>Roe vs. Wade</i>. That being said, I believe that partial-birth abortion is a gruesome and inhumane procedure that should be illegalized—and I won't talk about taxpayer funding of abortion and stem-cell research."
         }
     },
     {
@@ -805,7 +778,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000303,
         "fields": {
             "question": 10000280,
-            "description": "I’m not going to let Coleman off the hook for saying different things in different places. When he was addressing Minnesota Citizens Concerned for Life, he said he supported “the complete and immediate” reversal of <i>Roe vs. Wade</i>."
+            "description": "I'm not going to let Coleman off the hook for saying different things in different places. When he was addressing Minnesota Citizens Concerned for Life, he said he supported “the complete and immediate” reversal of <i>Roe vs. Wade</i>."
         }
     },
     {
@@ -813,7 +786,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000304,
         "fields": {
             "question": 10000280,
-            "description": "I won’t. I am not about to hemorrhage support in the Iron Range, my core constituency, to win over people who will already vote for me—and I will certainly not emphasize my position on taxpayer funding of Planned Parenthood and stem-cell research."
+            "description": "I won't. I am not about to hemorrhage support in the Iron Range, my core constituency, to win over people who will already vote for me—and I will certainly not emphasize my position on taxpayer funding of Planned Parenthood and stem-cell research."
         }
     },
     {
@@ -821,7 +794,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000317,
         "fields": {
             "question": 10000281,
-            "description": "There’s only one option, really. Nay."
+            "description": "There's only one option, really. Nay."
         }
     },
     {
@@ -845,7 +818,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000323,
         "fields": {
             "question": 10000282,
-            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we’ve already done that in Vietnam, in Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law, human rights, and the basic tenets of American foreign policy at every turn."
+            "description": "We do not need another foreign intervention to destabilize another foreign region which will end the lives of thousands upon thousands of our boys when we've already done that in Vietnam, in Nicaragua, and in the Gulf War. I will denounce this brazen violation of international law, human rights, and the basic tenets of American foreign policy at every turn."
         }
     },
     {
@@ -853,7 +826,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000333,
         "fields": {
             "question": 10000283,
-            "description": "They’re true, plain and simple. I cannot see why handing out another billion to the military-industrial complex is more worthwhile than using that billion to provide more opportunities for low-income children. I cannot see how anyone, in good conscience, believes it’s more worthwhile to maintain a bloated military budget than to fix our crumbling schools, hospitals, and roads. If that makes me ‘weak on defense’, I’m proud of it."
+            "description": "They're true, plain and simple. I cannot see why handing out another billion to the military-industrial complex is more worthwhile than using that billion to provide more opportunities for low-income children. I cannot see how anyone, in good conscience, can believe that it is justified to authorize bloated military expenditures but that it is not justified to authorize expenditures to fix our crumbling schools, hospitals, and roads. If that makes me “weak on defense,” I will wear that label as a badge of honor to my grave."
         }
     },
     {
@@ -861,7 +834,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000334,
         "fields": {
             "question": 10000283,
-            "description": "I won’t dignify these absolutely unsubstantiated attacks with a response. Voters will see through the mudslinging.\n"
+            "description": "I won't dignify these absolutely unsubstantiated attacks with a response. Voters will see through the mudslinging."
         }
     },
     {
@@ -869,7 +842,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000335,
         "fields": {
             "question": 10000283,
-            "description": "As always, Coleman is playing fast and loose with the facts. The Republicans are calling me ‘weak on defense’ despite my years of work for Minnesota’s veterans and my commitment to strengthening our military."
+            "description": "As always, Coleman is playing fast and loose with the facts. The Republicans are calling me “weak on defense” despite my years of work for Minnesota's veterans and my commitment to strengthening our military. Anything else is just bluster."
         }
     },
     {
@@ -877,7 +850,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000346,
         "fields": {
             "question": 10000316,
-            "description": "I really want a good showing for our campaign at this year’s State Fair in Falcon Heights. We’ll set up a great booth, release “Behind The Bus”, the comprehensive Wellstone CD, and I’ll personally shake hands with and hear out the concerns of as many voters as possible."
+            "description": "I really want a good showing for our campaign at this year's State Fair in Falcon Heights. We'll set up a great booth, release “Behind The Bus,” the comprehensive Wellstone CD, and I'll personally shake hands with and hear out the concerns of as many voters as possible."
         }
     },
     {
@@ -885,7 +858,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000347,
         "fields": {
             "question": 10000316,
-            "description": "I understand my vote for the Defense of Marriage Act has been incredibly disappointing to my friends in the GLBT community, and I want to win back their trust. I will ride along with the Human Rights Campaign in the Pride Parade in Minneapolis. It’s time for us to move forward."
+            "description": "I understand my vote for the Defense of Marriage Act has been incredibly disappointing to my friends in the GLBT community, and I want to win back their trust. I will ride along with the Human Rights Campaign in the Pride Parade in Minneapolis. It's time for us to move forward."
         }
     },
     {
@@ -893,7 +866,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000348,
         "fields": {
             "question": 10000316,
-            "description": "The Wellstone campaign will tour the Mississippi River, moving from Winona all the way up towards Farmington. Southeastern Minnesota feels unheard and unrepresented in our political discourse, as we’ve seen with the rise of the MNIP—hopefully my visits will change that."
+            "description": "The Wellstone campaign will tour the Mississippi River, moving from Winona all the way up towards Farmington. Southeastern Minnesota feels unheard and unrepresented in our political discourse, as we've seen with the rise of the MNIP—hopefully my visits will change that."
         }
     },
     {
@@ -901,7 +874,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000349,
         "fields": {
             "question": 10000316,
-            "description": "The Native American reservations have not been given the representation they deserve from the Hill. I will attend a pow-wow at the Mille Lacs reservation. Afterwards, I will tour the reservation’s housing facilities, meet with tribal leaders, and address the local residents."
+            "description": "The Native American reservations have not been given the representation they deserve from the Hill. I will attend a pow-wow at the Mille Lacs reservation. Afterwards, I will tour the reservation's housing facilities, meet with tribal leaders, and address the local residents."
         }
     },
     {
@@ -909,7 +882,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000367,
         "fields": {
             "question": 10000332,
-            "description": "In the Senate, I pushed for a gift ban on all Senators, over the vociferous objections of Republican leadership. I strengthened and sponsored the landmark McCain-Feingold Act—though, to be honest, the experience has been discouraging. The original bill doesn’t even apply spending limits to congressional races or abolish “soft money”—both of which will be my priorities for a new sweeping campaign finance reform act."
+            "description": "In the Senate, I pushed for a gift ban on all Senators, over the vociferous objections of Republican leadership. I strengthened and sponsored the landmark McCain-Feingold Act—though, to be honest, the experience has been discouraging. The original bill doesn't even apply spending limits to congressional races or abolish “soft money”—both of which will be my priorities for a new sweeping campaign finance reform act."
         }
     },
     {
@@ -917,7 +890,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000368,
         "fields": {
             "question": 10000332,
-            "description": "Interests of ordinary people often go unheard. Few lobby on behalf of the poor and needy. Advocates for the poor don’t have the resources and political clout in Washington. The fact of the matter is, most ordinary citizens are shut out. If the political system actually worked for the majority, then certainly much more would already have been done for education, affordable child care, and health security for families."
+            "description": "Interests of ordinary people often go unheard. Few lobby on behalf of the poor and needy. Advocates for the poor don't have the resources and political clout in Washington. The fact of the matter is, most ordinary citizens are shut out. If the political system actually worked for the majority, then certainly much more would already have been done for education, affordable child care, and health security for families."
         }
     },
     {
@@ -925,7 +898,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000369,
         "fields": {
             "question": 10000332,
-            "description": "If a baseball player were to lean over and hand the umpire a wad of bills before he calls the pitch, we’d call it a bribe. But when a real estate developer buys his way into the White House and gets a favorable government ruling that wouldn’t be available to the rest of us, or when the tobacco industry stuffs $13 million in the pockets of Hastert, Lott, and their band of merry looters, what do we call that? A “campaign contribution.”"
+            "description": "If a baseball player were to lean over and hand the umpire a wad of bills before he calls the pitch, we'd call it a bribe. But when a real estate developer buys his way into the White House and gets a favorable government ruling that wouldn't be available to the rest of us, or when the tobacco industry stuffs $13 million in the pockets of Hastert, Lott, and their band of merry looters, what do we call that? A “campaign contribution.”"
         }
     },
     {
@@ -933,7 +906,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000380,
         "fields": {
             "question": 10000379,
-            "description": "I am distraught by all the pain I’ve seen — so many broken lives, broken dreams, broken families. The farcical Freedom to <s>Farm</s> Fail Act, which slashed subsidies and price supports for those who needed it most, has rewarded corporate farming interests while punishing family farmers. I voted against this bill, and have worked to focus government support on smaller producers and not massive conglomerates like Monsanto. "
+            "description": "I am distraught by all the pain I've seen—so many broken lives, broken dreams, broken families. The farcical Freedom to <s>Farm</s> Fail Act, which slashed subsidies and price supports for those who needed it most, has rewarded corporate farming interests while punishing family farmers. I voted against this bill, and have worked to focus government support on smaller producers and not massive conglomerates like Monsanto."
         }
     },
     {
@@ -941,7 +914,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000381,
         "fields": {
             "question": 10000379,
-            "description": "The question on farming that we are facing now is the same question that our ancestors had to face a century ago—producers versus conglomerates, and I will always stand with the producers. We need a moratorium on agribusiness mergers and proper enforcement of our antitrust laws against corporate farming interests—which will improve family farmers’ bargaining power and return competition to this industry."
+            "description": "The question on farming that we are facing now is the same question that our ancestors had to face a century ago—producers versus conglomerates, and I will always stand with the producers. We need a moratorium on agribusiness mergers and proper enforcement of our antitrust laws against corporate farming interests—which will improve family farmers' bargaining power and return competition to this industry."
         }
     },
     {
@@ -949,7 +922,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000382,
         "fields": {
             "question": 10000379,
-            "description": "President Clinton, President Bush, Norm Coleman, and many others have told farmers that more exports, more free trade agreements, and foreign markets will be their salvation. But the interests of exporters such as Cargill, our state’s biggest company, and those of family farmers are quite different. Exports mean nothing to producers if they still cannot even get a price that covers their costs of production.\n"
+            "description": "President Clinton, President Bush, Norm Coleman, and many others have told farmers that more exports, more free trade agreements, and foreign markets will be their salvation. But the interests of exporters such as Cargill, our state's biggest company, and those of family farmers are quite different. Exports mean nothing to producers if they still cannot even get a price that covers their costs of production."
         }
     },
     {
@@ -957,7 +930,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000393,
         "fields": {
             "question": 10000392,
-            "description": "I have never had anything against free trade, no matter what the Right might tell you. Whether we like it or not, globalization is here to stay, and we must take advantage of its benefits, rather than simply decry its harms. That’s what I’ve been doing in the Senate.\n"
+            "description": "I have never had anything against free trade, no matter what the Right might tell you. Whether we like it or not, globalization is here to stay, and we must take advantage of its benefits, rather than simply decry its harms. That's what I've been doing in the Senate."
         }
     },
     {
@@ -965,7 +938,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000394,
         "fields": {
             "question": 10000392,
-            "description": "I have proudly fought unfair trade schemes such as NAFTA, which drive our working families into unemployment, ship jobs overseas, and harm Minnesotan industries. These agreements have no meaningful protections regarding child labor, human rights, and environmental issues, too.\n"
+            "description": "I have proudly fought unfair trade schemes such as NAFTA, which drive our working families into unemployment, ship jobs overseas, and harm Minnesotan industries. These agreements have no meaningful protections regarding child labor, human rights, and environmental issues, too."
         }
     },
     {
@@ -973,7 +946,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000395,
         "fields": {
             "question": 10000392,
-            "description": "Fair trade is important to our economy. I support trade when it benefits Minnesota, but that does not translate into support for shipping American jobs overseas, which is why I oppose NAFTA. We’ve worked over the past few years to implement measures to mitigate the impacts of globalization."
+            "description": "Fair trade is important to our economy. I support trade when it benefits Minnesota, but that does not translate into support for shipping American jobs overseas, which is why I oppose NAFTA. We've worked over the past few years to implement measures to mitigate the impacts of globalization."
         }
     },
     {
@@ -997,7 +970,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000760,
         "fields": {
             "question": 10000586,
-            "description": "The fundraiser. This election is too close for comfort. "
+            "description": "The fundraiser. This election is too close for comfort."
         }
     },
     {
@@ -1005,7 +978,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000764,
         "fields": {
             "question": 10000763,
-            "description": "We’ll try to steer away from attacks and negativity here. Keep the focus on policy, which we have the upper hand on, and set aside the attacks on Coleman."
+            "description": "We'll try to steer the conversation away from attacks and negativity here. Keep the focus on policy, which we have the upper hand on, and set aside the attacks on Coleman."
         }
     },
     {
@@ -1013,7 +986,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000767,
         "fields": {
             "question": 10000763,
-            "description": "Take the attack to Coleman. We can’t let him just spread lies about us and dominate the narrative. We’ve gotta push back."
+            "description": "Take the attack to Coleman. We can't let him just spread lies about us and dominate the narrative. We've gotta push back."
         }
     },
     {
@@ -1021,7 +994,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000770,
         "fields": {
             "question": 10000769,
-            "description": "For twelve years, Minnesota has given me the opportunity to fight for those who can’t afford to buy their way into the halls of power, and I have delivered. If you give me six more, I pledge that I will not rest until there is true economic and social justice for every man, woman, and child in America."
+            "description": "For twelve years, Minnesota has given me the opportunity to fight for those who can't afford to buy their way into the halls of power, and I have delivered. If you give me six more, I pledge that I will not rest until there is true economic and social justice for every man, woman, and child in America."
         }
     },
     {
@@ -1045,7 +1018,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000778,
         "fields": {
             "question": 10000769,
-            "description": "I’ve changed Washington, but Washington hasn’t changed me—I’ve kept standing up and speaking out for those who don’t get the representation they deserve. With six more years, I’ll keep voting with my conscience, and I’ll keep acting with faith in my conviction."
+            "description": "I've changed Washington, but Washington hasn't changed me—I've kept standing up and speaking out for those who don't get the representation they deserve. With six more years, I'll keep voting with my conscience, and I'll keep acting with faith in my convictions."
         }
     },
     {
@@ -1053,7 +1026,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000787,
         "fields": {
             "question": 10000786,
-            "description": "I want to campaign a lot with my ticket-mate Roger Moe specifically. We haven’t held the Governorship for over a decade, and the longtime State Senate Majority Leader is the most qualified person I can think of to hold that post."
+            "description": "I want to campaign a lot with my ticket-mate Roger Moe specifically. We haven't held the Governorship for over a decade, and the longtime State Senate Majority Leader is the most qualified person I can think of to hold that post."
         }
     },
     {
@@ -1061,7 +1034,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000791,
         "fields": {
             "question": 10000786,
-            "description": "Walter Mondale is one of the greatest Minnesotans of the twentieth century. Fritz could introduce an element of gravitas and statesmanship to our campaign—we’re definitely going to be hauling him out as much as we can before this is all over."
+            "description": "Walter Mondale is one of the greatest Minnesotans of the twentieth century. Fritz could introduce an element of gravitas and statesmanship to our campaign—we're definitely going to be hauling him out as much as we can before this is all over."
         }
     },
     {
@@ -1069,7 +1042,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000795,
         "fields": {
             "question": 10000786,
-            "description": "My fellow Senator Mark Dayton has demonstrated his courage to lead over his first years in the Senate, and has fought for our steelworkers and against Iraq. We’ll campaign with him to keep Minnesota blue."
+            "description": "My fellow Senator Mark Dayton has demonstrated his courage to lead over his first years in the Senate, and has fought for our steelworkers and against Iraq. We'll campaign with him to keep Minnesota blue."
         }
     },
     {
@@ -1093,7 +1066,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000839,
         "fields": {
             "question": 10000837,
-            "description": "I find it absurd that the Coleman campaign is spending hundreds of thousands of dollars calling me a liberal when people already know I’m a liberal, and a damned proud liberal at that. I refuse to flinch at the “L-word”, and I remind you that every landmark of social and economic progress was built by liberals, against reactionary opposition."
+            "description": "I find it absurd that the Coleman campaign is spending hundreds of thousands of dollars calling me a liberal when people already know I'm a liberal, and a damned proud one at that. I refuse to flinch at the “L-word,” and I remind you that every landmark of social and economic progress was built by liberals, against reactionary opposition."
         }
     },
     {
@@ -1101,7 +1074,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000840,
         "fields": {
             "question": 10000837,
-            "description": "The Republican outrage machine has been ripping any liberal who begs to differ from their right-wing agenda to pieces since Atwater. We will take the fight to them in the air war, even if I’m not enamored by the money-and-ads formula like everyone else."
+            "description": "The Republican outrage machine has been ripping any liberal who begs to differ from their right-wing agenda to pieces since Atwater. We will take the fight to them in the air war, even if I'm not enamored by the money-and-ads formula like everyone else."
         }
     },
     {
@@ -1109,7 +1082,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000849,
         "fields": {
             "question": 10000848,
-            "description": "The BWCA is Minnesota’s crown-jewel wilderness area, and I am deeply dedicated to preserving its landscape for future generations."
+            "description": "The BWCA is Minnesota's crown-jewel wilderness area, and I am deeply dedicated to preserving its landscape for future generations."
         }
     },
     {
@@ -1125,7 +1098,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000855,
         "fields": {
             "question": 10000848,
-            "description": "Rep. Oberstar was the one who was talking up this whole motorboat thing in the first place, but he still supports my campaign. I’ll ask him to give speeches on my behalf in his district."
+            "description": "Rep. Oberstar was the one who was talking up this whole motorboat thing in the first place, but he still supports my campaign. I'll ask him to give speeches on my behalf in his district."
         }
     },
     {
@@ -1157,7 +1130,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000870,
         "fields": {
             "question": 10000858,
-            "description": "Giving these accusations more air will only fuel the abhorrent “welfare queen” euphemisms that have been part of the reactionary repertoire for far too long. Instead, I’d like to emphasize how our campaign is bringing people from all walks of life together to get things done for Minnesota."
+            "description": "Giving these accusations more air will only fuel the abhorrent “welfare queen” euphemisms that have been part of the reactionary repertoire for far too long. Instead, I'd like to emphasize how our campaign is bringing people from all walks of life together to get things done for Minnesota."
         }
     },
     {
@@ -1173,7 +1146,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000881,
         "fields": {
             "question": 10000876,
-            "description": "At this point, I believe that Minnesota has heard enough about this chapter of my biography, and I would prefer to address the issues of this campaign rather than deal with more Republican innuendo. We have won despite this affair twice, and I don’t see why we can’t do so again."
+            "description": "At this point, I believe that Minnesota has heard enough about this chapter of my biography, and I would prefer to address the issues of this campaign rather than deal with more Republican innuendo. We have won despite this affair twice, and I don't see why we can't do so again."
         }
     },
     {
@@ -1181,7 +1154,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000885,
         "fields": {
             "question": 10000884,
-            "description": "A vote for Coleman is a vote for the Bush/Cheney agenda, plain and simple. He might be talking about “changing the tone in Washington” now, but in reality he’s a Republican partisan, just like all the rest, and we will expose that."
+            "description": "A vote for Coleman is a vote for the Bush/Cheney agenda, plain and simple. He might be talking about “changing the tone in Washington” now, but in reality he's a Republican partisan, just like all the rest, and we will expose that."
         }
     },
     {
@@ -1205,7 +1178,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000896,
         "fields": {
             "question": 10000892,
-            "description": "You know, I just want to say this about Coleman’s people—even if they had all the polling and all the ad money in the whole damned world, they still wouldn’t be able to understand the people of Minnesota. Let’s hang back and let the media handle this."
+            "description": "You know, I just want to say this about Coleman's people—even if they had all the polling and all the ad money in the whole damned world, they still wouldn't be able to understand the people of Minnesota. Let's hang back and let the media handle this."
         }
     },
     {
@@ -1213,7 +1186,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000900,
         "fields": {
             "question": 10000899,
-            "description": "In a swing state like Minnesota, this race will be decided by turnout, and the GOP machine has given us the perfect opportunity to spur it. I will hold a massive rally in downtown Minneapolis, denouncing Republican corruption, incompetence, and—as we’ve seen recently—slander. Stand up, keep fighting!"
+            "description": "In a swing state like Minnesota, this race will be decided by turnout, and the GOP machine has given us the perfect opportunity to spur it. I will hold a massive rally in downtown Minneapolis, denouncing Republican corruption, incompetence, and—as we've seen recently—slander. Stand up, keep fighting!"
         }
     },
     {
@@ -1229,7 +1202,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000906,
         "fields": {
             "question": 10000899,
-            "description": "We need to win back the trust of Ventura voters. I will conclude the Green Bus’ last ride with a series of stops in Southeast Minnesota, concluding with a rally in Rochester where I will highlight my opponent, his blatant cronyism, and the special interests which finance his campaign."
+            "description": "We need to win back the trust of Ventura voters. I will conclude the Green Bus' last ride with a series of stops in Southeast Minnesota, concluding with a rally in Rochester where I will highlight my opponent, his blatant cronyism, and the special interests which finance his campaign."
         }
     },
     {
@@ -1269,7 +1242,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000929,
         "fields": {
             "question": 10000928,
-            "description": "My aides and campaign advisors should prepare me for the issues of 2002. I’ve tried to follow the issues of the 2000s, but a few things here or there may have eluded me."
+            "description": "My aides and campaign advisors should prepare me for the issues of 2002. I've tried to follow the issues of the 2000s, but a few things here or there may have eluded me."
         }
     },
     {
@@ -1277,7 +1250,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000930,
         "fields": {
             "question": 10000928,
-            "description": "We need to flesh out our campaign organization and strategy. Contact some former aides from '84, pick a new campaign manager, and work out how we’re gonna beat Coleman."
+            "description": "We need to flesh out our campaign organization and strategy. Contact some former aides from '84, pick a new campaign manager, and work out how we're gonna beat Coleman."
         }
     },
     {
@@ -1293,7 +1266,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000940,
         "fields": {
             "question": 10000939,
-            "description": "Well this is… odd. No, no. This isn’t a big deal. You’ve seen the poll numbers—we can’t lose.\n"
+            "description": "Well this is… odd. No, no. This isn't a big deal. You've seen the poll numbers—we can't lose."
         }
     },
     {
@@ -1317,7 +1290,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000950,
         "fields": {
             "question": 10000949,
-            "description": "This is Republican hypocrisy at its finest. Just two weeks ago they were talking about Paul like he was the devil incarnate, and now they’re leaning so hard into this you’d think he was <i>their</i> candidate! It is absolutely appalling to see them politicize the death of a wonderful public servant, and I will hit on that extensively."
+            "description": "This is Republican hypocrisy at its finest. Just two weeks ago they were talking about Paul like he was the devil incarnate, and now they're leaning so hard into this you'd think he was <i>their</i> candidate! It is absolutely appalling to see them politicize the death of a wonderful public servant, and I will hit on that extensively."
         }
     },
     {
@@ -1325,7 +1298,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000954,
         "fields": {
             "question": 10000949,
-            "description": "Get our man, Jeff Blodgett, to put out a statement on this as soon as possible. We fully apologize for the political tone at yesterday’s service. We promise this was not planned—certain speakers just flew off the handle."
+            "description": "Get our man, Jeff Blodgett, to put out a statement on this as soon as possible. We fully apologize for the political tone at yesterday's service. We promise this was not planned—certain speakers just flew off the handle."
         }
     },
     {
@@ -1333,7 +1306,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000955,
         "fields": {
             "question": 10000949,
-            "description": "Get our man, Jeff Blodgett, to put out a statement on this as soon as possible. We fully, and unequivocally, apologize for the brazen political tone of the memorial service yesterday, and we promise that this was not intended. "
+            "description": "Get our man, Jeff Blodgett, to put out a statement on this as soon as possible. We fully, and unequivocally, apologize for the brazen political tone of the memorial service yesterday, and we promise that this was not intended."
         }
     },
     {
@@ -1341,7 +1314,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000964,
         "fields": {
             "question": 10000963,
-            "description": "Minnesotans lost a great champion last week, and I lost a dear friend. But working families must not lose their voice in the Senate, and you won’t. I’ll continue Paul Wellstone’s fight for people, I will leave his legacy intact, and I hope you’ll join me."
+            "description": "Minnesotans lost a great champion last week, and I lost a dear friend. But working families must not lose their voice in the Senate, and you won't. I'll continue Paul Wellstone's fight for people, I will leave his legacy intact, and I hope you'll join me."
         }
     },
     {
@@ -1349,7 +1322,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000967,
         "fields": {
             "question": 10000963,
-            "description": "I know our state, I know our country, I’ve worked around the world, and I know the Senate. From day one, I’ll work for economic opportunity, better schools, a more secure retirement, and a safer world, and I have the experience it takes to do so."
+            "description": "I know our state, I know our country, I've worked around the world, and I know the Senate. From day one, I'll work for economic opportunity, better schools, a more secure retirement, and a safer world, and I have the experience it takes to do so."
         }
     },
     {
@@ -1365,7 +1338,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000971,
         "fields": {
             "question": 10000963,
-            "description": "Times have changed, but my values haven’t. Chief among them are honesty, decency, and integrity. You can make a difference in people’s lives through education, health care, and Social Security, which is what I’ll do as Senator."
+            "description": "Times have changed, but my values haven't. Chief among them are honesty, decency, and integrity. You can make a difference in people's lives through education, health care, and Social Security, which is what I'll do as a Senator."
         }
     },
     {
@@ -1373,7 +1346,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000988,
         "fields": {
             "question": 10000987,
-            "description": "Well, ah, let’s just not rock the boat. Shoot a few ads, hold a couple rallies, but too much campaigning in this environment might be in bad taste."
+            "description": "Well, ah, let's just not rock the boat. Shoot a few ads, hold a couple rallies, but too much campaigning in this environment might be in bad taste."
         }
     },
     {
@@ -1381,7 +1354,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000989,
         "fields": {
             "question": 10000987,
-            "description": "We’re on track to raise $2.5 million for the final stretch, and I plan on spending every damned cent on television ads. We need to absolutely crush Norm with a massive marketing campaign, and with the resources we have, we can do that."
+            "description": "We're on track to raise $2.5 million for the final stretch, and I plan on spending every damned cent on television ads. We need to absolutely crush Norm with a massive marketing campaign, and with the resources we have, we can do that."
         }
     },
     {
@@ -1389,7 +1362,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000990,
         "fields": {
             "question": 10000987,
-            "description": "We’re on track to raise $2.5 million for the final stretch, and I plan on spending every damned cent on television ads. We need to absolutely crush Norm with a massive marketing campaign, and with the resources we have, we can do that."
+            "description": "We're on track to raise $2.5 million for the final stretch, and I plan on spending every damned cent on television ads. We need to absolutely crush Norm with a massive marketing campaign, and with the resources we have, we can do that."
         }
     },
     {
@@ -1405,7 +1378,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001001,
         "fields": {
             "question": 10001000,
-            "description": "Collin Peterson is a good man, a maverick, and a loyal Democrat—I’ll ask him to record a radio ad endorsing me. His support would move mountains in his district, especially with the many conservatives he has kept in the DFL column."
+            "description": "Collin Peterson is a good man, a maverick, and a loyal Democrat—I'll ask him to record a radio ad endorsing me. His support would move mountains in his district, especially with the many conservatives he has kept in the DFL column."
         }
     },
     {
@@ -1421,7 +1394,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001070,
         "fields": {
             "question": 10001000,
-            "description": "The GOP has run the most attacking campaign since the days of Andrew Jackson—his entire case is based on one speech Rick Kahn gave at the memorial service. Our campaign will release a slew of attack ads calling him out for his unbelievably disrespectful electioneering."
+            "description": "The GOP has run the most negative campaign since the days of Andrew Jackson—his entire case is based on one speech Rick Kahn gave at the memorial service. Our campaign will release a slew of attack ads calling him out for his unbelievably disrespectful electioneering."
         }
     },
     {
@@ -1429,7 +1402,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001071,
         "fields": {
             "question": 10001000,
-            "description": "I think there’s an important question of credibility when it comes to choosing a Senator. I have fought for Minnesota from start to finish, and we will emphasize that a vote for Walter Mondale is a vote for trusted leadership and integrity."
+            "description": "I think there's an important question of credibility when it comes to choosing a Senator. I have fought for Minnesota from start to finish, and we will emphasize that a vote for Walter Mondale is a vote for trusted leadership and integrity."
         }
     },
     {
@@ -1453,7 +1426,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001084,
         "fields": {
             "question": 10001081,
-            "description": "Minnesota has been crushed under the gauntlet of Reagan-Bush economics for more than two decades. I will kick off a bus tour in northern Minnesota, where we’ve seen how devastating supply-side conjecture can be to our workers and family farmers."
+            "description": "Minnesota has been crushed under the gauntlet of Reagan-Bush economics for more than two decades. I will kick off a bus tour in northern Minnesota, where we've seen how devastating supply-side conjecture can be to our workers and family farmers."
         }
     },
     {
@@ -1461,7 +1434,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001118,
         "fields": {
             "question": 10001117,
-            "description": "A vote for Coleman is a vote for the Bush/Cheney agenda, plain and simple. He might be talking about “changing the tone in Washington” now, but in reality he’s a Republican partisan, just like all the rest."
+            "description": "A vote for Coleman is a vote for the Bush/Cheney agenda, plain and simple. He might be talking about “changing the tone in Washington” now, but in reality he's a Republican partisan, just like all the rest."
         }
     },
     {
@@ -1509,7 +1482,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001140,
         "fields": {
             "question": 10001139,
-            "description": "…\n"
+            "description": "…"
         }
     },
     {
@@ -1525,7 +1498,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001146,
         "fields": {
             "question": 10000975,
-            "description": "I don’t think we really can call the GOP out for this shameful display of rabid partisanship without dragging this campaign into the mud, unfortunately. Nonetheless, we can still make some statements about how this election isn’t just about <i>the</i> future, but <i>which</i> future we want for Minnesota."
+            "description": "I don't think we really can call the GOP out for this shameful display of rabid partisanship without dragging this campaign into the mud, unfortunately, and we don't want to further poison the political discourse in an environment where that would simply play into their hands. Nonetheless, we can still make some statements about how this election isn't just about <i>the</i> future, but <i>which</i> future we want for Minnesota."
         }
     },
     {
@@ -1533,7 +1506,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001147,
         "fields": {
             "question": 10000975,
-            "description": "It is unbelievable and outrageous how far the GOP has leaned on the memorial service as an attack when Coleman himself called Wellstone “the lowest common denominator” just a few months ago. We will make sure every Minnesotan knows who’s <i>really</i> politicizing Wellstone’s death."
+            "description": "It is unbelievable and outrageous how much the GOP has leaned on the memorial service in their messaging when Coleman himself called Wellstone “the lowest common denominator” just a few months ago and when radical-right out-of-state PACs spent hundreds of thousands of dollars to bring him down and engage in the most rephrensible smears I have ever seen in my four decades in politics. We will make sure every Minnesotan knows who's <i>really</i> politicizing Wellstone's death."
         }
     },
     {
@@ -1549,7 +1522,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10001156,
         "fields": {
             "question": 10001154,
-            "description": "Polarization and rural backlash has eroded a substantial part of the support our party used to have in the North. I will match Coleman’s energy on the trail by concluding our campaign with a series of stops in Greater Minnesota, finishing in Duluth."
+            "description": "Polarization and rural backlash has eroded a substantial part of the support our party used to have in the North. I will match Coleman's energy on the trail by concluding our campaign with a series of stops in Greater Minnesota, finishing in Duluth."
         }
     },
     {
@@ -2812,7 +2785,7 @@ campaignTrail_temp.issues_json = [
         "pk": 101,
         "fields": {
             "name": "Bush Approval",
-            "description": "Most of the country has rallied around President Bush, providing him the political capital to pass his agenda. However, some liberals have questioned the efficacy of his “compassionate conservative” politics and his “War on Terror” against Al-Qaeda. Wellstone will need to win the votes of at least some voters who approve of the President, while Coleman hopes that Bush’s popularity will carry him to victory.",
+            "description": "Most of the country has rallied around President Bush, providing him the political capital to pass his agenda. However, liberals have questioned the efficacy of his “compassionate conservative” politics and his “War on Terror” against Al-Qaeda. Wellstone will need to win the votes of at least some voters who approve of the President, while Coleman hopes that Bush’s popularity will carry him to victory.",
             "stance_1": "A New Reagan",
             "stance_desc_1": 0,
             "stance_2": "Surging",
@@ -2835,7 +2808,7 @@ campaignTrail_temp.issues_json = [
         "pk": 102,
         "fields": {
             "name": "War On Terror",
-            "description": "Following the despicable September 11 attacks, the President declared a “War on Terror” against both Al-Qaeda (the perpetrators of the attacks) and countries he claimed were harboring terrorism, such as Iran, Iraq, and North Korea. He first put his words into action with Operation Enduring Freedom, a full-scale invasion of Afghanistan, to depose the Taliban and root out Al-Qaeda. Meanwhile, hawks in the administration, such as Paul Wolfowitz, are demanding military action against Iraq as well.",
+            "description": "Following the despicable September 11 attacks, the President declared a “War on Terror” against both Al-Qaeda (the perpetrators of the attacks) and countries he claimed were harboring terrorism, such as Iran, Iraq, and North Korea. He first put his words into action with Operation Enduring Freedom, a full invasion of Afghanistan, to depose the Taliban and root out Al-Qaeda. Meanwhile, hawks in the administration, such as Paul Wolfowitz, are demanding military action against Iraq as well.",
             "stance_1": "Bomb, Bomb Saddam!",
             "stance_desc_1": 0,
             "stance_2": "Escalate",
@@ -2858,7 +2831,7 @@ campaignTrail_temp.issues_json = [
         "pk": 103,
         "fields": {
             "name": "Economics",
-            "description": "In its first two years, the White House has passed tax cuts and education through Congress, earning accolades from some conservative partisans, while other right-wingers bemoan their abandonment of school choice. Liberals criticize what they see as more handouts for the 1% and ineffective standardized testing. Wellstone has railed against the administration from the left on economic issues, especially on education, while Norm Coleman has largely stood with his party on this.",
+            "description": "In its first two years, the White House has passed tax cuts and education reform through Congress, earning accolades from some conservative partisans, while other right-wingers bemoan their abandonment of school choice. Liberals criticize what they see as more handouts for the 1% and ineffective standardized testing. Wellstone has railed against the administration from the left on economic issues, especially on education, while Norm Coleman has largely stood with his party.",
             "stance_1": "Club For Growth",
             "stance_desc_1": 0,
             "stance_2": "Club For Growth",
@@ -16341,7 +16314,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000027,
             "candidate": 200,
-            "answer_feedback": "Trying to run against Bush only makes you look like a Democratic partisan, unwilling to work with the relatively popular President—the Republicans will argue that he will have a stronger working relationship with the White House than you ever would, and it's likely to work for them."
+            "answer_feedback": "Trying to run against Bush only makes you look like a Democratic partisan, unwilling to work with the relatively popular President—the Republicans will argue that whomever they run will have a stronger working relationship with the White House than you ever would, and it's likely to work for them."
         }
     },
     {
@@ -16404,7 +16377,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000046,
             "candidate": 200,
-            "answer_feedback": "\"I am a Senator that will not give up until there is a good education for every child. I will not give up until our family farmers get a fair shake. I will not give up until there's economic justice. I will not give up until there's the end of discrimination. I will not give up until our country, the United States of America, really becomes all that it can be…”"
+            "answer_feedback": "“I am a Senator that will not give up until there is a good education for every child. I will not give up until our family farmers get a fair shake. I will not give up until there's economic justice. I will not give up until there's the end of discrimination. I will not give up until our country, the United States of America, really becomes all that it can be…”"
         }
     },
     {
@@ -16413,7 +16386,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000061,
             "candidate": 200,
-            "answer_feedback": "Voters get the message loud and clear—Coleman is an opportunist who will say anything to get elected. His campaign seems to imply this ideological flexibility will help him “get things done in Washington”; who will win the clash over framing remains to be seen."
+            "answer_feedback": "Voters get the message loud and clear—Coleman is an opportunist who will say anything to get elected. His campaign seems to imply this ideological flexibility will help him “get things done in Washington,” who will win the clash over framing remains to be seen."
         }
     },
     {
@@ -16431,7 +16404,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000065,
             "candidate": 200,
-            "answer_feedback": "Drawing the battle lines strictly based on ideology is not an attractive pitch, particularly because Coleman has always sold himself as a bridge-builder. The President is very popular, too, and bashing him won’t earn you any new votes—even if some voters see your point about his coronation."
+            "answer_feedback": "Drawing the battle-lines strictly based on ideology is not an attractive pitch, particularly because Coleman has always sold himself as a bridge-builder. The President is very popular, too, and bashing him won’t earn you any new votes—even if some voters see your point about his coronation."
         }
     },
     {
@@ -16449,7 +16422,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000074,
             "candidate": 200,
-            "answer_feedback": "Your focus on jobs and pocketbook issues is well received in the Iron Range. The North has always been key to DFL success, and paid media is inexpensive there, so your push will have a sizable impact.\n"
+            "answer_feedback": "Your focus on jobs and pocketbook issues is well received in the Iron Range. The North has always been key to DFL success, and paid media is inexpensive there, so your push will have a sizable impact."
         }
     },
     {
@@ -16458,7 +16431,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000075,
             "candidate": 200,
-            "answer_feedback": "Your investments in the volunteer organization give them the resources they need to dominate the ground game. This is good for turnout, even if it doesn’t have much of an effect with swing voters."
+            "answer_feedback": "Your investments in the volunteer organization give them the resources they need to dominate the ground game. This is good for turnout, even if it doesn't have much of an effect with swing voters."
         }
     },
     {
@@ -16467,7 +16440,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000076,
             "candidate": 200,
-            "answer_feedback": "Your pollster, Diane Feldman, is working through the ins and outs of what’s relevant in 2002, and your message is catching up with the times—though some complain of it being ‘diluted’. You hate to admit they’re right."
+            "answer_feedback": "Your pollster, Diane Feldman, is working through the ins and outs of what's relevant in 2002, and your message is catching up with the times—though some complain of it being “diluted.” You hate to admit they're right."
         }
     },
     {
@@ -16476,7 +16449,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000116,
             "candidate": 200,
-            "answer_feedback": "It’s important to defend your record, but your tax-and-spend philosophy is growing increasingly out of tune with the electorate."
+            "answer_feedback": "It's important to defend your record, but your tax-and-spend philosophy is growing increasingly out of tune with the electorate."
         }
     },
     {
@@ -16485,7 +16458,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000117,
             "candidate": 200,
-            "answer_feedback": "It’s important to hit back, but your tax-and-spend philosophy is growing increasingly out of tune with the electorate. "
+            "answer_feedback": "It's important to hit back, but your tax-and-spend philosophy is growing increasingly out of tune with the electorate."
         }
     },
     {
@@ -16494,7 +16467,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000118,
             "candidate": 200,
-            "answer_feedback": "This would be a good strategy if the Republicans weren’t constantly bashing you and your party on this issue."
+            "answer_feedback": "This would be a good strategy if the Republicans weren't constantly bashing you and your party on this issue."
         }
     },
     {
@@ -16503,7 +16476,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000128,
             "candidate": 200,
-            "answer_feedback": "It seems you’ve really gotten under his skin here—Coleman goes on to reverse his stance on privatization without even acknowledging his prior statements. This plays into your hands pretty well, especially with seniors."
+            "answer_feedback": "It seems you've really gotten under his skin here—Coleman goes on to reverse his stance on privatization without even acknowledging his prior statements. This plays into your hands pretty well, especially with seniors."
         }
     },
     {
@@ -16548,7 +16521,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000153,
             "candidate": 200,
-            "answer_feedback": "Targeting the Republicans on the ANWR is an excellent strategy, given how unpopular their plan is—even if Coleman is quick to declare that he is <i>supposedly</i> opposed to it. It also avoids weighing in on the greater question of carbon emissions, which avoids offending Iron Range voters."
+            "answer_feedback": "Targeting the Republicans on their ANWR plan is an excellent strategy, given how unpopular it is—even if Coleman is quick to claim that he actually opposes drilling there. It also avoids weighing in on the greater question of carbon emissions, which avoids offending Iron Range voters."
         }
     },
     {
@@ -16566,7 +16539,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000161,
             "candidate": 200,
-            "answer_feedback": "Running on so-called “class warfare” and speaking on behalf of those marginalized and slighted by the neo-liberal economic consensus is what won you 1990 and 1996—whether it will work once more is a different question entirely. "
+            "answer_feedback": "Running on so-called “class warfare” and speaking on behalf of those marginalized and slighted by the neo-liberal economic consensus is what won you 1990 and 1996—whether it will work once more is a different question entirely."
         }
     },
     {
@@ -16611,7 +16584,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000179,
             "candidate": 200,
-            "answer_feedback": "Even though your efforts to control prescription drug prices have hitherto ended in abject failure, these ideas have broad bipartisan support. "
+            "answer_feedback": "Even though your efforts to control prescription drug prices have hitherto ended in abject failure, these ideas have broad bipartisan support."
         }
     },
     {
@@ -16620,7 +16593,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000180,
             "candidate": 200,
-            "answer_feedback": "Your work on mental health issues earns you accolades with the press, even if this isn’t something that directly affects most voters."
+            "answer_feedback": "Your work on mental health issues earns you accolades with the press, even if this isn't something that directly affects most voters."
         }
     },
     {
@@ -16629,7 +16602,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000192,
             "candidate": 200,
-            "answer_feedback": "Liberals are happy that someone finally understands how destructive standardized testing can be, but are still skeptical since you voted for the bill in the end. Moderates aren’t happy that you’re opposing a common-sense, bipartisan reform, and Coleman does not hesitate to pounce.\n"
+            "answer_feedback": "Liberals are happy that someone finally understands how destructive standardized testing can be, but are still skeptical since you voted for the bill in the end. Moderates aren't happy that you're opposing a common-sense, bipartisan reform, and Coleman does not hesitate to pounce."
         }
     },
     {
@@ -16638,7 +16611,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000193,
             "candidate": 200,
-            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if any criticism of No Child Left Behind will raise eyebrows with swing voters. Nonetheless, your promise to fight for federal funding for Minnesota’s schools helps you stay in the good graces of Education Minnesota."
+            "answer_feedback": "This response seems reasonable to both moderates and liberals, even if any criticism of No Child Left Behind will raise eyebrows with swing voters. Nonetheless, your promise to fight for federal funding for Minnesota's schools helps you stay in the good graces of Education Minnesota."
         }
     },
     {
@@ -16647,7 +16620,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000194,
             "candidate": 200,
-            "answer_feedback": "Capitalizing on No Child Left Behind’s popularity could help you with moderates, even if some liberals detect an unwelcome pivot. Nevertheless, Coleman will be able to outflank you on this issue by partisan affiliation alone."
+            "answer_feedback": "Capitalizing on No Child Left Behind's popularity could help you with moderates, even if some liberals detect an unwelcome pivot. Nevertheless, Coleman will be able to outflank you on this issue by partisan affiliation alone."
         }
     },
     {
@@ -16665,7 +16638,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000206,
             "candidate": 200,
-            "answer_feedback": "You will not be able to erase the ‘welfare queen’ perception overnight, and those stereotypes will be used to attack you. Nevertheless, most specific plans you propose, such as raising the minimum wage and the EITC, are popular."
+            "answer_feedback": "You will not be able to erase the “welfare queen” perception overnight, and those stereotypes will be used to attack you. Nevertheless, most specific plans you propose, such as raising the minimum wage and the EITC, are popular."
         }
     },
     {
@@ -16674,7 +16647,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000207,
             "candidate": 200,
-            "answer_feedback": "The vast majority of Americans cannot believe that corporations are getting billions of dollars in bailouts from Congress while millions of people struggle to make ends meet. You’re speaking right to them.\n"
+            "answer_feedback": "The vast majority of Americans cannot believe that corporations are getting billions of dollars in bailouts from Congress while millions of people struggle to make ends meet. You're speaking right to them.\n"
         }
     },
     {
@@ -16683,7 +16656,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000208,
             "candidate": 200,
-            "answer_feedback": "As shown by McCain’s surprisingly successful campaign two years ago, campaign finance reform is popular with Democrats and Republicans alike. Nevermind the difficulties of actually passing it…"
+            "answer_feedback": "As shown by McCain's surprisingly successful campaign two years ago, campaign finance reform is popular with Democrats and Republicans alike. Nevermind the difficulties of actually passing it…"
         }
     },
     {
@@ -16692,7 +16665,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000224,
             "candidate": 200,
-            "answer_feedback": "Your union support was a part of what won you 1990, and it will be a part of whatever coalition you’ll cobble together to win again. This is a good bet."
+            "answer_feedback": "Your union support was a part of what won you 1990, and it will be a part of whatever coalition you'll cobble together to win again. This is a good bet."
         }
     },
     {
@@ -16701,7 +16674,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000225,
             "candidate": 200,
-            "answer_feedback": "Driving turnout amongst those alienated by Washington and Wall Street is something you’ve done for years. A coalition of racial minorities, organized labor, and low-income voters should be enough to deliver you another victory."
+            "answer_feedback": "Driving turnout amongst those alienated by Washington and Wall Street is something you've done for years. A coalition of racial minorities, organized labor, and low-income voters should be enough to deliver you another victory."
         }
     },
     {
@@ -16710,7 +16683,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000226,
             "candidate": 200,
-            "answer_feedback": "Minnesota’s a fairly white state, but taking pages from the Jesse Jackson playbook, which won him a fair few delegates, will help you consolidate support amongst ethnic minorities, such as African-American, Latino, and Hmong people. "
+            "answer_feedback": "Minnesota's a fairly white state, but taking pages from the Jesse Jackson playbook, which won him a fair few delegates, will help you consolidate support amongst ethnic minorities, such as African-American, Latino, and Hmong people. "
         }
     },
     {
@@ -16719,7 +16692,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000238,
             "candidate": 200,
-            "answer_feedback": "Just because you don’t talk about him doesn’t mean he isn’t a millstone around your neck. Bush’s continued prominence shifts swing voters to Coleman, while the troops are disappointed by your silence on the man that symbolizes everything they despise about conservatism.\n"
+            "answer_feedback": "Just because you don't talk about him doesn't mean he isn't a millstone around your neck. Bush's continued prominence shifts swing voters to Coleman, while the troops are disappointed by your silence on the man that symbolizes everything they despise about conservatism."
         }
     },
     {
@@ -16728,7 +16701,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000239,
             "candidate": 200,
-            "answer_feedback": "Trying to tie your opponent to a highly popular incumbent President is a good way to draw votes to him. However, you may gain a tad by highlighting Bush’s more unpopular stances and tying Coleman to <i>those</i>."
+            "answer_feedback": "Trying to tie your opponent to a highly popular incumbent President is a good way to draw votes to him. However, you may gain a tad by highlighting Bush's more unpopular stances and tying Coleman to <i>those</i>."
         }
     },
     {
@@ -16737,7 +16710,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000240,
             "candidate": 200,
-            "answer_feedback": "Highlighting bipartisanship—and occasions where Bush has praised your contributions—will dampen criticism from the Right, though the troops are disappointed by your triangulation.\n"
+            "answer_feedback": "Highlighting bipartisanship—and occasions where Bush has praised your contributions—will dampen criticism from the Right, though the troops are disappointed by your triangulation."
         }
     },
     {
@@ -16746,7 +16719,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000241,
             "candidate": 200,
-            "answer_feedback": "A promise to obstruct an administration is naturally a harder sell than a promise to work with an administration, especially when said administration has approvals above sixty percent.\n"
+            "answer_feedback": "A promise to obstruct an administration is naturally a harder sell than a promise to work with an administration, especially when said administration has approvals above sixty percent."
         }
     },
     {
@@ -16755,7 +16728,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000253,
             "candidate": 200,
-            "answer_feedback": "People do seem to worry that Coleman doesn’t seem to be presenting a concrete platform, substituting substance for platitudes about “working across the aisle”. Perhaps linking his attack campaign to his opaque positions on the issues will exploit that.\n"
+            "answer_feedback": "People do seem to worry that Coleman doesn’t seem to be presenting a concrete platform, substituting substance for platitudes about “working across the aisle”. Perhaps linking his attack campaign to his opaque positions on the issues will exploit that."
         }
     },
     {
@@ -16764,7 +16737,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000256,
             "candidate": 200,
-            "answer_feedback": "If there’s one thing everyone hates, it’s tax breaks for the rich.<br>A new ad hammers on Coleman’s proposed tax giveaways to large corporations—and Norm seems to dodge the question when he’s asked about it at a debate, ranting about your supposed hypocrisy on ‘sham third-party ads’ instead."
+            "answer_feedback": "If there's one thing everyone hates, it's tax breaks for the rich.<br>A new ad hammers on Coleman's proposed tax giveaways to large corporations—and Norm seems to dodge the question when he's asked about it at a debate, ranting about your supposed hypocrisy on “sham third-party ads” instead."
         }
     },
     {
@@ -16773,7 +16746,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000257,
             "candidate": 200,
-            "answer_feedback": "This attack is pretty weak compared to the stuff Coleman is throwing at you, even if you do have a point here.\n"
+            "answer_feedback": "This attack is pretty weak compared to the stuff Coleman is throwing at you, even if you do have a point here."
         }
     },
     {
@@ -16782,7 +16755,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000258,
             "candidate": 200,
-            "answer_feedback": "This attack sticks a bit, but it’s a partisan talking-point, and thus falls victim to Coleman’s rhetorical traps about “petty partisanship”."
+            "answer_feedback": "This attack sticks a bit, but it's a partisan talking-point, and thus falls victim to Coleman's rhetorical traps about “petty partisanship.”"
         }
     },
     {
@@ -16791,7 +16764,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000268,
             "candidate": 200,
-            "answer_feedback": "Rudy Perpich must be rolling in his grave. Squandering the trust you’ve established with Iron Range communities over the last twelve years—the people that carried you into office in 1990—may very well lead to your undoing. "
+            "answer_feedback": "Rudy Perpich must be rolling in his grave. Squandering the trust you've established with Iron Range communities over the last twelve years—the people that carried you into office in 1990—may very well lead to your undoing."
         }
     },
     {
@@ -16827,7 +16800,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000285,
             "candidate": 200,
-            "answer_feedback": "This is a fine way to frame your position, and doesn’t turn any heads. Coleman, surprisingly, opts to support renewing the ban."
+            "answer_feedback": "This is a fine way to frame your position, and doesn't turn any heads. Coleman, surprisingly, opts to support renewing the ban."
         }
     },
     {
@@ -16836,7 +16809,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000286,
             "candidate": 200,
-            "answer_feedback": "This is a bit far even for the Northeast, and you’ve really angered your base in the Twin Cities here—so much so that some might even vote for Coleman, since he supports renewing the ban. You don’t want to end up like Perpich."
+            "answer_feedback": "This is a bit far even for the Northeast, and you've really angered your base in the Twin Cities here—so much so that some might even vote for Coleman, since he supports renewing the ban. You don't want to end up like Perpich."
         }
     },
     {
@@ -16845,7 +16818,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000287,
             "candidate": 200,
-            "answer_feedback": "This attack doesn’t really dent him, unfortunately. His support for the ban disappoints his base, but they have no one else to vote for."
+            "answer_feedback": "This attack doesn't really dent him, unfortunately. His support for the ban disappoints his base, but they have no one else to vote for."
         }
     },
     {
@@ -16863,7 +16836,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000302,
             "candidate": 200,
-            "answer_feedback": "Interesting move to triangulate on this issue, but Twin Cities liberals aren’t going to let this slide—Tina Smith, for one, is certainly not happy with you. This also flies in the face of your record, by the way."
+            "answer_feedback": "Interesting move to triangulate on this issue, but Twin Cities liberals aren't going to let this slide—Tina Smith, for one, is certainly not happy with you. This also flies in the face of your record, by the way."
         }
     },
     {
@@ -16872,7 +16845,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000303,
             "candidate": 200,
-            "answer_feedback": "You catch him off guard with this attack. Coleman backs off from his position, arguing that he would try to find “common ground” on this issue, regardless of his “personal beliefs”. The damage is done, though."
+            "answer_feedback": "You catch him off guard with this attack. Coleman backs off from his position, arguing that he would try to find “common ground” on this issue, regardless of his “personal beliefs.” The damage is done, though."
         }
     },
     {
@@ -16881,7 +16854,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000304,
             "candidate": 200,
-            "answer_feedback": "Your hesitance to make abortion an issue of the campaign deflates liberal support. It also allows Coleman’s far less popular stance to mostly slip under the radar."
+            "answer_feedback": "Your hesitance to make abortion an issue of the campaign deflates liberal support. It also allows Coleman's far less popular stance to mostly slip under the radar."
         }
     },
     {
@@ -16917,7 +16890,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000323,
             "candidate": 200,
-            "answer_feedback": "It isn’t a good thing that you haven’t learnt from the Gulf War fiasco back in 1991. History may prove you right, but right now, you are dead wrong. Meanwhile, Norm Coleman goes out to bat emphasizing his position, scoring a week of positive press, as Republican affiliates have a field day with attack ads…"
+            "answer_feedback": "It isn't a good thing that you haven't learnt from the Gulf War fiasco back in 1991. History may prove you right, but right now, you are dead wrong. Meanwhile, Norm Coleman goes out to bat emphasizing his position, scoring a week of positive press, as Republican affiliates have a field day with attack ads…"
         }
     },
     {
@@ -16926,7 +16899,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000333,
             "candidate": 200,
-            "answer_feedback": "You have just confirmed every Republican attack on you on this issue to be completely accurate—and you will have to bear the stark political consequence. Speaking of which, have you gotten your concession speech ready yet? You’ll probably need it."
+            "answer_feedback": "You have just confirmed every Republican attack on you on this issue to be completely accurate—and you will have to bear the stark political consequence. Speaking of which, have you gotten your concession speech ready yet? You'll probably need it."
         }
     },
     {
@@ -16962,7 +16935,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000347,
             "candidate": 200,
-            "answer_feedback": "As you drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you’re in politics, after all—to give the unrepresented a voice in Washington."
+            "answer_feedback": "You drive down the road near the Pride Parade, with Wellstone placards as far as the eye can see, and attendance numbers in the tens of thousands. The troops are certainly eager to beat Coleman. This is why you're in politics, after all—to give the unrepresented a voice in Washington."
         }
     },
     {
@@ -16971,7 +16944,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000348,
             "candidate": 200,
-            "answer_feedback": "As you move up the Mississippi River, you meet voters of all walks of life, from the well-off to the less-well-off. Despite its Republican lean, you’re well received in the Southeast, and your image with Ventura voters improves noticeably."
+            "answer_feedback": "As you move up the Mississippi River, you meet voters of all walks of life, from the well-off to the less-well-off. Despite its Republican lean, you're well received in the Southeast, and your image with Ventura voters improves noticeably."
         }
     },
     {
@@ -16980,7 +16953,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000349,
             "candidate": 200,
-            "answer_feedback": "You’re welcome at the reservation, and your tour makes good press—along with your work for Native American communities, which solidifies your reputation as someone who doesn’t just work for moneyed special interests. It’s why you’re in politics, after all—to give the downtrodden a voice in Washington."
+            "answer_feedback": "You're welcome at the reservation, and your tour makes good press—along with your work for Native American communities, which solidifies your reputation as someone who doesn't just work for moneyed special interests. It's why you're in politics, after all—to give the unrepresented a voice in Washington."
         }
     },
     {
@@ -16998,7 +16971,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000368,
             "candidate": 200,
-            "answer_feedback": "You hope that by connecting campaign finance reform to broader economic reform, you’re able to attach a tangible impact to this issue and make it stick in voters’ minds."
+            "answer_feedback": "You hope that by connecting campaign finance reform to broader economic reform, you're able to attach a tangible impact to this issue and make it stick in voters' minds."
         }
     },
     {
@@ -17007,7 +16980,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000369,
             "candidate": 200,
-            "answer_feedback": "This is a message you've preached for quite a while, and it’s great red meat for your base."
+            "answer_feedback": "This is a message you've preached for quite a while, and it's great red meat for your base."
         }
     },
     {
@@ -17016,7 +16989,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000380,
             "candidate": 200,
-            "answer_feedback": "It’s a bit outside the mainstream, but your unflinching opposition to the Freedom to Farm Act is received well with family farmers. Your consistent opposition to corporate welfare is also popular."
+            "answer_feedback": "It's a bit outside the mainstream, but your unflinching opposition to the Freedom to Farm Act is received well with family farmers. Your consistent opposition to corporate welfare is also popular."
         }
     },
     {
@@ -17025,7 +16998,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000381,
             "candidate": 200,
-            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don’t like “corporate farming interests”, at least rhetorically. On the other hand, this will push said interests to fund Coleman."
+            "answer_feedback": "This is an issue where a hard-line stance can only help you—family farmers want decisive action, and the majority of Minnesotans don't like “corporate farming interests,” at least rhetorically. On the other hand, this will push said interests to fund Coleman."
         }
     },
     {
@@ -17043,7 +17016,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000393,
             "candidate": 200,
-            "answer_feedback": "This is Coleman’s position on the issue. It also completely flies in the face of your Senate record, crippling your trust with the left-liberal base, the Iron Range, and organized labor alike."
+            "answer_feedback": "This is Coleman's position on the issue. It also completely flies in the face of your Senate record, crippling your trust with the left-liberal base, the Iron Range, and organized labor alike."
         }
     },
     {
@@ -17061,7 +17034,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000395,
             "candidate": 200,
-            "answer_feedback": "This is a tack to the center, at least rhetorically, but you’ve maintained working-class support by standing by your record."
+            "answer_feedback": "This is a tack to the center, at least rhetorically, but you've maintained working-class support by standing by your record."
         }
     },
     {
@@ -17088,7 +17061,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000760,
             "candidate": 200,
-            "answer_feedback": "Tom Rukavina is disappointed, but he understands—you’re caught up in a tight race here. After the fundraiser, you hop on a flight to Duluth…"
+            "answer_feedback": "Tom Rukavina is disappointed, but he understands—you're caught up in a tight race here. After the fundraiser, you hop on a flight to Duluth…"
         }
     },
     {
@@ -17097,7 +17070,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000764,
             "candidate": 200,
-            "answer_feedback": "With your refusal to actively provoke clashes and throw barbs at your opponent, Coleman’s able to gain the upper hand by emphasizing your Iraq vote as a matter of “poor judgment”, while dodging questions on more unfavorable issues like Social Security."
+            "answer_feedback": "With your refusal to actively provoke clashes and throw barbs at your opponent, Coleman's able to gain the upper hand by emphasizing your Iraq vote as a matter of “poor judgement,” while dodging questions on more unfavorable issues like Social Security."
         }
     },
     {
@@ -17106,7 +17079,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000767,
             "candidate": 200,
-            "answer_feedback": "Coleman accuses you of “partisan mudslinging”. Overall, though, you’re effectively able to keep him playing defense by inundating him with attacks on taxes, Social Security, and abortion."
+            "answer_feedback": "Coleman accuses you of “partisan mudslinging”. Overall, though, you're effectively able to keep him playing defense by inundating him with attacks on taxes, Social Security, and abortion."
         }
     },
     {
@@ -17124,7 +17097,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000773,
             "candidate": 200,
-            "answer_feedback": "In case you haven’t learnt this already, trying to run against a man with a sixty percent approval rating instead of your actual opponent is an incredibly unproductive approach."
+            "answer_feedback": "In case you haven't learnt this already, trying to run against a man with a sixty percent approval rating instead of your actual opponent is an incredibly unproductive approach."
         }
     },
     {
@@ -17133,7 +17106,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000777,
             "candidate": 200,
-            "answer_feedback": "Railing against the establishment is a tried-and-true appeal, even if it’s not as powerful against Coleman as it was against Boschwitz."
+            "answer_feedback": "Railing against the establishment is a tried-and-true appeal, even if it's not as powerful against Coleman as it was against Boschwitz."
         }
     },
     {
@@ -17142,7 +17115,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000778,
             "candidate": 200,
-            "answer_feedback": "You’ve always insisted that the politics of conviction is winning politics—hopefully you’ll be vindicated come November. At the very least, your integrity will contrast well with Coleman, who’s more of a chameleon."
+            "answer_feedback": "You’ve always insisted that the politics of conviction is winning politics—hopefully you'll be vindicated come November. At the very least, your integrity will contrast well with Coleman, who's more of a chameleon."
         }
     },
     {
@@ -17160,7 +17133,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000791,
             "candidate": 200,
-            "answer_feedback": "Mondale’s appearances galvanize the ancestral DFL base. The press covers Fritz’s surprisingly energetic and impassioned role in the campaign with gusto, lending you substantial credibility amongst good-government moderates."
+            "answer_feedback": "Mondale's appearances galvanize the ancestral DFL base. The press covers Fritz's surprisingly energetic and impassioned role in the campaign with gusto, lending you substantial credibility amongst good-government moderates."
         }
     },
     {
@@ -17187,7 +17160,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000838,
             "candidate": 200,
-            "answer_feedback": "You have a fair point here. Coleman’s never been one for details, so shifting the conversation to his ambiguous, and at times amorphous, policy positions could work."
+            "answer_feedback": "You have a fair point here. Coleman's never been one for details, so shifting the conversation to his ambiguous, and at times amorphous, policy positions could work."
         }
     },
     {
@@ -17196,7 +17169,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000839,
             "candidate": 200,
-            "answer_feedback": "Continuing to draw such strict ideological lines when your opponent has demonstrated such unusual ideological flexibility will not help you. You’d better hope that the liberal majority isn’t just a figment of your imagination."
+            "answer_feedback": "Continuing to draw such strict ideological lines when your opponent has demonstrated such unusual ideological flexibility will not help you. You'd better hope that the liberal majority isn't just a figment of your imagination."
         }
     },
     {
@@ -17205,7 +17178,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000840,
             "candidate": 200,
-            "answer_feedback": "This is a break from your traditional strategy of taking the high ground—based on the notion that the contrast between your talking-head ads and their slash-and-burn ads will work in your favor—but it might click with voters, even if you don’t like it."
+            "answer_feedback": "This is a break from your traditional strategy of taking the high ground—based on the notion that the contrast between your talking-head ads and their slash-and-burn ads will work in your favor—but it might click with voters, even if you don't like it."
         }
     },
     {
@@ -17223,7 +17196,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000852,
             "candidate": 200,
-            "answer_feedback": "For the many people who are actually demanding that more lakes be opened to motorboats—some of whom may actually have voted for you before—it’s not an invented issue."
+            "answer_feedback": "For the people who are demanding that more lakes be opened to motorboats—many of whom have voted for you before—it's not an invented issue."
         }
     },
     {
@@ -17259,7 +17232,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000869,
             "candidate": 200,
-            "answer_feedback": "This rhetoric signifies a rightwards bent, but the policies you propose are broadly popular—even if you’re deflecting from the exact issue at hand."
+            "answer_feedback": "This rhetoric signifies a rightwards bent, but the policies you propose are broadly popular—even if you're deflecting from the exact issue at hand."
         }
     },
     {
@@ -17268,7 +17241,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000870,
             "candidate": 200,
-            "answer_feedback": "Taking the high road while leaving these attacks unanswered isn’t usually what pundits expected from you after observing your last two campaigns, but it could pay dividends with moderates tired of all the division and ugliness that has plagued modern politics."
+            "answer_feedback": "Taking the high road while leaving these attacks unanswered isn't usually what pundits expected from you after observing your last two campaigns, but it could pay dividends with moderates tired of all the division and ugliness that has plagued modern politics."
         }
     },
     {
@@ -17286,7 +17259,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000881,
             "candidate": 200,
-            "answer_feedback": "Your silence mostly negates the issue, and, conversely, it’s Coleman’s campaign that’s starting to come under fire for its negativity."
+            "answer_feedback": "Your silence mostly negates the issue, and, conversely, it's Coleman's campaign that's starting to come under fire for its negativity."
         }
     },
     {
@@ -17313,7 +17286,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000893,
             "candidate": 200,
-            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after your press conference, denunciations from the press, and statements from veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter”?"
+            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after your press conference, denunciations from the press, and statements from the likes of McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter?”"
         }
     },
     {
@@ -17322,7 +17295,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000896,
             "candidate": 200,
-            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after denunciations from the press and veterans like McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter”?"
+            "answer_feedback": "This attack ad is an ignominious blunder for the Republicans—after denunciations from the press and statements from the likes of McCain, Cleland, and Kerry, Coleman renounces the ad, and his affiliates pull it. Will this be enough to pull you over the top, like the 1990 “Jewish Letter?”"
         }
     },
     {
@@ -17340,7 +17313,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000905,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mom who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn't have to suffer alone thanks to your mental health advocacy. A farmer who didn't have to foreclose thanks to your work on the farm bill. A single mom who didn't have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through ancestral DFL territory, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17349,7 +17322,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000906,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn’t have to suffer alone thanks to your mental health advocacy. A farmer who didn’t have to foreclose thanks to your work on the farm bill. A single mom who didn’t have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>An autistic child who didn't have to suffer alone thanks to your mental health advocacy. A farmer who didn't have to foreclose thanks to your work on the farm bill. A single mom who didn't have to work two jobs thanks to your work on the minimum wage. As the Green Bus rolls through the Southeast, and you shake the hands of hundreds of people who count on you to represent them in Washington, you realize, once again, why your work is so important. Why this race is so important.</div>"
         }
     },
     {
@@ -17358,7 +17331,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000918,
             "candidate": 200,
-            "answer_feedback": "The MNGOP hits right back. Both parties’ partisans accuse each other of going against the spirit of the deal. You know Paul wouldn’t want to be used as a political football—but he wouldn't want to see a Republican occupy his old seat in the Senate either."
+            "answer_feedback": "The MNGOP hits right back. Both parties' partisans accuse each other of going against the spirit of the deal. You know Paul wouldn't want to be used as a political football—but you know he wouldn't want to see a Republican occupy his old seat in the Senate either."
         }
     },
     {
@@ -17376,7 +17349,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000929,
             "candidate": 200,
-            "answer_feedback": "Your team peppers you with issue questions, to locate and remedy your weak spots. They don’t find any. Good to know you’re going into this thing somewhat prepared."
+            "answer_feedback": "Your team peppers you with issue questions, to locate and remedy your weak spots. They don’t find any. Good to know you're going into this thing somewhat prepared."
         }
     },
     {
@@ -17385,7 +17358,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000930,
             "candidate": 200,
-            "answer_feedback": "You select Tina Smith as your campaign manager, catch up with some old staffers, and put together a plan to keep the election in the bag over a conference call. It’s just on paper, for now, but it’s something."
+            "answer_feedback": "You select Tina Smith as your campaign manager, catch up with some old staffers, and put together a plan to keep the election in the bag over a conference call. It's just on paper, for now, but it's something."
         }
     },
     {
@@ -17394,7 +17367,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000931,
             "candidate": 200,
-            "answer_feedback": "Wellstone polling guru Diane Feldman has you more than ten points above Coleman, and has your personal favorability above sixty percent—assuming nothing unexpected happens, you’ll be able to easily cruise to victory."
+            "answer_feedback": "Wellstone polling guru Diane Feldman has you more than ten points above Coleman, and has your personal favorability above sixty percent—assuming nothing unexpected happens, you'll be able to easily cruise to victory."
         }
     },
     {
@@ -17403,7 +17376,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000940,
             "candidate": 200,
-            "answer_feedback": "Today’s events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff’s presumption that this wouldn’t be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
+            "answer_feedback": "Today's events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff's presumption that this wouldn't be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
         }
     },
     {
@@ -17412,7 +17385,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000941,
             "candidate": 200,
-            "answer_feedback": "Today’s events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff’s presumption that this wouldn’t be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
+            "answer_feedback": "Today's events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff's presumption that this wouldn't be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
         }
     },
     {
@@ -17421,7 +17394,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000942,
             "candidate": 200,
-            "answer_feedback": "Today’s events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff’s presumption that this wouldn’t be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
+            "answer_feedback": "Today's events are used to attack you and the DFL <i>ad nauseam</i> in the following days. Despite your staff's presumption that this wouldn't be too big of a deal, your polling is in freefall, putting your victory, once thought inevitable, in serious doubt."
         }
     },
     {
@@ -17430,7 +17403,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000950,
             "candidate": 200,
-            "answer_feedback": "The base is fired up by this tone, and some people get the point, but by-and-large, this response is panned. Minnesota just wants an apology, not more partisan rancor, and it’s showing in the polls—besides, wasn’t Rick Kahn the first to politicize it?"
+            "answer_feedback": "The base is fired up by this tone, and some people get the point, but by-and-large, this response is panned. Minnesota just wants an apology, not more partisan rancor, and it's showing in the polls—besides, wasn't Rick Kahn the first to politicize it?"
         }
     },
     {
@@ -17439,7 +17412,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000954,
             "candidate": 200,
-            "answer_feedback": "This statement helps clear the air a bit, but mostly flies under the radar—and it’s definitely not enough to stop the backlash buoying Coleman’s numbers…"
+            "answer_feedback": "This statement helps clear the air a bit, but mostly flies under the radar—and it's definitely not enough to stop the backlash buoying Coleman's numbers…"
         }
     },
     {
@@ -17457,7 +17430,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000964,
             "candidate": 200,
-            "answer_feedback": "Despite the lingering baggage that memorial service thrust upon your campaign, running on Wellstone’s legacy could help you claw back your lead—just make sure not to overdo it, lest you remind the voters of the memorial farce."
+            "answer_feedback": "Despite the lingering baggage that memorial service thrust upon your campaign, running on Wellstone's legacy could help you claw back your lead—just make sure not to overdo it, lest you remind the voters of the memorial farce."
         }
     },
     {
@@ -17475,7 +17448,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000970,
             "candidate": 200,
-            "answer_feedback": "The Coleman campaign is thrown off balance by your aggressive tone, but in the aftermath of last week’s events these attacks will likely excite the Republican base more than our own."
+            "answer_feedback": "The Coleman campaign is thrown off balance by your aggressive tone, but in the aftermath of last week's events these attacks will likely excite the Republican base more than our own."
         }
     },
     {
@@ -17484,7 +17457,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000971,
             "candidate": 200,
-            "answer_feedback": "Minnesota still trusts Fritz Mondale. Focusing on your personal integrity is what brought you this far—let’s hope it’ll pull you across the finish line one last time."
+            "answer_feedback": "Minnesota still trusts Fritz Mondale. Focusing on your personal integrity is what brought you this far—let's hope it’ll pull you across the finish line one last time."
         }
     },
     {
@@ -17493,7 +17466,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000988,
             "candidate": 200,
-            "answer_feedback": "This doesn’t raise eyebrows. Meanwhile, Coleman’s performance on The Campaign Trail is peaking—conveniently, just as the media decides to give him more coverage after the memorial turned into a pep rally—and his favorability is surging…"
+            "answer_feedback": "This doesn't raise eyebrows. Meanwhile, Coleman's performance on The Campaign Trail is peaking—conveniently, just as the media decides to give him more coverage after the memorial turned into a pep rally—and his favorability is surging…"
         }
     },
     {
@@ -17502,7 +17475,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000989,
             "candidate": 200,
-            "answer_feedback": "Your massive ad campaign fails to make a splash—running such a large-scale operation in this setting is not going to help you. Meanwhile, Coleman’s performance on The Campaign Trail is peaking—conveniently, just as the media decides to give him more coverage after the memorial turned into a pep rally…"
+            "answer_feedback": "Your massive ad campaign fails to make a splash—running such a large-scale operation in this setting is not going to help you. Meanwhile, Coleman's performance on The Campaign Trail is peaking—conveniently, just as the media decides to give him more coverage after the memorial turned into a pep rally…"
         }
     },
     {
@@ -17511,7 +17484,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000990,
             "candidate": 200,
-            "answer_feedback": "Your massive ad campaign fails to make a splash. What it does do, though, is spook the NRSC into airing an attack ad about the malaise of the Carter/Mondale years—which is met with widespread criticism in light of Wellstone’s tragic death, and is quickly pulled."
+            "answer_feedback": "Your massive ad campaign fails to make a splash. What it does do, though, is spook the NRSC into airing an attack ad about the malaise of the Carter/Mondale years—which is met with widespread criticism in light of Wellstone's tragic death, and is quickly pulled."
         }
     },
     {
@@ -17520,7 +17493,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10000991,
             "candidate": 200,
-            "answer_feedback": "Minnesota is a massive state geographically, and you might not be able to cover much ground—and even then, Coleman’s performance on The Campaign Trail is peaking. Conveniently, this is happening just as the media decides to give him more coverage after the memorial turned into a pep rally—and his favorability is surging…"
+            "answer_feedback": "Minnesota is a massive state geographically, and you might not be able to cover much ground—and even then, Coleman's performance on The Campaign Trail is peaking. Conveniently, this is happening just as the media decides to give him more coverage after the memorial turned into a pep rally—and his favorability is surging…"
         }
     },
     {
@@ -17529,7 +17502,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001001,
             "candidate": 200,
-            "answer_feedback": "The ad is well-received, especially in Peterson’s district, where he’s shown himself to be an electoral juggernaut. Having his support there will help immensely."
+            "answer_feedback": "The ad is well-received, especially in Peterson's district, where he's proven his electoral strength. Having his support there will help immensely."
         }
     },
     {
@@ -17538,7 +17511,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001069,
             "candidate": 200,
-            "answer_feedback": "This is a tad cynical, and that’s clear to the voters after the memorial service, but it still plays fairly well with the DFL base."
+            "answer_feedback": "This is a tad cynical, and that's clear to the voters after the memorial service, but it still plays fairly well with the DFL base."
         }
     },
     {
@@ -17547,7 +17520,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001070,
             "candidate": 200,
-            "answer_feedback": "This is anathema to most voters, who have seen Coleman express genuine sorrow at Paul’s death, and they’re not going to reward you for piling on him for nothing."
+            "answer_feedback": "This is anathema to most voters, who have seen Coleman express genuine sorrow at Paul's death, and they're not going to reward you for piling on him for nothing."
         }
     },
     {
@@ -17556,7 +17529,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001071,
             "candidate": 200,
-            "answer_feedback": "Again, touting your experience is not going to help when Coleman has framed the election as about “the future”—though shifting the discussion towards integrity could work, especially with your opponent’s numerous policy flip-flops."
+            "answer_feedback": "Again, touting your experience is not going to help when Coleman has framed the election as about “the future”—though shifting the discussion towards integrity could work, especially with your opponent's numerous policy flip-flops."
         }
     },
     {
@@ -17583,7 +17556,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001084,
             "candidate": 200,
-            "answer_feedback": "The folks up there who’ve voted DFL all their lives are excited to see Fritz on the trail again—though there might be much more supple gains to be made in the cities. After these stops, you head back down to the Twin Cities to prepare for the debate."
+            "answer_feedback": "The folks up there who've voted DFL all their lives are excited to see Fritz on the trail again—though there might be much more supple gains to be made in the cities. After these stops, you head back down to the Twin Cities to prepare for the debate."
         }
     },
     {
@@ -17610,7 +17583,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001127,
             "candidate": 200,
-            "answer_feedback": "Your harsh partisan rhetoric plays right into Coleman’s hands—it vindicates his messaging about changing the tone in D.C., and the viewers generally believe you lost…"
+            "answer_feedback": "Your harsh partisan rhetoric plays right into Coleman's hands—it vindicates his messaging about changing the tone in D.C., and the viewers generally believe you lost…"
         }
     },
     {
@@ -17619,7 +17592,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001128,
             "candidate": 200,
-            "answer_feedback": "Your harsh partisan rhetoric plays right into Coleman’s hands—it vindicates his messaging about changing the tone in D.C., and the viewers generally believe you lost…"
+            "answer_feedback": "Your harsh partisan rhetoric plays right into Coleman's hands—it vindicates his messaging about changing the tone in D.C., and the viewers generally believe you lost…"
         }
     },
     {
@@ -17628,7 +17601,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001129,
             "candidate": 200,
-            "answer_feedback": "Coleman is visibly shaken by how you’re carrying yourself here—knocked off balance, he struggles to get in a good retort, and the viewers generally consider you the victor…"
+            "answer_feedback": "Coleman is visibly shaken by how you're carrying yourself here—knocked off balance, he struggles to get in a good retort, and the viewers generally consider you the victor…"
         }
     },
     {
@@ -17637,7 +17610,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001130,
             "candidate": 200,
-            "answer_feedback": "The debate was uneventful, and those who watched it didn’t really make much out of it…"
+            "answer_feedback": "The debate was uneventful, and those who watched it didn't really make much out of it…"
         }
     },
     {
@@ -17646,7 +17619,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001140,
             "candidate": 200,
-            "answer_feedback": "Most voters filter out this noise, so this won’t have much of an effect—just consider the fact that Ventura’s remaining fanatics will definitely consider this when they cast their votes tomorrow."
+            "answer_feedback": "Most voters filter out this noise, so this won't have much of an effect—just consider the fact that Ventura's remaining fanatics will definitely consider this when they cast their votes tomorrow."
         }
     },
     {
@@ -17655,7 +17628,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001141,
             "candidate": 200,
-            "answer_feedback": "Most voters filter out this noise, so this won’t have much of an effect—just consider the fact that Ventura’s remaining fanatics will definitely consider this when they cast their votes tomorrow."
+            "answer_feedback": "Most voters filter out this noise, so this won't have much of an effect—just consider the fact that Ventura's remaining fanatics will definitely consider this when they cast their votes tomorrow."
         }
     },
     {
@@ -17664,7 +17637,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001146,
             "candidate": 200,
-            "answer_feedback": "It’s probably right to take the high road, but your poll numbers continue to drag due to the flurry of Republican attacks levied against you. Not like you can do much about it anyway."
+            "answer_feedback": "It's probably right to take the high road, but your poll numbers continue to drag due to the flurry of Republican attacks levied against you. Not like you can do much about it anyway."
         }
     },
     {
@@ -17673,7 +17646,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001147,
             "candidate": 200,
-            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>You have taken the bait.<br>A shitstorm erupts on the right, precipitating a national commotion the effects of which will reverberate to races nationwide. CNN pundit Tucker Carlson accuses you of “killing Wellstone again” and MNGOP chair Ron Eibensteiner declares that the DFL has “demonstrated that they are simply unable to mourn the death of a public figure civilly.” Do they never realize the words leaving their mouths? And what they mean? Do they never realize the irony? Or is it just routine to them?</div>"
+            "answer_feedback": "<div style='overflow-y:scroll;height:80px;'>You have taken the bait.<br>A shitstorm erupts on the right, precipitating a national commotion, the effects of which will reverberate to races nationwide. CNN pundit Tucker Carlson accuses you of “killing Wellstone again” and MNGOP chair Ron Eibensteiner declares that the DFL has “demonstrated that they are simply unable to mourn the death of a public figure civilly.” Do they never realize the words leaving their mouths? And what they mean? Do they never realize the irony? Or is it just routine to them?</div>"
         }
     },
     {
@@ -17691,7 +17664,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 10001155,
             "candidate": 200,
-            "answer_feedback": "To thousands of cheering DFLers, you denounce Norm Coleman and the vicious Republican attack machine which, you claim, has run “the trashiest campaign in modern political history”. As you await the returns at the Radisson Riverfront, you can only hope the voters agree with you. Good luck."
+            "answer_feedback": "To thousands of cheering DFLers, you denounce Norm Coleman and the vicious Republican attack machine which, you claim, has run “the trashiest campaign in modern political history.” As you await the returns at the Radisson Riverfront, you can only hope the voters agree with you. Good luck."
         }
     },
     {
@@ -17718,9 +17691,14 @@ campaignTrail_temp.candidate_image_url = "https://i.imgur.com/nEfd2gh.jpg";
 campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/0trARmZ.jpg";
 campaignTrail_temp.candidate_last_name = "Wellstone";
 campaignTrail_temp.running_mate_last_name = "DFL";
-
-
-
+const style_overwrite = document.createElement("style");
+style_overwrite.innerHTML = 
+`#campaign_sign {
+  background-color: #2e9766;
+  border-color: #1a8352;
+}`
+;
+document.head.appendChild(style_overwrite);
 campaignTrail_temp.jet_data = [{
     "mapping_enabled": true,
     "mapping_data": {
@@ -17781,84 +17759,85 @@ cyoAdventure = function (a) {
     ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
 if (ans == 10000764 || ans == 10000838 || ans == 10000870 || ans == 10000881 || ans == 10000889) {
     minnesotanice ++
-}
-if (minnesotanice>3) {
+};
+if (minnesotanice > 3) {
     changeGlobalEffect(201, 10000893, -0.06);
     changeGlobalEffect(200, 10000900, 0.02)
-    minnesotanice=0
-}
+    minnesotanice = 0
+};
 if (ans == 10000587) {
-    campaignTrail_temp.global_parameter_json[0].fields["question_count"] = 40
+    campaignTrail_temp.global_parameter_json[0].fields["question_count"] = 36
     campaignTrail_temp.candidate_json[0]["fields"].first_name = "Walter";
     campaignTrail_temp.candidate_json[0]["fields"].last_name = "Mondale";
     campaignTrail_temp.candidate_json[3]["fields"].first_name = "Paul Wellstone /";
+    document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
     campaignTrail_temp.candidate_image_url = "https://i.imgur.com/H3mfTRy.png";
     campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/AwKSgqc.jpeg";
+    document.getElementById("header").src = "https://i.imgur.com/h27Qyo0.png";
     campaignTrail_temp.candidate_last_name = "Mondale";
-    campaignTrail_temp.questions_json[25] = {
+    if (campaignTrail_temp.question_number == 23) {
+        document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+        document.getElementById("header").src = "https://i.imgur.com/HXFfxa1.png";
+    };
+    if (campaignTrail_temp.question_number == 24) {
+        document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+        document.getElementById("header").src = "https://i.imgur.com/h27Qyo0.png";
+    };
+    campaignTrail_temp.questions_json[22] = {
         "model": "campaign_trail.question",
         "pk": 10000915,
         "fields": {
             "priority": 0,
-            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something’s happened,” he says. “We’ve been told that Paul’s plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at University Avenue. A few hours later, surrounded by dozens of volunteers and joined by gubernatorial nominee Roger Moe and DFL eminence Warren Spannaus, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
+            "description": "You are with Ted Kennedy at a Wellstone fundraiser in Minneapolis. Suddenly, a staffer tells you both to step outside the room. “Something's happened,” he says. “We've been told that Paul's plane crashed.” After you recover from your shock, you and Kennedy immediately head to the Wellstone headquarters at University Avenue. A few hours later, surrounded by dozens of volunteers and joined by gubernatorial nominee Roger Moe and DFL eminence Warren Spannaus, you are informed by a despondent staffer that the crash had killed Paul, his wife, his daughter, and two aides.",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[23] = {
+        "model": "campaign_trail.question",
+        "pk": 10000917,
+        "fields": {
+            "priority": 0,
+            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state's grieving process.” He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich goes on <i>Meet The Press</i> to bash you, as you've allowed the DFL to leak to the press that you are “highly likely” to run to succeed Wellstone. How will you react to this?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[24] = {
+        "model": "campaign_trail.question",
+        "pk": 10000939,
+        "fields": {
+            "priority": 0,
+            "description": "Paul's two surviving children have hurriedly planned a memorial service for their father in Williams Arena, which you, of course, attend. This service, however, was dotted with political advocacy from start to finish. Many cheered for the arrival of President Clinton, and jeered for the arrival of Majority Leader Lott. A giant beach ball was tossed around the stadium. Rick Kahn, a longtime friend of Wellstone's and treasurer of some of his campaigns, goes as far as to challenge the Republican Senators in the room to back you, and implores the crowd to “help win this election for Paul Wellstone!” Governor Jesse Ventura, at that point, walks out, disgusted.",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[25] = {
+        "model": "campaign_trail.question",
+        "pk": 10000926,
+        "fields": {
+            "priority": 0,
+            "description": "Paul's children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. The party has no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Despite your own misgivings about the way the memorial service is handled, you feel as if you have no other choice. Are you going to bite the bullet?",
             "likelihood": 1
         }
     },
     campaignTrail_temp.questions_json[26] = {
         "model": "campaign_trail.question",
-        "pk": 10000917,
+        "pk": 10000949,
         "fields": {
             "priority": 0,
-            "description": "After the tragic passing of Senator Wellstone, the DFL has suspended its campaign for four days. Norm Coleman has done the same, out of respect, but has maintained his visibility, justifying his continued presence by claiming he is “actively participating in the state’s grieving process”. He even holds a “non-press-conference-press-conference” on his lawn. Meanwhile, Newt Gingrich goes on <i>Meet The Press</i> to bash you, as you've allowed the DFL to leak to the press that you are “highly likely” to run to succeed Wellstone. How will you react to this?",
+            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates and conservative media, eager for content to fuel their radical-right outrage machine, keenly fanning the flames. How will you respond to this outrage?",
             "likelihood": 1
         }
     },
     campaignTrail_temp.questions_json[27] = {
         "model": "campaign_trail.question",
-        "pk": 10000926,
+        "pk": 10000963,
         "fields": {
             "priority": 0,
-            "description": "Paul’s children want you to replace Wellstone on the ballot come November—in fact, David Wellstone has been approaching you about running since Saturday—and the DFL plans to hold an emergency convention at the Historic State Theatre in St. Paul to announce your candidature. You have been mentally preparing to run for days. The party has no other shortlisted candidates and are unsure what to do should you turn them down last-minute. Are you going to bite the bullet?",
+            "description": "Despite your response, it seems this race is closer than anyone else thought it would've been—your lead has all but evaporated overnight. You can't take this for granted anymore. As campaigning restarts, what core message will you present to the voters in the final days of the campaign?",
             "likelihood": 1
         }
     },
     campaignTrail_temp.questions_json[28] = {
-        "model": "campaign_trail.question",
-        "pk": 10000928,
-        "fields": {
-            "priority": 0,
-            "description": "Now that you’re confirmed as the DFL candidate, you have some time during the moratorium to get ready for the campaign ahead of you. Not much time, though—MNGOP chair Ron Eibensteiner says Republicans will formally resume their campaigns with “full vigor” come Wednesday. In the meantime, what will you do to prepare?",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[29] = {
-        "model": "campaign_trail.question",
-        "pk": 10000939,
-        "fields": {
-            "priority": 0,
-            "description": "Paul’s two surviving children have hurriedly planned a memorial service for their father in Williams Arena, which you, of course, attend. This service, however, was dotted with political advocacy from start to finish. Many cheered for the arrival of President Clinton, and jeered for the arrival of Majority Leader Lott. A giant beach ball was tossed around the stadium. Rick Kahn, a longtime friend of Wellstone’s and treasurer of some of his campaigns, goes as far as to challenge the Republican Senators in the room to back you, and exclaims repeatedly “We are going to win this election for Paul Wellstone!” Governor Jesse Ventura, at that point, walks out, disgusted.",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[30] = {
-        "model": "campaign_trail.question",
-        "pk": 10000949,
-        "fields": {
-            "priority": 0,
-            "description": "The backlash to the memorial service was more intense than anyone could have ever imagined, with Republican surrogates and conservative media, eager for content to animate the base, keenly fanning the flames. How will you respond to this outrage?",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[31] = {
-        "model": "campaign_trail.question",
-        "pk": 10000963,
-        "fields": {
-            "priority": 0,
-            "description": "Despite your response, it seems this race is closer than anyone else thought it would’ve been—your lead has all but evaporated overnight. You can’t take this for granted anymore. As campaigning restarts, what core message will you present to the voters in the final days of the campaign?",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[32] = {
         "model": "campaign_trail.question",
         "pk": 10000975,
         "fields": {
@@ -17867,61 +17846,61 @@ if (ans == 10000587) {
             "likelihood": 1
         }
     },
-    campaignTrail_temp.questions_json[33] = {
+    campaignTrail_temp.questions_json[29] = {
         "model": "campaign_trail.question",
         "pk": 10000987,
         "fields": {
             "priority": 0,
-            "description": "Even with just a few days left in the election, every vote counts, and you’re gonna fight for every single one. As over two million dollars in funding flow in from Democratic donors across all fifty states shocked by Wellstone’s passing and outraged at Republicans’ response to the memorial service, what will you spend your massive surplus of campaign funding on?",
+            "description": "Even with just a few days left in the election, every vote counts, and you're gonna fight for every single one. As over two million dollars in funding flow in from Democratic donors across all fifty states shocked by Wellstone's passing and outraged by Republicans' response to the memorial service, what will you spend your massive surplus of campaign funding on?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[30] = {
+        "model": "campaign_trail.question",
+        "pk": 10001000,
+        "fields": {
+            "priority": 0,
+            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this opening, running an ad expressing sorrow for Wellstone's death. What will your marketing campaign focus on?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[31] = {
+        "model": "campaign_trail.question",
+        "pk": 10001081,
+        "fields": {
+            "priority": 0,
+            "description": "As the campaign restarts, your campaign has planned a stumping tour of Minnesota, to meet with as many voters as possible before Election Day. You don't have much time, and Minnesota's a big state, so you've got to be selective with where you visit. Where will you next stop?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[32] = {
+        "model": "campaign_trail.question",
+        "pk": 10001117,
+        "fields": {
+            "priority": 0,
+            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail, the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built,” as he calls it. It's not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
+            "likelihood": 1
+        }
+    },
+    campaignTrail_temp.questions_json[33] = {
+        "model": "campaign_trail.question",
+        "pk": 10001126,
+        "fields": {
+            "priority": 0,
+            "description": "It's the day before the election. Minnesota Public Radio and KARE have organized a final one-on-one debate between you and Coleman in Minneapolis, to ensure that voters have at least something to take away from this bewildering and dramatic race…",
             "likelihood": 1
         }
     },
     campaignTrail_temp.questions_json[34] = {
         "model": "campaign_trail.question",
-        "pk": 10001000,
+        "pk": 10001139,
         "fields": {
             "priority": 0,
-            "description": "No matter the scale of your campaign, there is still enough time in the campaign to run some form of advertising—and Coleman seems to already have exploited this opening, running an ad expressing sorrow for Wellstone’s death. What will your marketing campaign focus on?",
+            "description": "…but it appears that Governor Ventura's surprise press conference has dominated the news cycle instead.<br>During this appearance, Ventura announced that he would nominate MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone's passing. Previous statements indicated that he would leave the seat empty; he claimed he changed his mind out of disgust from Wellstone's “politicized” memorial service. The event was filled with the usual barbs towards the two-party system and the media that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual—possibly indicating that he personally wants to see Coleman beat you.",
             "likelihood": 1
         }
     },
     campaignTrail_temp.questions_json[35] = {
-        "model": "campaign_trail.question",
-        "pk": 10001081,
-        "fields": {
-            "priority": 0,
-            "description": "As the campaign restarts, your campaign has planned a stumping tour of Minnesota, to meet with as many voters as possible before Election Day. You don’t have much time, and Minnesota’s a big state, so you’ve got to be selective with where you visit. Where will you next stop?",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[36] = {
-        "model": "campaign_trail.question",
-        "pk": 10001117,
-        "fields": {
-            "priority": 0,
-            "description": "In the final days of the campaign, Dick Cheney, Laura Bush, and the President himself have all appeared with Coleman on the trail,the latter of whom has done so at the Xcel Eenergy Center in Saint Paul—“the house that Norm built”, as he calls it. It’s not hard to see why—this race is critical if Republicans want a Senate majority, and if the White House wants to enact their agenda in full. Any thoughts?",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[37] = {
-        "model": "campaign_trail.question",
-        "pk": 10001126,
-        "fields": {
-            "priority": 0,
-            "description": "It’s the day before the election. Minnesota Public Radio and KARE have organized a final one-on-one debate between you and Coleman in Minneapolis, to ensure that voters have at least something to take away from this bewildering and dramatic race…",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[38] = {
-        "model": "campaign_trail.question",
-        "pk": 10001139,
-        "fields": {
-            "priority": 0,
-            "description": "…but it appears that Governor Ventura’s surprise press conference has dominated the news cycle instead.<br>During this appearance, Ventura announced that he would nominate MNIP founder Dean Barkley to the U.S. Senate seat vacated by Wellstone’s passing. Previous statements indicated that he would leave the seat empty; he claimed he changed his mind out of disgust from Wellstone’s “politicized” memorial service. The event was filled with the usual barbs towards the two-party system and the media that one would expect from a Ventura press conference, but this one seemed to contain more jabs at the DFL than usual—possibly indicating that he personally wants to see Coleman beat you.",
-            "likelihood": 1
-        }
-    },
-    campaignTrail_temp.questions_json[39] = {
         "model": "campaign_trail.question",
         "pk": 10001154,
         "fields": {
@@ -17932,6 +17911,7 @@ if (ans == 10000587) {
     }
 }
 }
+
 function getTooltips(str) {
     let matches = [];
 
@@ -17993,3 +17973,4 @@ function applyTooltipsToObject(obj) {
 applyTooltipsToObject(campaignTrail_temp.questions_json);
 applyTooltipsToObject(campaignTrail_temp.answers_json);
 applyTooltipsToObject(campaignTrail_temp.answer_feedback_json);
+
