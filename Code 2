@@ -562,7 +562,7 @@ campaignTrail_temp.answers_json = [
         "pk": 10000192,
         "fields": {
             "question": 10000191,
-            "description": "I will loudly oppose this initiative. Why do we impose our misplaced visions of standardized testing upon children as young as eight? Why are we holding our kids responsible for our failure to properly fund the education system? Standardized testing is not the right solution for our kids—instead, we need to spend more to support our public schools and acknowledge that children will be “left behind” if we don't."
+            "description": "I will loudly oppose this initiative. Why do we impose our misplaced visions of standardized testing upon children as young as eight? Why are we holding our kids responsible for our failure to properly fund the education system? Standardized testing is not the right way to fix our public schools—instead, we need to spend more to support them and acknowledge that children will be “left behind” if we don't."
         }
     },
     {
